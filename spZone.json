@@ -22,7 +22,7 @@
     "channel_name": "ESPN",
     "id": "13"
   },
-"static113	": {
+"static113": {
     "stream_link": "http://38.18.238.42:2095/506ESPN2/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8",
     "src": "static",
     "cat_name": "Sports",
