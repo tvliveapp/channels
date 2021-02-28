@@ -1023,7 +1023,7 @@
     "channel_name": "CMT",
     "id": "54"
   },
-  "megatv78 {
+  "megatv78": {
     "stream_link":"http://23.237.29.98:2095/206Studio/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1034,7 +1034,7 @@
     "channel_name": "Studio Universal",
     "id": "53"
   },
-  "megatv79 {
+  "megatv79": {
     "stream_link": "http://23.237.29.98:2095/206Studio/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1045,7 +1045,7 @@
     "channel_name": "Universal Channell",
     "id": "52"
   },
-  "megatv80 {
+  "megatv80": {
     "stream_link": "http://23.237.29.98:2095/211sony/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1053,10 +1053,10 @@
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "SONY"
+    "channel_name": "SONY",
     "id": "51"
   },
-  "megatv81 {
+  "megatv81": {
     "stream_link": "http://23.237.29.98:2095/223TBS/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1064,10 +1064,10 @@
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "TBS
+    "channel_name": "TBS",
     "id": "50"
   },
-  "megatv82 {
+  "megatv82": {
     "stream_link": "http://23.237.29.98:2095/664Cinecanal/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1075,21 +1075,21 @@
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "CINE CANAL
+    "channel_name": "CINE CANAL",
     "id": "49"
   },
-  "megatv83 {
+  "megatv83": {
     "stream_link": "http://23.237.29.98:2095/204SyFyLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
-    "country": "LA,
+    "country": "LA",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "SYFI
+    "channel_name": "SYFI",
     "id": "48"
   },
-  "megatv84 {
+  "megatv84":{
     "stream_link": "https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1100,7 +1100,7 @@
     "channel_name": "RT EN ESPA\\u00d1OL",
     "id": "47"
   },
-  "megatv85 {
+  "megatv85":{
     "stream_link": "http://23.237.29.98:2095/222ISAT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1108,7 +1108,7 @@
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "ISAT
+    "channel_name": "ISAT",
     "id": "46"
   },
   "megatv65": {
