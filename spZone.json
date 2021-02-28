@@ -440,7 +440,7 @@
     "id": "13"
   },
   "static043": {
-    "stream_link": "http://api.wifire.tv/proxy/cookies?url=https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(FU)/index.m3u8",
+    "stream_link": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(FU)/index.m3u8",
     "src": "static",
     "cat_name": "Entertainment",
     "img": "https://easysite.one/img/Focus.png",
@@ -451,7 +451,7 @@
     "id": "13"
   },
   "static044": {
-    "stream_link": "http://api.wifire.tv/proxy/cookies?url=https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(B6)/index.m3u8",
+    "stream_link": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(B6)/index.m3u8",
     "src": "static",
     "cat_name": "Entertainment",
     "img": "https://easysite.one/img/Cine34.png",
@@ -462,7 +462,7 @@
     "id": "13"
   },
   "static045": {
-    "stream_link": "http://api.wifire.tv/proxy/cookies?url=https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KI)/index.m3u8",
+    "stream_link": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KI)/index.m3u8",
     "src": "static",
     "cat_name": "Entertainment",
     "img": "https://easysite.one/img/Iris.png",
