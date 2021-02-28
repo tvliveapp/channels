@@ -87,7 +87,18 @@
     "channel_name": "FOX SPORTS 2 MX",
     "id": "13"
   },
-  "static009": {
+  "static0009": {
+    "stream_link": "http://23.237.78.54/live-1000/244/playlist.m3u8",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://i.imgur.com/SlGP0BA.png",
+    "country": "US",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "ESPN  SUR",
+    "id": "13"
+  },
+"static009": {
     "stream_link": "http://23.237.78.54/live-1000/263/playlist.m3u8",
     "src": "static",
     "cat_name": "Sports",
