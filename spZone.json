@@ -263,8 +263,8 @@
     "channel_name": "LA SEXTA",
     "id": "13"
   },
-  "static026": {
-    "stream_link": "http://api.wifire.tv/proxy/cookies?url=https://open.http.mp.streamamg.com/p/3001240/sp/300124000/playManifest/entryId/0_3o5sspcj/format/applehttp/protocol/https/uiConfId/30026004/a.m3u8",
+  "static026": {"stream_link":
+ "https://open.http.mp.streamamg.com/p/3001240/sp/300124000/playManifest/entryId/0_3o5sspcj/format/applehttp/protocol/https/uiConfId/30026004/a.m3u8",
     "src": "static",
     "cat_name": "SPORTS",
     "img": "",
@@ -319,7 +319,7 @@
     "id": "13"
   },
   "static032": {
-    "stream_link": "http://api.wifire.tv/proxy/cookies?url=https://rtl-radio1-stream.thron.com/live/radio1/radio1/playlist.m3u8",
+    "stream_link": "https://rtl-radio1-stream.thron.com/live/radio1/radio1/playlist.m3u8",
     "src": "static",
     "cat_name": "Entertainment",
     "img": "http://logo.premium-ott.com:8000/logo/rtl102.5.png",
@@ -429,7 +429,7 @@
     "id": "13"
   },
   "static042": {
-    "stream_link": "http://api.wifire.tv/proxy/cookies?url=https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8",
+    "stream_link": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8",
     "src": "static",
     "cat_name": "Entertainment",
     "img": "https://easysite.one/img/Boing.png",
