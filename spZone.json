@@ -694,7 +694,7 @@
     "id": "3"
   },
   "static13": {
-    "stream_link": "http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8",
+    "stream_link": "http://api.wifire.tv/proxy/cookies?url=http://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8",
     "src": "static",
     "cat_name": "Entertainment",
     "img": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png",
@@ -738,7 +738,7 @@
     "id": "3"
   },
   "static9": {
-    "stream_link": "https://5c21f7ec1999d.streamlock.net/8054/8054/chunklist_w148172804.m3u8",
+    "stream_link": "https://us-b4-p-e-xy7.cdn.mdstrm.com/live-stream/5fdd14e2ae4dcc06ebf7546e/publish/media_1800_20210228T044254_151530.ts?uid=hRhCMTUJLFkJfOS2A3SUbPt16n8Vi4x0&sid=ape66KmCYOPzhWbDygEvJWajvVJr4gaz&pid=wASo4B2siXog2ffUjPXPrgmtDFqgqZDa&ref=https%3A%2F%2Fwww.tctelevision.com%2Fen-vivo&without_cookies=false&dnt=true&es=us-b4-p-e-xy7.cdn.mdstrm.com&ote=1614573739006&ot=ps05exIBN19hWknZ_GM3Uw&proto=https&pz=us",
     "src": "static",
     "cat_name": "Entertainment",
     "img": "http://www.rapifutbol.tv/javax.faces.resource/dynamiccontent.properties.jsf;jsessionid=9k5sesV+-DyoXJIDcDjqruEZ.undefined?ln=primefaces&pfdrid=H6AojLbKHXAw5VxJc9SUY69uDesOzTvP&pfdrt=sc&id=1018&pfdrid_c=true",
@@ -804,7 +804,7 @@
     "id": "0"
   },
   "static3": {
-    "stream_link": "http://45.145.187.131:8081/live7/live7/playlist.m3u8",
+    "stream_link": "http://51.222.106.253:25461/jmbalut1968@gmail.com/123/1744?token=TBVZBxcJEAMQUVpUAFcAUQVUUVBTW1BQBgYBWA4AUl1WAwFSAVEKDVEXFUFDQkAEUwxsCAUaDgAHUA1NG0MVAUVoWAJGWxAIBgMNWhIaEBVbDFZDWwkCAARQAVcAD15IFUdYAkZbEAsHAglBHBRXGUYEQQ8AVGtVVRJQAlwUXApCW11KRg5cZlZQVAJeUhBbEFERTUNRR0ESXlcUVVpKRlVeRRQFFVcbCBcLVwYGEE0QAlwUD0xGSBJeGyR6FEpGUk9FAwoSW1ZcFwNBREUQTRAIQD4TXUdFQgFYDFxERF4VBxNKRgxTQW1WVg1eU1EVWw5dEkMCFgQSSBsMVlgPEFhFbhYNBRADEA0AWwkUTw==",
     "src": "static",
     "cat_name": "SPORTS",
     "img": "https://2.bp.blogspot.com/-C2tWusVsFQE/XraFbl_XaoI/AAAAAAAAAKo/L79Pe0K44B0A_eUdnRdAm54OXzXi6PWvgCLcBGAsYHQ/s320/gol-tv-e1557197971508.png",
