@@ -88,7 +88,7 @@
     "id": "13"
   },
   "static0009": {
-    "stream_link": "http://23.237.78.54/live-1000/244/playlist.m3u8",
+    "stream_link": "http://23.237.78.54/live-1000/263/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvOS8yMDIwIDc6NTg6MDUgUE0maGFzaF92YWx1ZT0rejBWd0ZuR3BGUERBb0I5aXlpaVdRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMw==",
     "src": "static",
     "cat_name": "Sports",
     "img": "https://i.imgur.com/SlGP0BA.png",
@@ -891,117 +891,117 @@
     "channel_name": "CARTOON NETWORK HD",
     "id": "66"
   },
-  "megatv65": {
-    "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1489.m3u8",
+  "megatv67": {
+    "stream_link": "http://38.18.238.42:2095/9604UNVSN/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
-    "country": "INT",
+    "country": "MX",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "DISNEY JUNIOR HD",
+    "channel_name": "UNIVISION",
     "id": "65"
   },
-  "megatv65": {
-    "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1575.m3u8",
+  "megatv68": {
+    "stream_link": "http://38.18.238.35:2095/0000/CH=%C2%A0PR-WLII/chunks.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "NICK HD",
+    "channel_name": "UNIVISION PR",
     "id": "64"
   },
-  "megatv65": {
-    "stream_link": "http://iptvhd.club:25461/live/aptv2020/Muuxp9n17j/1520.m3u8",
+  "megatv68": {
+    "stream_link": "http://38.18.238.42:2095/0000/CH=%C2%A0PR-%C2%A0WAPA/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "DISCOVERY KIDS HD",
+    "channel_name": "WAPA TV",
     "id": "63"
   },
-  "megatv65": {
-    "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/204.m3u8",
+  "megatv69": {
+    "stream_link": "http://38.18.238.35:2095/0000/CH=%C2%A0PR-%C2%A0WAPA2/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "TOONCAST HD",
+    "channel_name": "WAPA TV 2",
     "id": "62"
   },
-  "megatv65": {
-    "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1481.m3u8",
+  "megatv70": {
+    "stream_link": "http://23.237.29.98:2095/212E!Latino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "BOOMERANG HD",
+    "channel_name": "E!",
     "id": "61"
   },
-  "megatv65": {
-    "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1490.m3u8",
+  "megatv71": {
+    "stream_link": "http://23.237.29.98:2095/214AELatino/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
-    "country": "INT",
+    "country": "LA",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "DISNEY XD HD",
+    "channel_name": "E&A",
     "id": "60"
   },
-  "megatv65": {
-    "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1488.m3u8",
+  "megatv72": {
+    "stream_link": "http://23.237.29.98:2095/220TVC/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "DISNEY CHANNEL HD",
+    "channel_name": "TRUE TV",
     "id": "59"
   },
-  "megatv65": {
-    "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1482.m3u8",
+  "megatv73": {
+    "stream_link": "http://23.237.29.98:2095/218Hola/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "CINECANAL HD",
+    "channel_name": "HOLA TV",
     "id": "58"
   },
-  "megatv65": {
-    "stream_link": "https://edge10-hr.cvattv.com.ar//live/c2live/Cinemax/SA_Live_dash_enc/Cinemax.mpd|http://sv.tsnt.xyz/cv.php",
+  "megatv74": {
+    "stream_link": "http://23.237.29.98:2095/608CineLatino/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "CINEMAX HD",
+    "channel_name": "CINE LATINO",
     "id": "57"
   },
-  "megatv65": {
-    "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1556.m3u8",
+  "megatv75": {
+    "stream_link": "http://23.237.29.98:2095/606MultiPremiere/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "HBO FAMILY",
+    "channel_name": "MULTIPREMIER",
     "id": "56"
   },
-  "megatv55": {
+  "megatv76": {
     "stream_link": "http://38.18.238.42:2095/654HBOPlus/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1012,7 +1012,7 @@
     "channel_name": "HBO PLUS",
     "id": "55"
   },
-  "megatv65": {
+  "megatv77": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1555.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1020,76 +1020,76 @@
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "HBO 2",
+    "channel_name": "CMT",
     "id": "54"
   },
-  "megatv65": {
-    "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1467.m3u8",
+  "megatv78 {
+    "stream_link":"http://23.237.29.98:2095/206Studio/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "HBO HD",
+    "channel_name": "Studio Universal",
     "id": "53"
   },
-  "megatv52": {
-    "stream_link": "http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8",
+  "megatv79 {
+    "stream_link": "http://23.237.29.98:2095/206Studio/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "WOW",
+    "channel_name": "Universal Channell",
     "id": "52"
   },
-  "megatv65": {
-    "stream_link": "http://tvla.xyz:80/live/123456/123456/34912.m3u8",
+  "megatv80 {
+    "stream_link": "http://23.237.29.98:2095/211sony/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "GOLDEN PREMIER",
+    "channel_name": "SONY"
     "id": "51"
   },
-  "megatv65": {
-    "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/164.m3u8",
+  "megatv81 {
+    "stream_link": "http://23.237.29.98:2095/223TBS/transco7/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "GOLDEN PLUS HD",
+    "channel_name": "TBS
     "id": "50"
   },
-  "megatv65": {
-    "stream_link": "https://chromecast.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd|http://sv.tsnt.xyz/cv.php",
+  "megatv82 {
+    "stream_link": "http://23.237.29.98:2095/664Cinecanal/transco13/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "SPACE HD",
+    "channel_name": "CINE CANAL
     "id": "49"
   },
-  "megatv65": {
-    "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/176.m3u8",
+  "megatv83 {
+    "stream_link": "http://23.237.29.98:2095/204SyFyLatin/transco1/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
-    "country": "INT",
+    "country": "LA,
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "STUDIO UNIVERSAL",
+    "channel_name": "SYFI
     "id": "48"
   },
-  "megatv47": {
+  "megatv84 {
     "stream_link": "https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1100,15 +1100,15 @@
     "channel_name": "RT EN ESPA\\u00d1OL",
     "id": "47"
   },
-  "megatv65": {
-    "stream_link": "http://iptvhd.club:25461/live/aptv2020/pVJVwF8LDt/1501.m3u8",
+  "megatv85 {
+    "stream_link": "http://23.237.29.98:2095/222ISAT/transco14/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/playlist.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
     "img": "https://www.megatelevisionhd.tk/favicon.ico",
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "FOX PREMIUM MOVIES",
+    "channel_name": "ISAT
     "id": "46"
   },
   "megatv65": {
