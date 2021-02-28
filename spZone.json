@@ -473,7 +473,7 @@
     "id": "13"
   },
   "static046": {
-    "stream_link": "http://api.wifire.tv/proxy/cookies?url=https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LT)/index.m3u8",
+    "stream_link": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LT)/index.m3u8",
     "src": "static",
     "cat_name": "Entertainment",
     "img": "https://easysite.one/img/Topcrime.png",
@@ -484,7 +484,7 @@
     "id": "13"
   },
   "static047": {
-    "stream_link": "http://api.wifire.tv/proxy/cookies?url=https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8",
+    "stream_link": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8",
     "src": "static",
     "cat_name": "Entertainment",
     "img": "http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_italia2.jpg",
@@ -495,7 +495,7 @@
     "id": "13"
   },
   "static048": {
-    "stream_link": "http://api.wifire.tv/proxy/cookies?url=https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8",
+    "stream_link": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(I1)/index.m3u8",
     "src": "static",
     "cat_name": "Entertainment",
     "img": "http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_italia1.jpg",
@@ -506,7 +506,7 @@
     "id": "13"
   },
   "static049": {
-    "stream_link": "http://api.wifire.tv/proxy/cookies?url=https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8",
+    "stream_link": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(C5)/index.m3u8",
     "src": "static",
     "cat_name": "Entertainment",
     "img": "http://www.tv-logo.com/pt-data/uploads/images/logo/mediaset_canale5.jpg",
@@ -528,7 +528,7 @@
     "id": "13"
   },
   "static051": {
-    "stream_link": "http://api.wifire.tv/proxy/cookies?url=https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8",
+    "stream_link": "https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8",
     "src": "static",
     "cat_name": "Entertainment",
     "img": "http://www.tv-logo.com/pt-data/uploads/images/logo/rai_news_24.jpg",
@@ -539,7 +539,7 @@
     "id": "13"
   },
   "static052": {
-    "stream_link": "http://api.wifire.tv/proxy/cookies?url=https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/index.m3u8",
+    "stream_link": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(LB)/index.m3u8",
     "src": "static",
     "cat_name": "Entertainment",
     "img": "https://easysite.one/img/20.png",
@@ -550,7 +550,7 @@
     "id": "13"
   },
   "static26": {
-    "stream_link": "http://api.wifire.tv/proxy/cookies?url=https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(B7)/index.m3u8",
+    "stream_link": "https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(B7)/index.m3u8",
     "src": "static",
     "cat_name": "Entertainment",
     "img": "https://easysite.one/img/MediasetExtra.png",
@@ -582,17 +582,6 @@
     "channel_name": "RETE 4",
     "id": "13"
   },
-  "static23": {
-    "stream_link": "https://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-p.m3u8?sd=10&rebase=on",
-    "src": "static",
-    "cat_name": "Entertainment",
-    "img": "https://easysite.one/img/RaiGulp.png",
-    "country": "IT",
-    "cat_id": "1",
-    "srclink": "/",
-    "channel_name": "RAI GULP",
-    "id": "13"
-  },
   "static22": {
     "stream_link": "https://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8?sd=10&rebase=on",
     "src": "static",
@@ -615,15 +604,27 @@
     "channel_name": "RAI PREMIUM",
     "id": "13"
   },
-  "static20": {
-    "stream_link": "https://raiuno2-live.akamaized.net/hls/live/598309/raiuno2/raiuno2/rai1_2400/chunklist.m3u8",
+"static20": {
+    "stream_link": "http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8",
     "src": "static",
     "cat_name": "Entertainment",
     "img": "http://www.tv-logo.com/pt-data/uploads/images/logo/rai_1.jpg",
     "country": "IT",
     "cat_id": "1",
     "srclink": "/",
-    "channel_name": "RAI 1",
+    "channel_name": "RAI 3",
+    "id": "13"
+  },
+
+  "static200": {
+    "stream_link": "https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8",
+    "src": "static",
+    "cat_name": "SPORTS",
+    "img": "http://www.tv-logo.com/pt-data/uploads/images/logo/rai_1.jpg",
+    "country": "IT",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "RAI SPORTS",
     "id": "13"
   },
   "static19": {
