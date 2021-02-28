@@ -833,7 +833,7 @@
     "country": "AR",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "FOX SPORT 2",
+    "channel_name": "FOX SPORT 2 MX",
     "id": "-3"
   },
   "static113": {
@@ -844,7 +844,7 @@
     "country": "LA",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "FOX SPORT 3",
+    "channel_name": "FOX SPORT 3 MX",
     "id": "-3"
   },
   "static109": {
@@ -891,7 +891,7 @@
     "channel_name": "DISNEY JUNIOR HD",
     "id": "65"
   },
-  "megatv64": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1575.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -902,7 +902,7 @@
     "channel_name": "NICK HD",
     "id": "64"
   },
-  "megatv63": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/aptv2020/Muuxp9n17j/1520.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -913,7 +913,7 @@
     "channel_name": "DISCOVERY KIDS HD",
     "id": "63"
   },
-  "megatv62": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/204.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -924,7 +924,7 @@
     "channel_name": "TOONCAST HD",
     "id": "62"
   },
-  "megatv61": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1481.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -935,7 +935,7 @@
     "channel_name": "BOOMERANG HD",
     "id": "61"
   },
-  "megatv60": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1490.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -946,7 +946,7 @@
     "channel_name": "DISNEY XD HD",
     "id": "60"
   },
-  "megatv59": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1488.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -957,7 +957,7 @@
     "channel_name": "DISNEY CHANNEL HD",
     "id": "59"
   },
-  "megatv58": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1482.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -968,7 +968,7 @@
     "channel_name": "CINECANAL HD",
     "id": "58"
   },
-  "megatv57": {
+  "megatv65": {
     "stream_link": "https://edge10-hr.cvattv.com.ar//live/c2live/Cinemax/SA_Live_dash_enc/Cinemax.mpd|http://sv.tsnt.xyz/cv.php",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -979,7 +979,7 @@
     "channel_name": "CINEMAX HD",
     "id": "57"
   },
-  "megatv56": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1556.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1001,7 +1001,7 @@
     "channel_name": "HBO PLUS",
     "id": "55"
   },
-  "megatv54": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1555.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1012,7 +1012,7 @@
     "channel_name": "HBO 2",
     "id": "54"
   },
-  "megatv53": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1467.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1034,7 +1034,7 @@
     "channel_name": "WOW",
     "id": "52"
   },
-  "megatv51": {
+  "megatv65": {
     "stream_link": "http://tvla.xyz:80/live/123456/123456/34912.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1045,7 +1045,7 @@
     "channel_name": "GOLDEN PREMIER",
     "id": "51"
   },
-  "megatv50": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/164.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1056,7 +1056,7 @@
     "channel_name": "GOLDEN PLUS HD",
     "id": "50"
   },
-  "megatv49": {
+  "megatv65": {
     "stream_link": "https://chromecast.cvattv.com.ar/live/c3eds/Space/SA_Live_dash_enc/Space.mpd|http://sv.tsnt.xyz/cv.php",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1067,7 +1067,7 @@
     "channel_name": "SPACE HD",
     "id": "49"
   },
-  "megatv48": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/176.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1089,7 +1089,7 @@
     "channel_name": "RT EN ESPA\\u00d1OL",
     "id": "47"
   },
-  "megatv46": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/aptv2020/pVJVwF8LDt/1501.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1100,7 +1100,7 @@
     "channel_name": "FOX PREMIUM MOVIES",
     "id": "46"
   },
-  "megatv45": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1495.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1111,7 +1111,7 @@
     "channel_name": "FOX PREMIUM SERIES",
     "id": "45"
   },
-  "megatv44": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/mitv2020/yOcqrVnZS8/1496.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1122,7 +1122,7 @@
     "channel_name": "FOX PREMIUM ACTION",
     "id": "44"
   },
-  "megatv43": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1494.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1133,7 +1133,7 @@
     "channel_name": "FXM HD",
     "id": "43"
   },
-  "megatv42": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1641.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1144,7 +1144,7 @@
     "channel_name": "FX HD",
     "id": "42"
   },
-  "megatv41": {
+  "megatv65": {
     "stream_link": "https://chromecast.cvattv.com.ar/live/c3eds/FOXHD/SA_Live_dash_enc/FOXHD.mpd|http://sv.tsnt.xyz/cv.php",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1155,7 +1155,7 @@
     "channel_name": "FOX CHANNEL HD",
     "id": "41"
   },
-  "megatv40": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1559.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1166,7 +1166,7 @@
     "channel_name": "FOX LIFE HD",
     "id": "40"
   },
-  "megatv39": {
+  "megatv65": {
     "stream_link": "https://chromecast.cvattv.com.ar/live/c3eds/Gourmet/SA_Live_dash_enc/Gourmet.mpd|http://sv.tsnt.xyz/cv.php",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1177,7 +1177,7 @@
     "channel_name": "EL GOURMET",
     "id": "39"
   },
-  "megatv38": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1536.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1210,7 +1210,7 @@
     "channel_name": "PARAMOUNT CHANNEL",
     "id": "36"
   },
-  "megatv35": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1476.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1221,7 +1221,7 @@
     "channel_name": "A&E HD",
     "id": "35"
   },
-  "megatv34": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/223.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1232,7 +1232,7 @@
     "channel_name": "MTV",
     "id": "34"
   },
-  "megatv33": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/174.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1243,7 +1243,7 @@
     "channel_name": "AMC HD",
     "id": "33"
   },
-  "megatv32": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1475.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1254,7 +1254,7 @@
     "channel_name": "CANAL SONY HD",
     "id": "32"
   },
-  "megatv31": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1506.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1265,7 +1265,7 @@
     "channel_name": "WARNER TV HD",
     "id": "31"
   },
-  "megatv30": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1553.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1276,7 +1276,7 @@
     "channel_name": "UNIVERSAL CHANNEL HD",
     "id": "30"
   },
-  "megatv29": {
+  "megatv65": {
     "stream_link": "https://chromecast.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_Live_dash_enc/TNT_HD_Arg.mpd|http://sv.tsnt.xyz/cv.php",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1309,7 +1309,7 @@
     "channel_name": "TOP LATINO",
     "id": "27"
   },
-  "megatv26": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/145.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1320,7 +1320,7 @@
     "channel_name": "TLNOVELAS",
     "id": "26"
   },
-  "megatv25": {
+  "megatv65": {
     "stream_link": "https://chromecast.cvattv.com.ar/live/c2live/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd|http://sv.tsnt.xyz/cv.php",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1331,7 +1331,7 @@
     "channel_name": "CANAL DE LAS ESTRELLAS",
     "id": "25"
   },
-  "megatv24": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1710.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1342,7 +1342,7 @@
     "channel_name": "MULTI PREMIER",
     "id": "24"
   },
-  "megatv23": {
+  "megatv65": {
     "stream_link": "https://chromecast.cvattv.com.ar/live/c3eds/TyCSport/SA_Live_dash_enc_2A/TyCSport.mpd|http://sv.tsnt.xyz/cv.php",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1353,7 +1353,7 @@
     "channel_name": "TYC SPORTS",
     "id": "23"
   },
-  "megatv22": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/aptv2020/Muuxp9n17j/1841.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1364,7 +1364,7 @@
     "channel_name": "TNT SPORTS",
     "id": "22"
   },
-  "megatv21": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1843.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1375,7 +1375,7 @@
     "channel_name": "WIN SPORTS HD",
     "id": "21"
   },
-  "megatv20": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/aptv2020/Muuxp9n17j/1847.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1386,7 +1386,7 @@
     "channel_name": "DIRECTV SPORTS +",
     "id": "20"
   },
-  "megatv19": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/aptv2020/Muuxp9n17j/1846.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1408,7 +1408,7 @@
     "channel_name": "DIRECTV SPORTS",
     "id": "18"
   },
-  "megatv17": {
+  "megatv65": {
     "stream_link": "https://chromecast.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd|http://sv.tsnt.xyz/cv.php",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1419,7 +1419,7 @@
     "channel_name": "ESPN 2 HD",
     "id": "17"
   },
-  "megatv16": {
+  "megatv65": {
     "stream_link": "https://chromecast.cvattv.com.ar/live/c2live/ESPN_HD/SA_Live_dash_enc/ESPN_HD.mpd|http://sv.tsnt.xyz/cv.php",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1430,7 +1430,7 @@
     "channel_name": "ESPN HD",
     "id": "16"
   },
-  "megatv15": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1838.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1449,10 +1449,10 @@
     "country": "INT",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "FOX SPORTS 2 HD",
+    "channel_name": "FOX SPORTS 2 HD MX",
     "id": "14"
   },
-  "megatv13": {
+  "megatv65": {
     "stream_link": "https://chromecast.cvattv.com.ar/live/c3eds/FoxSports/SA_Live_dash_enc_2A/FoxSports.mpd|http://sv.tsnt.xyz/cv.php",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1474,7 +1474,7 @@
     "channel_name": "GOL PER\\u00da",
     "id": "12"
   },
-  "megatv11": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1511.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1485,7 +1485,7 @@
     "channel_name": "DISCOVERY TURBO",
     "id": "11"
   },
-  "megatv10": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1551.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1496,7 +1496,7 @@
     "channel_name": "DISCOVERY THEATER",
     "id": "10"
   },
-  "megatv9": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1507.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1507,7 +1507,7 @@
     "channel_name": "NATGEO WILD HD",
     "id": "9"
   },
-  "megatv8": {
+  "megatv65": {
     "stream_link": "https://chromecast.cvattv.com.ar/live/c3eds/NatGeoHD/SA_Live_dash_enc/NatGeoHD.mpd|http://sv.tsnt.xyz/cv.php",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1529,7 +1529,7 @@
     "channel_name": "HISTORY 2",
     "id": "7"
   },
-  "megatv6": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1509.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1540,7 +1540,7 @@
     "channel_name": "HISTORY HD",
     "id": "6"
   },
-  "megatv5": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1513.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1551,7 +1551,7 @@
     "channel_name": "ANIMAL PLANET",
     "id": "5"
   },
-  "megatv4": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1512.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1562,7 +1562,7 @@
     "channel_name": "INVESTIGACI\\u00d3N DISCOVERY HD",
     "id": "4"
   },
-  "megatv3": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/apk2020/6SP6sUDnIx/1563.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1573,7 +1573,7 @@
     "channel_name": "DISCOVERY TLC",
     "id": "3"
   },
-  "megatv2": {
+  "megatv65": {
     "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1487.m3u8",
     "src": "megatv",
     "cat_name": "SPORTS",
@@ -1594,5 +1594,17 @@
     "srclink": "/",
     "channel_name": "DISCOVERY CHANNEL HD",
     "id": "1"
+  },
+"megatv65": {
+    "stream_link": "http://iptvhd.club:25461/live/mitv2020/yOcqrVnZS8/1487.m3u8",
+    "src": "megatv",
+    "cat_name": "SPORTS",
+    "img": "https://www.megatelevisionhd.tk/favicon.ico",
+    "country": "INT",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "DISCOVERY HOME & HEALTH",
+    "id": "2"
   }
+
 }
