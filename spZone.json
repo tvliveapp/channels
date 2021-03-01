@@ -1,5 +1,54 @@
 {
-  "static001": {
+  "static4000": {
+    "stream_link": "http://matiasstornini00.shortcm.li:80/shio1.m3u8",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
+    "country": "ES",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "LA LIGA",
+    "id": "13"
+  },
+
+"static3000": {
+    "stream_link": "https://hn2.gt-app.com/hls/iBarVSrm15.m3u8",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
+    "country": "ES",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "LA LIGA",
+    "id": "13"
+  },
+
+ "static2000": {
+    "stream_link": "https://hn1.gt-app.com/hls/iBarVSrm15.m3u8",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
+    "country": "ES",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "LA LIGA",
+    "id": "13"
+  },
+
+ "static1000": {
+    "stream_link": "http://38.18.237.42:2095/andromeda/BEINES/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
+    "country": "ES",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "BEIN ES",
+    "id": "13"
+  },
+
+
+  "static000": {
     "stream_link": "http://91.126.141.12:1935/live/smil:gol.smil/chunklist_w1848236890_b3128000_sleng.m3u8",
     "src": "static",
     "cat_name": "Sports",
@@ -8,6 +57,18 @@
     "cat_id": "5",
     "srclink": "/",
     "channel_name": "GOL",
+    "id": "13"
+  },
+  
+"static001": {
+    "stream_link": "http://38.18.238.42:2095/502FoxSport1/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
+    "country": "MX",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "FOX SPORT",
     "id": "13"
   },
   "static002": {
@@ -65,6 +126,43 @@
     "channel_name": "ESPN 3",
     "id": "13"
   },
+"static10007": {
+    "stream_link": "http://38.18.238.42:2095/504clarosport/transco8/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/220px-TUDN_Logo.svg.png",
+    "country": "LA",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "CLARO SPORTS",
+    "id": "13"
+  },
+
+"static20007": {
+    "stream_link": "http://38.18.238.42:2095/transco10/9509UNVSO/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/220px-TUDN_Logo.svg.png",
+    "country": "LA",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "UNIVERSO",
+    "id": "13"
+  },
+
+"static30007": {
+    "stream_link": "http://23.237.88.131:25461/live/jorge18/1234/63541.ts.m3u8?token=HhsMVUpYRAkSDwJZUFFSBgtRVAwAB1YCCwEEVQNXBgRQW1BRDwEEUAAVShpBRxRWWFlqXFwXWFcBUQcHGBEQQwBLO11dElwRCARTCQMRShFNXVhQGg9STRAUWlIWCUcCVglVARscRFZIQwNKXFIKbF1RQ1xbUEBbXBFfWhgRCl46XQFZWF4CEQoVVhoeEQ9ASRYPW01ZDk0QBlpCRlIRVUcDRg0PBEQfElQJTVxHFEobDhdwexdOQ1ccR1NaQAxfCxteFlQDEwsSG0RRQWwUVkpAR1BZWAcTEF4RBhYfR10EQTtXVl4IVlNDD1dcQEQJGwcXGRpYDQ9bEFxEa0MMVEcDRgcNCFcRTQ==",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/220px-TUDN_Logo.svg.png",
+    "country": "LA",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "EL CANAL DEL FUTBOL",
+    "id": "13"
+  },
+
+
   "static007": {
     "stream_link": "http://38.18.238.42:2095/9556UTDN/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/chunks.m3u8",
     "src": "static",
