@@ -1,12 +1,12 @@
 {
   "TEST1": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=TEST1&fnc=fcn",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=TEST1&fnc=iptvhd",
     "src": "static",
     "cat_name": "Sports",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
     "country": "ES",
     "cat_id": "5",
-    "srclink": "fcn",
+    "srclink": "iptvhd",
     "channel_name": "TEST",
     "id": "13"
   },
