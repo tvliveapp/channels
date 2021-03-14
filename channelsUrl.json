@@ -1298,14 +1298,14 @@
     "id": "1"
   },
   "TEST1": {
-    "stream_link": "http://tvliveapp-proxy.herokuapp.com/ref/aHR0cDovL2lwdHZoZC5jbHViL2FwdHYvdmlwL2NhYmxlaGQucGhwP2lkPTE0NzZffGxvYUI2b0laT2xhODkydTFxOXFvaTlqMzFCcnpMUnpRZ2ZUcnZYWUduZklWcmt3Yjk0MDJRQTQ0TGt5WmY5OHhtTXpuVVRxcG9JWm9lUWs=",
+    "stream_link": "http://cdn89.sportsbay.site:2052/live-2/297/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNC8yMDIxIDg6MDU6MzQgUE0maGFzaF92YWx1ZT1HejFWa0pUUmNrbGEvVkhyRHRuRzlRPT0mdmFsaWRtaW51dGVzPTEyMCZzdHJtX2xlbj0xMA==",
     "src": "static",
     "cat_name": "Sports",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
     "country": "ES",
     "cat_id": "5",
-    "srclink": "iptvhd",
-    "channel_name": "TEST",
+    "srclink": "/",
+    "channel_name": "BOCA - RIVER",
     "id": "13"
   },
   "aptv1": {
