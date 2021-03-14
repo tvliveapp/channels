@@ -1,5 +1,5 @@
 {
-  "TEST1": {
+  "BOCA-RIVER": {
     "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=TEST1&fnc=iptvhd",
     "src": "static",
     "cat_name": "Sports",
