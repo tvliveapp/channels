@@ -1,6 +1,6 @@
 {
   "BOCA-RIVER": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=TEST1&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=BOCA-RIVER&fnc=/",
     "src": "static",
     "cat_name": "Sports",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
