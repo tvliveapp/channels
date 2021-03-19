@@ -1,4 +1,15 @@
 {
+  "fxar1": {
+    "stream_link": "fs1ar",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/220px-TUDN_Logo.svg.png",
+    "country": "LA",
+    "cat_id": "5",
+    "srclink": "fxFcn",
+    "channel_name": "fox sport AR 1",
+    "id": "13"
+  },
   "static30007": {
     "stream_link": "http://23.237.88.131:25461/live/jorge18/1234/63541.ts.m3u8?token=HhsMVUpYRAkSDwJZUFFSBgtRVAwAB1YCCwEEVQNXBgRQW1BRDwEEUAAVShpBRxRWWFlqXFwXWFcBUQcHGBEQQwBLO11dElwRCARTCQMRShFNXVhQGg9STRAUWlIWCUcCVglVARscRFZIQwNKXFIKbF1RQ1xbUEBbXBFfWhgRCl46XQFZWF4CEQoVVhoeEQ9ASRYPW01ZDk0QBlpCRlIRVUcDRg0PBEQfElQJTVxHFEobDhdwexdOQ1ccR1NaQAxfCxteFlQDEwsSG0RRQWwUVkpAR1BZWAcTEF4RBhYfR10EQTtXVl4IVlNDD1dcQEQJGwcXGRpYDQ9bEFxEa0MMVEcDRgcNCFcRTQ==",
     "src": "static",

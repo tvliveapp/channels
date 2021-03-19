@@ -1,13 +1,13 @@
 {
-  "BOCA-RIVER": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=BOCA-RIVER&fnc=/",
+  "fxar1": {
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=fxar1&fnc==/&fnc=fxFcn",
     "src": "static",
     "cat_name": "Sports",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
     "country": "ES",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "BOCA-RIVER",
+    "channel_name": "fxar1",
     "id": "13"
   },
   "static30007": {
