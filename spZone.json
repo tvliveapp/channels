@@ -11,7 +11,7 @@
     "id": "13"
   },
   "fs3ar": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=fs3ar&fnc==/&fnc=fxFcn",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=fs3ar&fnc==/&fnc=foxPrFcn",
     "src": "static",
     "cat_name": "Sports",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
@@ -22,7 +22,7 @@
     "id": "13"
   },
   "fs2ar": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=fs2ar&fnc==/&fnc=fxFcn",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=fs2ar&fnc==/&fnc=foxPrFcn",
     "src": "static",
     "cat_name": "Sports",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
@@ -33,7 +33,7 @@
     "id": "13"
   },
   "fxar1": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=fxar1&fnc==/&fnc=fxFcn",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=fxar1&fnc==/&fnc=foxPrFcn",
     "src": "static",
     "cat_name": "Sports",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
