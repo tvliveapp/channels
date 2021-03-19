@@ -1,4 +1,37 @@
 {
+  "fspar": {
+    "stream_link": "fspar",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/220px-TUDN_Logo.svg.png",
+    "country": "LA",
+    "cat_id": "5",
+    "srclink": "fxFcn",
+    "channel_name": "fox sport P Ar",
+    "id": "13"
+  },
+  "fs3ar": {
+    "stream_link": "fs3ar",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/220px-TUDN_Logo.svg.png",
+    "country": "LA",
+    "cat_id": "5",
+    "srclink": "fxFcn",
+    "channel_name": "fox sport AR 3",
+    "id": "13"
+  },
+  "fs2ar": {
+    "stream_link": "fs2ar",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/220px-TUDN_Logo.svg.png",
+    "country": "LA",
+    "cat_id": "5",
+    "srclink": "fxFcn",
+    "channel_name": "fox sport AR 2",
+    "id": "13"
+  },
   "fxar1": {
     "stream_link": "fs1ar",
     "src": "static",

@@ -1,4 +1,37 @@
 {
+  "fspar": {
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=fspar&fnc==/&fnc=fxFcn",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
+    "country": "ES",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "fspar",
+    "id": "13"
+  },
+  "fs3ar": {
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=fs3ar&fnc==/&fnc=fxFcn",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
+    "country": "ES",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "fs3ar",
+    "id": "13"
+  },
+  "fs2ar": {
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=fs2ar&fnc==/&fnc=fxFcn",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
+    "country": "ES",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "fs2ar",
+    "id": "13"
+  },
   "fxar1": {
     "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=fxar1&fnc==/&fnc=fxFcn",
     "src": "static",
