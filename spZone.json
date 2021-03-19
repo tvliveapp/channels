@@ -1,6 +1,6 @@
 {
   "fspar": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=fspar&fnc=fxFcn",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=fspar&fnc=foxPrFcn",
     "src": "static",
     "cat_name": "Sports",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
