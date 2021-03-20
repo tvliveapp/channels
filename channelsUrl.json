@@ -1,5 +1,27 @@
 {
-  "fspar": {
+"salv1": {
+    "stream_link": "http://mundo3.servebeer.com:8000/live/Osvaldo311220/2839594/4022.m3u8",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/220px-TUDN_Logo.svg.png",
+    "country": "LA",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "fox sport P Ar",
+    "id": "13"
+  }, 
+  "tigosp": {
+    "stream_link": "http://mundo3.servebeer.com:8000/live/Osvaldo311220/2839594/764102.m3u8",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/220px-TUDN_Logo.svg.png",
+    "country": "LA",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "fox sport P Ar",
+    "id": "13"
+  },
+"fspar": {
     "stream_link": "fspar",
     "src": "static",
     "cat_name": "Sports",
