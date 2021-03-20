@@ -176,7 +176,7 @@
     "id": "-3"
   },
   "salv1": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=salv&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=salv1&fnc=/",
     "src": "static",
     "cat_name": "ENTERTAIMENT",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Milenio_Television.png/150px-Milenio_Television.png",
