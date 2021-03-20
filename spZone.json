@@ -76,6 +76,28 @@
     "channel_name": "CLARO SPORTS",
     "id": "13"
   },
+   "drtv": {
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=drtv&fnc=/",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
+    "country": "ES",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "Direct tv",
+    "id": "13"
+  },
+  "beines": {
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=beines&fnc=/",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
+    "country": "ES",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "Bein es",
+    "id": "13"
+  },
   "static4000": {
     "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=static4000&fnc=/",
     "src": "static",
@@ -140,6 +162,39 @@
     "cat_id": "5",
     "srclink": "/",
     "channel_name": "RAI SPORTS",
+    "id": "13"
+  },
+   "sextahd": {
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=sextahd&fnc=/",
+    "src": "static",
+    "cat_name": "SPORTS",
+    "img": "http://www.tv-logo.com/pt-data/uploads/images/logo/rai_1.jpg",
+    "country": "IT",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "La  6 HD,
+    "id": "13"
+  },
+  "mega": {
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=mega&fnc=/",
+    "src": "static",
+    "cat_name": "SPORTS",
+    "img": "http://www.tv-logo.com/pt-data/uploads/images/logo/rai_1.jpg",
+    "country": "IT",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "Mega",
+    "id": "13"
+  },
+  "la5hd": {
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=la5hd&fnc=/",
+    "src": "static",
+    "cat_name": "SPORTS",
+    "img": "http://www.tv-logo.com/pt-data/uploads/images/logo/rai_1.jpg",
+    "country": "IT",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "La 5 hd",
     "id": "13"
   },
   "static113": {
