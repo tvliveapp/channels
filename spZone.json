@@ -109,6 +109,17 @@
     "channel_name": "LA LIGA",
     "id": "13"
   },
+  "static20001": {
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=static2000&fnc=/",
+    "src": "static",
+    "cat_name": "Sports",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
+    "country": "ES",
+    "cat_id": "5",
+    "srclink": "/",
+    "channel_name": "LA LIGA",
+    "id": "13"
+  },
   "static1000": {
     "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=static1000&fnc=/",
     "src": "static",
