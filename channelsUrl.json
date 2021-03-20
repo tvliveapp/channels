@@ -484,7 +484,7 @@
     "id": "1"
   },
   "static4": {
-    "stream_link": "http://45.145.187.131:8081/live6/live6/playlist.m3u8",
+    "stream_link": "http://198.144.159.40/hls8/playlist.m3u8?co=95ce7a46dd76d89306ab95ccb3e9fa5d",
     "src": "static",
     "cat_name": "SPORTS",
     "img": "https://2.bp.blogspot.com/-C2tWusVsFQE/XraFbl_XaoI/AAAAAAAAAKo/L79Pe0K44B0A_eUdnRdAm54OXzXi6PWvgCLcBGAsYHQ/s320/gol-tv-e1557197971508.png",
