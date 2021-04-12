@@ -1,0 +1,44 @@
+#EXTM3U
+#EXTINF:0,[4/4 12:01 a. m.] Lio: Espn
+http://23.237.78.54/live-1000/244/playlist.m3u8?jc
+#EXTINF:0,[4/4 12:05 a. m.] Lio: Direc TV
+http://50.7.238.58:128/budTV/3232/1780_.m3u8
+#EXTINF:0,[4/4 12:06 a. m.] Lio: Directv 2
+http://23.227.145.10:128/budTV/3232/1644_.m3u8
+#EXTINF:0,[4/4 12:14 a. m.] Lio: Directv +
+http://23.227.145.10:128/budTV/3232/1645_.m3u8
+#EXTINF:0,[4/4 12:16 a. m.] Lio: Sky sports3
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:0,[4/4 12:19 a. m.] Lio: Being la liga
+http://23.237.32.130/hls/BEINLALIGAENG.m3u8
+#EXTINF:0,[4/4 12:22 a. m.] Lio: premier hd1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0,[4/4 12:23 a. m.] Lio:Movistar deportes  2
+http://stream.tvtap.live:8081/live/es-movistar-deportes2.stream/chunks.m3u8
+#EXTINF:0,[4/4 12:23 a. m.] Lio:rai sports
+http://stream.tvtap.live:8081/live/it-raisportplus.stream/chunks.m3u8
+#EXTINF:0,[4/4 12:24 a. m.] Lio: Settanta sporta
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:0,[4/4 12:27 a. m.] Lio:Sky sports sería a
+http://stream.tvtap.live:8081/live/it-skysportserieA.stream/chunks.m3u8
+#EXTINF:0,[4/4 12:29 a. m.] Lio: Bon
+http://ott-cdn.ucom.am/s41/01.m3u8
+#EXTINF:0,[4/4 12:33 a. m.] Lio: la liga bar
+http://31.220.41.86:8081/live/es-laligatvbar.stream/chunks.m3u8?nimblesessionid=7471495230
+#EXTINF:0,[4/4 12:33 a. m.] Lio: Win+
+http://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index_6.m3u8
+#EXTINF:0,[4/4 12:38 a. m.] Lio:event 61
+http://91.126.141.13:1935/live/61/playlist.m3u8
+#EXTINF:0,[4/4 12:39 a. m.] Lio: event 16
+http://173.0.48.98:25461/Geektv/CXfnxELPMF/1716
+#EXTINF:0,[10/4 7:04 a. m.] Lio:bein la liga
+http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8?nimblesessionid=8288908984
+#EXTINF:0,Bein e
+http://38.18.237.42:3782/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_81910_85705743_10822.ts?nimblesessionid=245241569
+#EXTINF:0,Bein sports 
+http://5.10.227.194:8000/play/a0mr/index.m3u8
+#EXTINF:0,Liga esp
+http://us.bestvideostreaming.is/8734/index.m3u8
+#EXTINF:0, Gol tv
+http://209.205.221.74:128/budTV/3232/1635_.m3u8
+
