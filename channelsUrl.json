@@ -154,7 +154,7 @@
     "id": "13"
   },
   "static4000": {
-    "stream_link": "http://31.220.41.88:8081/live/es-movistarlaliga.stream/chunks.m3u8",
+    "stream_link": "http://stream.tvtap.live:8081/live/es-movistar-deportes2.stream/chunks.m3u8",
     "src": "static",
     "cat_name": "Sports",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gol.svg/250px-Gol.svg.png",
