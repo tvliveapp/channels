@@ -7,7 +7,7 @@
     "country": "LA",
     "cat_id": "5",
     "srclink": "/",
-    "channel_name": "fox sport P Ar",
+    "channel_name": "la 5 hd",
     "id": "13"
   },
     "drtv": {
@@ -1056,7 +1056,7 @@
     "id": "13"
   },
   "static002": {
-    "stream_link": "http://23.237.78.54/live-1000/244/playlist.m3u8?jc",
+    "stream_link": "http://91.126.141.13:1935/live/61/1800-def.m3u8",
     "src": "static",
     "cat_name": "Sports",
     "img": "https://static.wikia.nocookie.net/logopedia/images/3/34/ESPN.svg/revision/latest/scale-to-width-down/300?cb=20201130040927ca",
