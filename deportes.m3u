@@ -41,4 +41,5 @@ http://5.10.227.194:8000/play/a0mr/index.m3u8
 http://us.bestvideostreaming.is/8734/index.m3u8
 #EXTINF:0, Gol tv
 http://209.205.221.74:128/budTV/3232/1635_.m3u8
-
+#EXTINF:0, Movistar f1
+http://31.220.41.90:8081/live/es-moviestarf1.stream/chunks.m3u8?nimblesessionid=8912820527
