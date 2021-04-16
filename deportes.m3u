@@ -43,5 +43,7 @@ http://us.bestvideostreaming.is/8734/index.m3u8
 http://209.205.221.74:128/budTV/3232/1635_.m3u8
 #EXTINF:0, Movistar f1
 http://31.220.41.90:8081/live/es-moviestarf1.stream/chunks.m3u8?nimblesessionid=8912820527
-#EXTINF:0,ESPN sur
+#EXTINF:0,ESPN 2 sur
 http://23.237.78.54/live-1000/244/playlist.m3u8
+#EXTINF:0, ESPN sur
+http://23.237.78.54/live-1000/263/playlist.m3u8
