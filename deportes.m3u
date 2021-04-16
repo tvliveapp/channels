@@ -47,3 +47,5 @@ http://31.220.41.90:8081/live/es-moviestarf1.stream/chunks.m3u8?nimblesessionid=
 http://23.237.78.54/live-1000/244/playlist.m3u8
 #EXTINF:0, ESPN sur
 http://23.237.78.54/live-1000/263/playlist.m3u8
+#EXTINF:0,ESPN 3 sur
+http://23.227.145.10:128/budTV/3232/1648_.m3u8
