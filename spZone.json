@@ -76,7 +76,7 @@
     "channel_name": "CLARO SPORTS",
     "id": "13"
   },
-   "drtv": {
+  "drtv": {
     "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=drtv&fnc=/",
     "src": "static",
     "cat_name": "Sports",
@@ -164,7 +164,7 @@
     "channel_name": "RAI SPORTS",
     "id": "13"
   },
-   "sextahd": {
+  "sextahd": {
     "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=sextahd&fnc=/",
     "src": "static",
     "cat_name": "SPORTS",
@@ -241,7 +241,6 @@
     "channel_name": "Canal 4 sal",
     "id": "-3"
   },
-  
   "tigosp": {
     "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=tigosp&fnc=/",
     "src": "static",
@@ -1123,7 +1122,7 @@
     "id": "13"
   },
   "aptv3": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv3&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv3&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/aztecauno.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/azteca-uno_thumb_u0lvsz9f.png",
@@ -1145,7 +1144,7 @@
     "id": "13"
   },
   "aptv5": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv5&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv5&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/eldos.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/canal2hd_thumb_3eyp5s29.png",
@@ -1167,7 +1166,7 @@
     "id": "13"
   },
   "aptv7": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv7&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv7&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/elcinco.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/canal5hd_thumb_7ftns12h.png",
@@ -1189,7 +1188,7 @@
     "id": "13"
   },
   "aptv9": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv9&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv9&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/azteca7.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/azteca_7_thumb_150kgsma.png",
@@ -1211,7 +1210,7 @@
     "id": "13"
   },
   "aptv11": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv11&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv11&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/nueve.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/canal-nueve_thumb_tgbylmyd.png",
@@ -1255,7 +1254,7 @@
     "id": "13"
   },
   "aptv15": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv15&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv15&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/mexiquense.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/mexiquense_thumb_f16prw9r.png",
@@ -1277,7 +1276,7 @@
     "id": "13"
   },
   "aptv17": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv17&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv17&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/multimedios.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/multimedios-monterrey_thumb.png",
@@ -1299,7 +1298,7 @@
     "id": "13"
   },
   "aptv19": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv19&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv19&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/mvstv.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/mvstv_thumb.png",
@@ -1310,7 +1309,7 @@
     "id": "13"
   },
   "aptv20": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv20&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv20&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/tvcuatro.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/tvcuatro-01_thumb_4j9mfqlp.png",
@@ -1321,7 +1320,7 @@
     "id": "13"
   },
   "aptv21": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv21&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv21&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/tvcuatro.2.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/tvcuatro-01_thumb_qm6rqag6.png",
@@ -1332,7 +1331,7 @@
     "id": "13"
   },
   "aptv22": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv22&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv22&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/tvcuatro.3.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/tvcuatro-01_thumb_mc1qe232.png",
@@ -1354,7 +1353,7 @@
     "id": "13"
   },
   "aptv24": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv24&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv24&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/canal10.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/canal10_thumb.png",
@@ -1365,7 +1364,7 @@
     "id": "13"
   },
   "aptv25": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv25&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv25&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/oncetv.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/oncetv_thumb.png",
@@ -1376,7 +1375,7 @@
     "id": "13"
   },
   "aptv26": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv26&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv26&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/canal14.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/canal14_thumb.png",
@@ -1398,7 +1397,7 @@
     "id": "13"
   },
   "aptv28": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv28&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv28&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/canal22.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/canal22_thumb_xirxc6u0.png",
@@ -1420,7 +1419,7 @@
     "id": "13"
   },
   "aptv30": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv30&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv30&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/canal22.2.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/canal22_thumb_ud8kc7j6.png",
@@ -1431,7 +1430,7 @@
     "id": "13"
   },
   "aptv31": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv31&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv31&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/adn40.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/adn40hd_thumb_8j5nz784.png",
@@ -1453,7 +1452,7 @@
     "id": "13"
   },
   "aptv33": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv33&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv33&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/cnnes.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/cnnes_thumb_lz2evid2.png",
@@ -1475,7 +1474,7 @@
     "id": "13"
   },
   "aptv35": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv35&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv35&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/forotv.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/foro-tv_thumb_g7oxyodk.png",
@@ -1486,7 +1485,7 @@
     "id": "13"
   },
   "aptv36": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv36&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv36&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/milenio.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/milenio-television_thumb_s6xc2vtf.png",
@@ -1508,7 +1507,7 @@
     "id": "13"
   },
   "aptv38": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv38&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv38&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/teleformula.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/teleformula_thumb_tvhvwg3q.png",
@@ -1530,7 +1529,7 @@
     "id": "13"
   },
   "aptv40": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv40&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv40&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/tvc.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/tvc_thumb_amcc3f5b.png",
@@ -1552,7 +1551,7 @@
     "id": "13"
   },
   "aptv42": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv42&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv42&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/congreso.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/canal-del-congreso_thumb.png",
@@ -1574,7 +1573,7 @@
     "id": "13"
   },
   "aptv44": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv44&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv44&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/justiciatv.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/justiciatv_thumb.png",
@@ -1585,7 +1584,7 @@
     "id": "13"
   },
   "aptv45": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv45&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv45&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/quierotv.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/Quiero_tv_thumb_0545il7k.png",
@@ -1596,7 +1595,7 @@
     "id": "13"
   },
   "aptv46": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv46&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv46&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/telemax.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/telemax_thumb.png",
@@ -1607,7 +1606,7 @@
     "id": "13"
   },
   "aptv47": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv47&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv47&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/tvmas.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/tvmas_thumb.png",
@@ -1618,7 +1617,7 @@
     "id": "13"
   },
   "aptv48": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv48&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv48&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/tvunam.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/tvunam_thumb_5lvt9v2p.png",
@@ -1640,7 +1639,7 @@
     "id": "13"
   },
   "aptv50": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv50&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv50&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/galavision.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/galavision_thumb_5nlz1i6z.png",
@@ -1662,7 +1661,7 @@
     "id": "13"
   },
   "aptv52": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv52&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv52&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/telemundo.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/telemundo_thumb_4yncc1gd.png",
@@ -1684,7 +1683,7 @@
     "id": "13"
   },
   "aptv54": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv54&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv54&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/unimas.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/unimas_thumb_0lcwqox8.png",
@@ -1706,7 +1705,7 @@
     "id": "13"
   },
   "aptv56": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv56&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv56&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/univisionhd.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/univision-byn_thumb.png",
@@ -1728,7 +1727,7 @@
     "id": "13"
   },
   "aptv58": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv58&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv58&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/claro.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/claro-sports_thumb_oxpal9ge.png",
@@ -1750,7 +1749,7 @@
     "id": "13"
   },
   "aptv60": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv60&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv60&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/espn1mx.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/espn-mexico_thumb_km6gt5ah.png",
@@ -1772,7 +1771,7 @@
     "id": "13"
   },
   "aptv62": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv62&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv62&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/espn2mx.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/espn-2-mexico_thumb_z40jxu74.png",
@@ -1794,7 +1793,7 @@
     "id": "13"
   },
   "aptv64": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv64&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv64&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/espn3mx.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/espn-3-mexico_thumb_4hsoi5zg.png",
@@ -1827,7 +1826,7 @@
     "id": "13"
   },
   "aptv67": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv67&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv67&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/espndep.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/espn_deportes_hd_thumb_m0c3d0p1.png",
@@ -1849,7 +1848,7 @@
     "id": "13"
   },
   "aptv69": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv69&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv69&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/foxsport1mx.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/fox-sports-mexico_thumb_wlffyr60.png",
@@ -1871,7 +1870,7 @@
     "id": "13"
   },
   "aptv71": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv71&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv71&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/foxsport2mx.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/fox-sports-2-mexico_thumb_50kg0z9g.png",
@@ -1893,7 +1892,7 @@
     "id": "13"
   },
   "aptv73": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv73&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv73&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/foxsport3mx.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/fox-sports-3_thumb_189kv9hb.png",
@@ -1915,7 +1914,7 @@
     "id": "13"
   },
   "aptv75": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv75&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv75&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/tudnmx.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/tudn_thumb_0i8g3p0o.png",
@@ -1937,7 +1936,7 @@
     "id": "13"
   },
   "aptv77": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv77&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv77&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/tudnus.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/tudn_thumb_vyypww3f.png",
@@ -1970,7 +1969,7 @@
     "id": "13"
   },
   "aptv80": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv80&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv80&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/canal26.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/canal26_thumb.png",
@@ -1981,7 +1980,7 @@
     "id": "13"
   },
   "aptv81": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv81&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv81&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/garagetv.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/garage-tv_thumb.png",
@@ -1992,7 +1991,7 @@
     "id": "13"
   },
   "aptv82": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv82&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv82&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/ep.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/elpinguino_thumb.png",
@@ -2003,7 +2002,7 @@
     "id": "13"
   },
   "aptv83": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv83&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv83&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/ftv.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/Fashion-TV_thumb.png",
@@ -2014,7 +2013,7 @@
     "id": "13"
   },
   "aptv84": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv84&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv84&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/foxmix.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/foxmix_thumb.png",
@@ -2025,7 +2024,7 @@
     "id": "13"
   },
   "aptv85": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv85&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv85&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/miamitv.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/Miami-TV_thumb.png",
@@ -2036,7 +2035,7 @@
     "id": "13"
   },
   "aptv86": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv86&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv86&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/microvision.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/Microvision-Canal-101_thumb.png",
@@ -2047,7 +2046,7 @@
     "id": "13"
   },
   "aptv87": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv87&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv87&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/readytv.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/readytv_thumb.png",
@@ -2058,7 +2057,7 @@
     "id": "13"
   },
   "aptv88": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv88&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv88&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/telecibao.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/telecibao_thumb.png",
@@ -2069,7 +2068,7 @@
     "id": "13"
   },
   "aptv89": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv89&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv89&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/telesur.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/telesur_thumb.png",
@@ -2080,7 +2079,7 @@
     "id": "13"
   },
   "aptv90": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv90&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv90&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/tlx.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/tlx_thumb_7effnopz.png",
@@ -2091,7 +2090,7 @@
     "id": "13"
   },
   "aptv91": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv91&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv91&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/wow.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/wow_thumb_gt1v2tu7.png",
@@ -2102,7 +2101,7 @@
     "id": "13"
   },
   "aptv92": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv92&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv92&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/bloomberg.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/bloombergjpg_thumb.png",
@@ -2113,7 +2112,7 @@
     "id": "13"
   },
   "aptv93": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv93&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv93&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/dw.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/dw_thumb_i8wgkafv.png",
@@ -2124,7 +2123,7 @@
     "id": "13"
   },
   "aptv94": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv94&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv94&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/rt.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/rtes_thumb_7gygwo4o.png",
@@ -2157,7 +2156,7 @@
     "id": "13"
   },
   "aptv97": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv97&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv97&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/a3series.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/atreseries_thumb_glbyse7c.png",
@@ -2234,7 +2233,7 @@
     "id": "13"
   },
   "aptv104": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv104&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv104&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/beines.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/bein-n-sports_thumb_7b1v3vev.png",
@@ -2256,7 +2255,7 @@
     "id": "13"
   },
   "aptv106": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv106&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv106&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/beineshd.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/bein-sports-la-liga_thumb_d0gxbdm6.png",
@@ -2355,7 +2354,7 @@
     "id": "13"
   },
   "aptv115": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv115&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv115&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/universo.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/universo_thumb_8t4u0m77.png",
@@ -2377,7 +2376,7 @@
     "id": "13"
   },
   "aptv117": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv117&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv117&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/nbcsn.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/nbcsn_thumb_lpp5f9vh.png",
@@ -2399,7 +2398,7 @@
     "id": "13"
   },
   "aptv119": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv119&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv119&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/goltv.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/gol-tv_thumb_n8n3l56p.png",
@@ -2487,7 +2486,7 @@
     "id": "13"
   },
   "aptv127": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv127&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv127&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/ae.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/a-e_thumb_dqvmlk9w.png",
@@ -2509,7 +2508,7 @@
     "id": "13"
   },
   "aptv129": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv129&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv129&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/axn.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/axn_thumb_y2f2u7lf.png",
@@ -2531,7 +2530,7 @@
     "id": "13"
   },
   "aptv131": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv131&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv131&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/comedy.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/comedy-central_thumb_vlgcpu6g.png",
@@ -2553,7 +2552,7 @@
     "id": "13"
   },
   "aptv133": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv133&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv133&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/e.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/e_thumb_qoyiaxcp.png",
@@ -2575,7 +2574,7 @@
     "id": "13"
   },
   "aptv135": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv135&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv135&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/fx.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/fx_thumb.png",
@@ -2597,7 +2596,7 @@
     "id": "13"
   },
   "aptv137": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv137&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv137&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/id.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/id-hd_thumb.png",
@@ -2619,7 +2618,7 @@
     "id": "13"
   },
   "aptv139": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv139&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv139&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/lifetime.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/lifetime_thumb_25k1u8ej.png",
@@ -2641,7 +2640,7 @@
     "id": "13"
   },
   "aptv141": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv141&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv141&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/pasiones.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/pasiones_thumb_b5cviv4z.png",
@@ -2663,7 +2662,7 @@
     "id": "13"
   },
   "aptv143": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv143&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv143&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/sony.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/sony_thumb.png",
@@ -2685,7 +2684,7 @@
     "id": "13"
   },
   "aptv145": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv145&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv145&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/tbs.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/tbs_thumb_ug3oc9dg.png",
@@ -2707,7 +2706,7 @@
     "id": "13"
   },
   "aptv147": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv147&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv147&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/tlc.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/tlc-discovery_thumb_990yhfhi.png",
@@ -2740,7 +2739,7 @@
     "id": "13"
   },
   "aptv150": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv150&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv150&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/tntseries.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/tnt-series_thumb_m20ri49u.png",
@@ -2773,7 +2772,7 @@
     "id": "13"
   },
   "aptv153": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv153&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv153&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/universal.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/universal-channel_thumb_s3rk8g1w.png",
@@ -2795,7 +2794,7 @@
     "id": "13"
   },
   "aptv155": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv155&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv155&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/warner.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/wbtv_thumb.png",
@@ -2839,7 +2838,7 @@
     "id": "13"
   },
   "aptv159": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv159&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv159&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/cinecanal.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/cinecanal--W-_thumb.png",
@@ -2861,7 +2860,7 @@
     "id": "13"
   },
   "aptv161": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv161&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv161&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/cinemax.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/cinemax_thumb.png",
@@ -2883,7 +2882,7 @@
     "id": "13"
   },
   "aptv163": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv163&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv163&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/cinelatino.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/cinelatino_thumb_r5299lx4.png",
@@ -2905,7 +2904,7 @@
     "id": "13"
   },
   "aptv165": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv165&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv165&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/cinelatinohd.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/cine-latino-hd_thumb.png",
@@ -2993,7 +2992,7 @@
     "id": "13"
   },
   "aptv173": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv173&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv173&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/filmarts.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/film-arts_thumb.png",
@@ -3015,7 +3014,7 @@
     "id": "13"
   },
   "aptv175": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv175&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv175&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/fxm.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/fx-movies_thumb_5nj349ah.png",
@@ -3081,7 +3080,7 @@
     "id": "13"
   },
   "aptv181": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv181&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv181&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/hboes.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/hbo_thumb_tlppq4gg.png",
@@ -3103,7 +3102,7 @@
     "id": "13"
   },
   "aptv183": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv183&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv183&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/hbo2.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/hbo-2_thumb_fv31bdow.png",
@@ -3125,7 +3124,7 @@
     "id": "13"
   },
   "aptv185": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv185&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv185&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/hboplus.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/hboplus_thumb.png",
@@ -3147,7 +3146,7 @@
     "id": "13"
   },
   "aptv187": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv187&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv187&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/hbofamily.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/HBO_Family_thumb.png",
@@ -3202,7 +3201,7 @@
     "id": "13"
   },
   "aptv192": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv192&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv192&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/hboxtreme.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/hbo-xtreme_thumb_uicwi12f.png",
@@ -3224,7 +3223,7 @@
     "id": "13"
   },
   "aptv194": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv194&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv194&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/isat.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/i.sat_thumb.png",
@@ -3257,7 +3256,7 @@
     "id": "13"
   },
   "aptv197": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv197&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv197&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/mc.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/multicinema_thumb.png",
@@ -3279,7 +3278,7 @@
     "id": "13"
   },
   "aptv199": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv199&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv199&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/mp.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/multipremier_thumb_m3qu4h83.png",
@@ -3301,7 +3300,7 @@
     "id": "13"
   },
   "aptv201": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv201&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv201&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/paramount.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/paramount-channel_thumb_t37bzexf.png",
@@ -3323,7 +3322,7 @@
     "id": "13"
   },
   "aptv203": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv203&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv203&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/space.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/space_thumb.png",
@@ -3345,7 +3344,7 @@
     "id": "13"
   },
   "aptv205": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv205&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv205&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/starch.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/star-channel_thumb.png",
@@ -3367,7 +3366,7 @@
     "id": "13"
   },
   "aptv207": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv207&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv207&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/staraction.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/star-action_thumb.png",
@@ -3400,7 +3399,7 @@
     "id": "13"
   },
   "aptv210": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv210&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv210&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/starclassics.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/star-classics_thumb.png",
@@ -3433,7 +3432,7 @@
     "id": "13"
   },
   "aptv213": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv213&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv213&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/starfun.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/star-fun_thumb.png",
@@ -3455,7 +3454,7 @@
     "id": "13"
   },
   "aptv215": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv215&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv215&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/starhits.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/star-hits_thumb.png",
@@ -3477,7 +3476,7 @@
     "id": "13"
   },
   "aptv217": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv217&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv217&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/starlife.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/star-life_thumb.png",
@@ -3499,7 +3498,7 @@
     "id": "13"
   },
   "aptv219": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv219&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv219&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/starseries.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/star-series_thumb.png",
@@ -3532,7 +3531,7 @@
     "id": "13"
   },
   "aptv222": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv222&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv222&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/syfy-1.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/syfy_thumb_at3awdvb.png",
@@ -3565,7 +3564,7 @@
     "id": "13"
   },
   "aptv225": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv225&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv225&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/tnt.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/tnt-latino_thumb.png",
@@ -3598,7 +3597,7 @@
     "id": "13"
   },
   "aptv228": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv228&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv228&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/animalp.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/animal-planet_thumb_imu43vkg.png",
@@ -3620,7 +3619,7 @@
     "id": "13"
   },
   "aptv230": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv230&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv230&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/discovery.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/discovery_thumb.png",
@@ -3664,7 +3663,7 @@
     "id": "13"
   },
   "aptv234": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv234&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv234&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/dtheater.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/discovery-theather-hd_thumb_lgcmqbtx.png",
@@ -3686,7 +3685,7 @@
     "id": "13"
   },
   "aptv236": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv236&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv236&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/dturbo.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/discovery-turbo_thumb_s21th2qv.png",
@@ -3730,7 +3729,7 @@
     "id": "13"
   },
   "aptv240": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv240&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv240&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/gourmet.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/gourmet2_thumb_rtn2n1et.png",
@@ -3752,7 +3751,7 @@
     "id": "13"
   },
   "aptv242": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv242&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv242&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/history.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/history-channel_thumb.png",
@@ -3774,7 +3773,7 @@
     "id": "13"
   },
   "aptv244": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv244&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv244&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/history2.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/h2_thumb_0tvhr8t6.png",
@@ -3796,7 +3795,7 @@
     "id": "13"
   },
   "aptv246": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv246&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv246&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/hh.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/home-and-health_thumb_i7gla4fl.png",
@@ -3818,7 +3817,7 @@
     "id": "13"
   },
   "aptv248": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv248&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv248&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/holatv.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/holatv_thumb_kenpaacd.png",
@@ -3851,7 +3850,7 @@
     "id": "13"
   },
   "aptv251": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv251&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv251&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/natgeo.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/nationalg_thumb.png",
@@ -3873,7 +3872,7 @@
     "id": "13"
   },
   "aptv253": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv253&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv253&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/natgeowild.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/nat-geo-wild_thumb_j61oeo8o.png",
@@ -3917,7 +3916,7 @@
     "id": "13"
   },
   "aptv257": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv257&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv257&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/bandamax.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/bandamax_thumb_b0b69nq5.png",
@@ -3950,7 +3949,7 @@
     "id": "13"
   },
   "aptv260": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv260&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv260&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/htv.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/htv_thumb_2ldzsg79.png",
@@ -3972,7 +3971,7 @@
     "id": "13"
   },
   "aptv262": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv262&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv262&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/mtv.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/mtv_thumb_b2d1p655.png",
@@ -3994,7 +3993,7 @@
     "id": "13"
   },
   "aptv264": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv264&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv264&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/mtvtr3s.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/tr3s_thumb.png",
@@ -4016,7 +4015,7 @@
     "id": "13"
   },
   "aptv266": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv266&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv266&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/mtvhits.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/mtv_hits_thumb.png",
@@ -4093,7 +4092,7 @@
     "id": "13"
   },
   "aptv273": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv273&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv273&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/teleritmo.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/teleritmo_thumb.png",
@@ -4104,7 +4103,7 @@
     "id": "13"
   },
   "aptv274": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv274&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv274&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/tmtv.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/tmtv_thumb_xvbgx0t0.png",
@@ -4126,7 +4125,7 @@
     "id": "13"
   },
   "aptv276": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv276&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv276&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/vh1.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/vh1_thumb_6rhin6n7.png",
@@ -4148,7 +4147,7 @@
     "id": "13"
   },
   "aptv278": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv278&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv278&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/videorola.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/videorola_thumb.png",
@@ -4170,7 +4169,7 @@
     "id": "13"
   },
   "aptv280": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv280&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv280&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/babytv.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/baby-tv_thumb_ev2allsr.png",
@@ -4214,7 +4213,7 @@
     "id": "13"
   },
   "aptv284": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv284&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv284&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/boomerang.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/boomerang_thumb_a9hkq6zz.png",
@@ -4236,7 +4235,7 @@
     "id": "13"
   },
   "aptv286": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv286&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv286&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/cartoon.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/cartoon-network_thumb_mc5zg6wn.png",
@@ -4258,7 +4257,7 @@
     "id": "13"
   },
   "aptv288": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv288&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv288&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/disneych.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/disney_channel_thumb_jd3tosb3.png",
@@ -4280,7 +4279,7 @@
     "id": "13"
   },
   "aptv290": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv290&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv290&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/disneyjr.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/disney_junior_thumb_lrxxt5w4.png",
@@ -4302,7 +4301,7 @@
     "id": "13"
   },
   "aptv292": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv292&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv292&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/disneyxd.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/disneyxd_thumb_7yzc4812.png",
@@ -4324,7 +4323,7 @@
     "id": "13"
   },
   "aptv294": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv294&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv294&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/dkids.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/discovery-kids_thumb_qiszjndj.png",
@@ -4346,7 +4345,7 @@
     "id": "13"
   },
   "aptv296": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv296&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv296&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/natgeokids.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/natgeokidshd_thumb_nnyv6ufi.png",
@@ -4368,7 +4367,7 @@
     "id": "13"
   },
   "aptv298": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv298&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv298&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/nick.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/nickelodeon--nick-_thumb_xeyz825g.png",
@@ -4390,7 +4389,7 @@
     "id": "13"
   },
   "aptv300": {
-    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv300&fnc=/",
+    "stream_link": "https://tvliveapp-proxy.herokuapp.com/?ch=aptv300&fnc=iptvhd",
     "src": "http://aptv.radiotormentamx.com/nickjr.html",
     "cat_name": "Sports",
     "img": "http://aptv.radiotormentamx.com/gallery/nick_jr_thumb_81w2g7br.png",
