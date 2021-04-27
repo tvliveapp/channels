@@ -1,0 +1,475 @@
+#EXTM3U
+#EXTINF:-1 ,amas
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv1&fnc=iptvhd
+#EXTINF:-1 ,aztecauno
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv2&fnc=iptvhd
+#EXTINF:-1 ,eldos
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv3&fnc=iptvhd
+#EXTINF:-1 ,elcinco
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv4&fnc=iptvhd
+#EXTINF:-1 ,azteca7
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv5&fnc=iptvhd
+#EXTINF:-1 ,nueve
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv6&fnc=iptvhd
+#EXTINF:-1 ,distrito
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv7&fnc=iptvhd
+#EXTINF:-1 ,imagentv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv8&fnc=iptvhd
+#EXTINF:-1 ,unicable
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv9&fnc=iptvhd
+#EXTINF:-1 ,mexiquense
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv10&fnc=iptvhd
+#EXTINF:-1 ,multimedios
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv11&fnc=iptvhd
+#EXTINF:-1 ,mvstv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv12&fnc=iptvhd
+#EXTINF:-1 ,tvcuatro
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv13&fnc=iptvhd
+#EXTINF:-1 ,tvcuatro
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv14&fnc=iptvhd
+#EXTINF:-1 ,tvcuatro
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv15&fnc=iptvhd
+#EXTINF:-1 ,canal10
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv16&fnc=iptvhd
+#EXTINF:-1 ,canal10
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv17&fnc=iptvhd
+#EXTINF:-1 ,oncetv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv18&fnc=iptvhd
+#EXTINF:-1 ,canal14
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv19&fnc=iptvhd
+#EXTINF:-1 ,canal22
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv20&fnc=iptvhd
+#EXTINF:-1 ,adn40
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv21&fnc=iptvhd
+#EXTINF:-1 ,cnnes
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv22&fnc=iptvhd
+#EXTINF:-1 ,forotv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv23&fnc=iptvhd
+#EXTINF:-1 ,milenio
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv24&fnc=iptvhd
+#EXTINF:-1 ,teleformula
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv25&fnc=iptvhd
+#EXTINF:-1 ,tvc
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv26&fnc=iptvhd
+#EXTINF:-1 ,congreso
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv27&fnc=iptvhd
+#EXTINF:-1 ,congreso
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv28&fnc=iptvhd
+#EXTINF:-1 ,ingeniotv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv29&fnc=iptvhd
+#EXTINF:-1 ,justiciatv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv30&fnc=iptvhd
+#EXTINF:-1 ,quierotv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv31&fnc=iptvhd
+#EXTINF:-1 ,telemax
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv32&fnc=iptvhd
+#EXTINF:-1 ,tvmas
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv33&fnc=iptvhd
+#EXTINF:-1 ,tvunam
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv34&fnc=iptvhd
+#EXTINF:-1 ,tvunam
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv35&fnc=iptvhd
+#EXTINF:-1 ,galavision
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv36&fnc=iptvhd
+#EXTINF:-1 ,telemundo
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv37&fnc=iptvhd
+#EXTINF:-1 ,unimas
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv38&fnc=iptvhd
+#EXTINF:-1 ,univisionhd
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv39&fnc=iptvhd
+#EXTINF:-1 ,adrenalina
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv40&fnc=iptvhd
+#EXTINF:-1 ,afizzionados
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv41&fnc=iptvhd
+#EXTINF:-1 ,aym
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv42&fnc=iptvhd
+#EXTINF:-1 ,claro
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv43&fnc=iptvhd
+#EXTINF:-1 ,espn1mx
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv44&fnc=iptvhd
+#EXTINF:-1 ,espn2mx
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv45&fnc=iptvhd
+#EXTINF:-1 ,espn3mx
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv46&fnc=iptvhd
+#EXTINF:-1 ,espnextramx
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv47&fnc=iptvhd
+#EXTINF:-1 ,espndep
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv48&fnc=iptvhd
+#EXTINF:-1 ,foxsport1mx
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv49&fnc=iptvhd
+#EXTINF:-1 ,foxsport2mx
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv50&fnc=iptvhd
+#EXTINF:-1 ,foxsport3mx
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv51&fnc=iptvhd
+#EXTINF:-1 ,las
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv52&fnc=iptvhd
+#EXTINF:-1 ,tudnmx
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv53&fnc=iptvhd
+#EXTINF:-1 ,tudnus
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv54&fnc=iptvhd
+#EXTINF:-1 ,tvcdep
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv55&fnc=iptvhd
+#EXTINF:-1 ,canal26
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv56&fnc=iptvhd
+#EXTINF:-1 ,garagetv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv57&fnc=iptvhd
+#EXTINF:-1 ,ftv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv58&fnc=iptvhd
+#EXTINF:-1 ,foxmix
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv59&fnc=iptvhd
+#EXTINF:-1 ,miamitv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv60&fnc=iptvhd
+#EXTINF:-1 ,microvision
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv61&fnc=iptvhd
+#EXTINF:-1 ,readytv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv62&fnc=iptvhd
+#EXTINF:-1 ,telecibao
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv63&fnc=iptvhd
+#EXTINF:-1 ,telesur
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv64&fnc=iptvhd
+#EXTINF:-1 ,tlx
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv65&fnc=iptvhd
+#EXTINF:-1 ,wow
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv66&fnc=iptvhd
+#EXTINF:-1 ,bloomberg
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv67&fnc=iptvhd
+#EXTINF:-1 ,dw
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv68&fnc=iptvhd
+#EXTINF:-1 ,rt
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv69&fnc=iptvhd
+#EXTINF:-1 ,antena3int
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv70&fnc=iptvhd
+#EXTINF:-1 ,a3series
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv71&fnc=iptvhd
+#EXTINF:-1 ,startve
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv72&fnc=iptvhd
+#EXTINF:-1 ,tve
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv73&fnc=iptvhd
+#EXTINF:-1 ,glitz
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv74&fnc=iptvhd
+#EXTINF:-1 ,telemundoint
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv75&fnc=iptvhd
+#EXTINF:-1 ,caracol
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv76&fnc=iptvhd
+#EXTINF:-1 ,beines
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv77&fnc=iptvhd
+#EXTINF:-1 ,directv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv78&fnc=iptvhd
+#EXTINF:-1 ,directvplus
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv79&fnc=iptvhd
+#EXTINF:-1 ,foxsportp
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv80&fnc=iptvhd
+#EXTINF:-1 ,golperu
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv81&fnc=iptvhd
+#EXTINF:-1 ,goltv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv82&fnc=iptvhd
+#EXTINF:-1 ,golf
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv83&fnc=iptvhd
+#EXTINF:-1 ,havoc
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv84&fnc=iptvhd
+#EXTINF:-1 ,nbcsn
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv85&fnc=iptvhd
+#EXTINF:-1 ,nfl
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv86&fnc=iptvhd
+#EXTINF:-1 ,laliga
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv87&fnc=iptvhd
+#EXTINF:-1 ,mligadec
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv88&fnc=iptvhd
+#EXTINF:-1 ,rcn
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv89&fnc=iptvhd
+#EXTINF:-1 ,skysportsll
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv90&fnc=iptvhd
+#EXTINF:-1 ,skysportspl
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv91&fnc=iptvhd
+#EXTINF:-1 ,skysportsf1
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv92&fnc=iptvhd
+#EXTINF:-1 ,tycsports
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv93&fnc=iptvhd
+#EXTINF:-1 ,universo
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv94&fnc=iptvhd
+#EXTINF:-1 ,winhd
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv95&fnc=iptvhd
+#EXTINF:-1 ,winplus
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv96&fnc=iptvhd
+#EXTINF:-1 ,fight
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv97&fnc=iptvhd
+#EXTINF:-1 ,ufc
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv98&fnc=iptvhd
+#EXTINF:-1 ,wwe
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv99&fnc=iptvhd
+#EXTINF:-1 ,azcorazon
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv100&fnc=iptvhd
+#EXTINF:-1 ,ae
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv101&fnc=iptvhd
+#EXTINF:-1 ,axn
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv102&fnc=iptvhd
+#EXTINF:-1 ,comedy
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv103&fnc=iptvhd
+#EXTINF:-1 ,e
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv104&fnc=iptvhd
+#EXTINF:-1 ,fx
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv105&fnc=iptvhd
+#EXTINF:-1 ,id
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv106&fnc=iptvhd
+#EXTINF:-1 ,lifetime
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv107&fnc=iptvhd
+#EXTINF:-1 ,pasiones
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv108&fnc=iptvhd
+#EXTINF:-1 ,sony
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv109&fnc=iptvhd
+#EXTINF:-1 ,tbs
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv110&fnc=iptvhd
+#EXTINF:-1 ,tlc
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv111&fnc=iptvhd
+#EXTINF:-1 ,tlnovelas
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv112&fnc=iptvhd
+#EXTINF:-1 ,tntseries
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv113&fnc=iptvhd
+#EXTINF:-1 ,trutv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv114&fnc=iptvhd
+#EXTINF:-1 ,universal
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv115&fnc=iptvhd
+#EXTINF:-1 ,warner
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv116&fnc=iptvhd
+#EXTINF:-1 ,azcinema
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv117&fnc=iptvhd
+#EXTINF:-1 ,amc
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv118&fnc=iptvhd
+#EXTINF:-1 ,cinecanal
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv119&fnc=iptvhd
+#EXTINF:-1 ,cinemax
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv120&fnc=iptvhd
+#EXTINF:-1 ,cinelatino
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv121&fnc=iptvhd
+#EXTINF:-1 ,cinesony
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv122&fnc=iptvhd
+#EXTINF:-1 ,dpelicula
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv123&fnc=iptvhd
+#EXTINF:-1 ,depeliculaclasico
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv124&fnc=iptvhd
+#EXTINF:-1 ,dpeliculaplus
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv125&fnc=iptvhd
+#EXTINF:-1 ,europa
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv126&fnc=iptvhd
+#EXTINF:-1 ,filmarts
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv127&fnc=iptvhd
+#EXTINF:-1 ,fxm
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv128&fnc=iptvhd
+#EXTINF:-1 ,golden
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv129&fnc=iptvhd
+#EXTINF:-1 ,edge
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv130&fnc=iptvhd
+#EXTINF:-1 ,goldenplus
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv131&fnc=iptvhd
+#EXTINF:-1 ,goldenp
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv132&fnc=iptvhd
+#EXTINF:-1 ,hboes
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv133&fnc=iptvhd
+#EXTINF:-1 ,hbo2
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv134&fnc=iptvhd
+#EXTINF:-1 ,hboplus
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv135&fnc=iptvhd
+#EXTINF:-1 ,hbofamily
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv136&fnc=iptvhd
+#EXTINF:-1 ,hbomundi
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv137&fnc=iptvhd
+#EXTINF:-1 ,hbopop
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv138&fnc=iptvhd
+#EXTINF:-1 ,hbosignature
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv139&fnc=iptvhd
+#EXTINF:-1 ,hboxtreme
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv140&fnc=iptvhd
+#EXTINF:-1 ,isat
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv141&fnc=iptvhd
+#EXTINF:-1 ,morbido
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv142&fnc=iptvhd
+#EXTINF:-1 ,mc
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv143&fnc=iptvhd
+#EXTINF:-1 ,mp
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv144&fnc=iptvhd
+#EXTINF:-1 ,paramount
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv145&fnc=iptvhd
+#EXTINF:-1 ,space
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv146&fnc=iptvhd
+#EXTINF:-1 ,starch
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv147&fnc=iptvhd
+#EXTINF:-1 ,staraction
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv148&fnc=iptvhd
+#EXTINF:-1 ,starcinema
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv149&fnc=iptvhd
+#EXTINF:-1 ,starclassics
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv150&fnc=iptvhd
+#EXTINF:-1 ,starcomedy
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv151&fnc=iptvhd
+#EXTINF:-1 ,starfun
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv152&fnc=iptvhd
+#EXTINF:-1 ,starhits
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv153&fnc=iptvhd
+#EXTINF:-1 ,starlife
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv154&fnc=iptvhd
+#EXTINF:-1 ,starseries
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv155&fnc=iptvhd
+#EXTINF:-1 ,studiou
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv156&fnc=iptvhd
+#EXTINF:-1 ,syfy-1
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv157&fnc=iptvhd
+#EXTINF:-1 ,tcm
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv158&fnc=iptvhd
+#EXTINF:-1 ,tnt
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv159&fnc=iptvhd
+#EXTINF:-1 ,azmundo
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv160&fnc=iptvhd
+#EXTINF:-1 ,animalp
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv161&fnc=iptvhd
+#EXTINF:-1 ,discovery
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv162&fnc=iptvhd
+#EXTINF:-1 ,dciencia
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv163&fnc=iptvhd
+#EXTINF:-1 ,dcivil
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv164&fnc=iptvhd
+#EXTINF:-1 ,dtheater
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv165&fnc=iptvhd
+#EXTINF:-1 ,dturbo
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv166&fnc=iptvhd
+#EXTINF:-1 ,dworld
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv167&fnc=iptvhd
+#EXTINF:-1 ,food
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv168&fnc=iptvhd
+#EXTINF:-1 ,gourmet
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv169&fnc=iptvhd
+#EXTINF:-1 ,history
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv170&fnc=iptvhd
+#EXTINF:-1 ,history2
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv171&fnc=iptvhd
+#EXTINF:-1 ,hh
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv172&fnc=iptvhd
+#EXTINF:-1 ,holatv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv173&fnc=iptvhd
+#EXTINF:-1 ,maschic
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv174&fnc=iptvhd
+#EXTINF:-1 ,natgeo
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv175&fnc=iptvhd
+#EXTINF:-1 ,natgeowild
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv176&fnc=iptvhd
+#EXTINF:-1 ,azclic
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv177&fnc=iptvhd
+#EXTINF:-1 ,concert
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv178&fnc=iptvhd
+#EXTINF:-1 ,bandamax
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv179&fnc=iptvhd
+#EXTINF:-1 ,euforia
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv180&fnc=iptvhd
+#EXTINF:-1 ,exatv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv181&fnc=iptvhd
+#EXTINF:-1 ,foxmix-1
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv182&fnc=iptvhd
+#EXTINF:-1 ,foxmix-1
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv183&fnc=iptvhd
+#EXTINF:-1 ,htv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv184&fnc=iptvhd
+#EXTINF:-1 ,lamejor
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv185&fnc=iptvhd
+#EXTINF:-1 ,mtv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv186&fnc=iptvhd
+#EXTINF:-1 ,mtvtr3s
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv187&fnc=iptvhd
+#EXTINF:-1 ,mtvhits
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv188&fnc=iptvhd
+#EXTINF:-1 ,mtvlive
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv189&fnc=iptvhd
+#EXTINF:-1 ,mtv80s
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv190&fnc=iptvhd
+#EXTINF:-1 ,nickmusic
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv191&fnc=iptvhd
+#EXTINF:-1 ,telehit
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv192&fnc=iptvhd
+#EXTINF:-1 ,telehitplus
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv193&fnc=iptvhd
+#EXTINF:-1 ,teleritmo
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv194&fnc=iptvhd
+#EXTINF:-1 ,tmtv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv195&fnc=iptvhd
+#EXTINF:-1 ,vh1
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv196&fnc=iptvhd
+#EXTINF:-1 ,musicaurbana
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv197&fnc=iptvhd
+#EXTINF:-1 ,babytv
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv198&fnc=iptvhd
+#EXTINF:-1 ,babyfirts
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv199&fnc=iptvhd
+#EXTINF:-1 ,bitme
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv200&fnc=iptvhd
+#EXTINF:-1 ,boomerang
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv201&fnc=iptvhd
+#EXTINF:-1 ,cartoon
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv202&fnc=iptvhd
+#EXTINF:-1 ,disneych
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv203&fnc=iptvhd
+#EXTINF:-1 ,disneyjr
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv204&fnc=iptvhd
+#EXTINF:-1 ,disneyxd
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv205&fnc=iptvhd
+#EXTINF:-1 ,dkids
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv206&fnc=iptvhd
+#EXTINF:-1 ,natgeokids
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv207&fnc=iptvhd
+#EXTINF:-1 ,nick
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv208&fnc=iptvhd
+#EXTINF:-1 ,nickjr
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv209&fnc=iptvhd
+#EXTINF:-1 ,teennick
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv210&fnc=iptvhd
+#EXTINF:-1 ,tooncast
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv211&fnc=iptvhd
+#EXTINF:0,[4/4 12:01 a. m.] Lio: Espn
+http://23.237.78.54/live-1000/244/playlist.m3u8?jc
+#EXTINF:0,[4/4 12:05 a. m.] Lio: Direc TV
+http://50.7.238.58:128/budTV/3232/1780_.m3u8
+#EXTINF:0,[4/4 12:06 a. m.] Lio: Directv 2
+http://23.227.145.10:128/budTV/3232/1644_.m3u8
+#EXTINF:0,[4/4 12:14 a. m.] Lio: Directv +
+http://23.227.145.10:128/budTV/3232/1645_.m3u8
+#EXTINF:0,[4/4 12:16 a. m.] Lio: Sky sports3
+http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
+#EXTINF:0,[4/4 12:19 a. m.] Lio: Being la liga
+http://23.237.32.130/hls/BEINLALIGAENG.m3u8
+#EXTINF:0,[4/4 12:22 a. m.] Lio: premier hd1
+http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:0,[4/4 12:23 a. m.] Lio:Movistar deportes  2
+http://stream.tvtap.live:8081/live/es-movistar-deportes2.stream/chunks.m3u8
+#EXTINF:0,[4/4 12:23 a. m.] Lio:rai sports
+http://stream.tvtap.live:8081/live/it-raisportplus.stream/chunks.m3u8
+#EXTINF:0,[4/4 12:24 a. m.] Lio: Settanta sporta
+http://ott-cdn.ucom.am/s81/04.m3u8
+#EXTINF:0,[4/4 12:27 a. m.] Lio:Sky sports sería a
+http://stream.tvtap.live:8081/live/it-skysportserieA.stream/chunks.m3u8
+#EXTINF:0,[4/4 12:29 a. m.] Lio: Bon
+http://ott-cdn.ucom.am/s41/01.m3u8
+#EXTINF:0,[4/4 12:33 a. m.] Lio: la liga bar
+http://31.220.41.86:8081/live/es-laligatvbar.stream/chunks.m3u8?nimblesessionid=7471495230
+#EXTINF:0,[4/4 12:33 a. m.] Lio: Win+
+http://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index_6.m3u8
+#EXTINF:0,[4/4 12:38 a. m.] Lio:event 61
+http://91.126.141.13:1935/live/61/playlist.m3u8
+#EXTINF:0,[4/4 12:39 a. m.] Lio: event 16
+http://173.0.48.98:25461/Geektv/CXfnxELPMF/1716
+#EXTINF:0,[10/4 7:04 a. m.] Lio:bein la liga
+http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8?nimblesessionid=8288908984
+#EXTINF:0,Bein e
+http://38.18.237.42:3782/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_81910_85705743_10822.ts?nimblesessionid=245241569
+#EXTINF:0,Bein sports 
+http://5.10.227.194:8000/play/a0mr/index.m3u8
+#EXTINF:0,Liga esp
+http://us.bestvideostreaming.is/8734/index.m3u8
+#EXTINF:0, Gol tv
+http://209.205.221.74:128/budTV/3232/1635_.m3u8
+#EXTINF:0, Movistar f1
+http://31.220.41.90:8081/live/es-moviestarf1.stream/chunks.m3u8?nimblesessionid=8912820527
+#EXTINF:0,ESPN 2 sur
+http://23.237.78.54/live-1000/244/playlist.m3u8
+#EXTINF:0, ESPN sur
+http://23.237.78.54/live-1000/263/playlist.m3u8
+#EXTINF:0,ESPN 3 sur
+http://23.227.145.10:128/budTV/3232/1648_.m3u8
+#EXTINF:0,fox sports premium 
+http://23.227.145.10:128/budTV/3232/1652_.m3u8
