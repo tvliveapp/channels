@@ -387,3 +387,40 @@ http://tvliveapp-proxy.herokuapp.com/?ch=aptv191&fnc=iptvhd
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv192&fnc=iptvhd
 #EXTINF:-1 tvg-name="tooncast" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tooncast_3_thumb_wgs0hn8l.png" group-title="",tooncast
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv193&fnc=iptvhd
+#EXTINF:0,RT
+http://api.wifire.tv/proxy/cookies?url=https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
+#EXTINF:0,DW Espanol
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
+#EXTINF:0,CGTN Espanol
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0,EITB
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+#EXTINF:0,EITB 2
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
+#EXTINF:0,LA 1
+http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
+#EXTINF:0,LA 1
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
+#EXTINF:0,24 HORAS HD
+http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+#EXTINF:0,LA SEXTA
+http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
+#EXTINF:0,RTL 102.5
+https://rtl-radio1-stream.thron.com/live/radio1/radio1/playlist.m3u8
+#EXTINF:0,RAI SPORTS WEB
+http://everyrai-lh.akamaihd.net/i/raisportjolly3_1@125929/index_400_av-p.m3u8?sd=10&amp;rebase=on
+#EXTINF:0,RAI NEWS 24
+https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
+http://45.145.187.131:8081/live6/live6/playlist.m3u8
+#EXTINF:0,HECHOS TV
+http://37.187.7.106/hechostv/live.m3u8
+#EXTINF:0,Radio Italia TV
+https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_384x256_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,USFQ
+http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist_w209317991.m3u8
+#EXTINF:0,WOW
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8?checkedby:iptvcat.net
+#EXTINF:0,RAI SPORTS
+https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
+#EXTINF:0,DIRECTTV SPORTS
+http://matiasstornini00.shortcm.li:80/shio1.m3u8
