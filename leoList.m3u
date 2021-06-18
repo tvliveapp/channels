@@ -1,477 +1,387 @@
-#EXTM3U 
-#EXTINF:-1,test
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv1&fnc=proxy
-#EXTINF:-1,amas
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv1&fnc=iptvhd
-#EXTINF:-1,aztecauno
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv2&fnc=iptvhd
-#EXTINF:-1,eldos
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv3&fnc=iptvhd
-#EXTINF:-1,elcinco
+#EXTM3U
+#EXTINF:-1 tvg-name="amas" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/a-_thumb_30mhdv66.png" group-title="",amas
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv1&fnc=iptvhd&type=application/vnd.apple.mpegurl
+#EXTINF:-1 tvg-name="aztecauno" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/azteca-uno_thumb_ovpv81x9.png" group-title="",aztecauno
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv2&fnc=iptvhd&type=application/application/vnd.apple.mpegurl
+#EXTINF:-1 tvg-name="eldos" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal2hd_thumb_0l487o5o.png" group-title="",eldos
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv3&fnc=iptvhd&type=text/html
+#EXTINF:-1 tvg-name="elcinco" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal5hd_thumb_4lh34ooh.png" group-title="",elcinco
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv4&fnc=iptvhd
-#EXTINF:-1,azteca7
+#EXTINF:-1 tvg-name="azteca7" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/azteca_7_thumb_g5h64w52.png" group-title="",azteca7
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv5&fnc=iptvhd
-#EXTINF:-1,nueve
+#EXTINF:-1 tvg-name="nueve" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal-nueve_thumb_z7hervut.png" group-title="",nueve
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv6&fnc=iptvhd
-#EXTINF:-1,distrito
+#EXTINF:-1 tvg-name="distrito" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/distrito-comedia_thumb_tosxmbae.png" group-title="",distrito
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv7&fnc=iptvhd
-#EXTINF:-1,imagentv
+#EXTINF:-1 tvg-name="imagentv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/imagen-television_thumb_uycrd31z.png" group-title="",imagentv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv8&fnc=iptvhd
-#EXTINF:-1,unicable
+#EXTINF:-1 tvg-name="unicable" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/unicable_thumb_68f3kq53.png" group-title="",unicable
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv9&fnc=iptvhd
-#EXTINF:-1,mexiquense
+#EXTINF:-1 tvg-name="mexiquense" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/mexiquense_thumb_f19z6rw9.png" group-title="",mexiquense
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv10&fnc=iptvhd
-#EXTINF:-1,multimedios
+#EXTINF:-1 tvg-name="multimedios" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/multimedios-monterrey_thumb.png" group-title="",multimedios
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv11&fnc=iptvhd
-#EXTINF:-1,mvstv
+#EXTINF:-1 tvg-name="mvstv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/mvstv_thumb.png" group-title="",mvstv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv12&fnc=iptvhd
-#EXTINF:-1,tvcuatro
+#EXTINF:-1 tvg-name="tvcuatro" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tvcuatro-01_thumb_ro9fwqv5.png" group-title="",tvcuatro
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv13&fnc=iptvhd
-#EXTINF:-1,tvcuatro
+#EXTINF:-1 tvg-name="tvcuatro" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tvcuatro-01_thumb_u2c5kepw.png" group-title="",tvcuatro
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv14&fnc=iptvhd
-#EXTINF:-1,tvcuatro
+#EXTINF:-1 tvg-name="tvcuatro" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tvcuatro-01_thumb_5h7igq93.png" group-title="",tvcuatro
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv15&fnc=iptvhd
-#EXTINF:-1,canal10
+#EXTINF:-1 tvg-name="canal10" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal10_thumb.png" group-title="",canal10
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv16&fnc=iptvhd
-#EXTINF:-1,canal10
+#EXTINF:-1 tvg-name="canal10" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal10_thumb.png" group-title="",canal10
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv17&fnc=iptvhd
-#EXTINF:-1,oncetv
+#EXTINF:-1 tvg-name="oncetv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/oncetv_thumb.png" group-title="",oncetv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv18&fnc=iptvhd
-#EXTINF:-1,canal14
+#EXTINF:-1 tvg-name="canal14" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal14_thumb.png" group-title="",canal14
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv19&fnc=iptvhd
-#EXTINF:-1,canal22
+#EXTINF:-1 tvg-name="canal22" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal22_thumb_joik2b82.png" group-title="",canal22
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv20&fnc=iptvhd
-#EXTINF:-1,adn40
+#EXTINF:-1 tvg-name="adn40" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/adn40hd_thumb_120ptl3g.png" group-title="",adn40
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv21&fnc=iptvhd
-#EXTINF:-1,cnnes
+#EXTINF:-1 tvg-name="cnnes" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/cnnes_thumb_d98hezj1.png" group-title="",cnnes
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv22&fnc=iptvhd
-#EXTINF:-1,forotv
+#EXTINF:-1 tvg-name="forotv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/foro-tv_thumb_cctokdt0.png" group-title="",forotv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv23&fnc=iptvhd
-#EXTINF:-1,milenio
+#EXTINF:-1 tvg-name="milenio" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/milenio-television_thumb.png" group-title="",milenio
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv24&fnc=iptvhd
-#EXTINF:-1,teleformula
+#EXTINF:-1 tvg-name="teleformula" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/teleformula_thumb.png" group-title="",teleformula
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv25&fnc=iptvhd
-#EXTINF:-1,tvc
+#EXTINF:-1 tvg-name="tvc" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tvc_thumb_e6w78a2j.png" group-title="",tvc
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv26&fnc=iptvhd
-#EXTINF:-1,congreso
+#EXTINF:-1 tvg-name="congreso" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal-del-congreso_thumb.png" group-title="",congreso
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv27&fnc=iptvhd
-#EXTINF:-1,congreso
+#EXTINF:-1 tvg-name="ingeniotv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/ingenio-tv_thumb.png" group-title="",ingeniotv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv28&fnc=iptvhd
-#EXTINF:-1,ingeniotv
+#EXTINF:-1 tvg-name="justiciatv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/justiciatv_thumb.png" group-title="",justiciatv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv29&fnc=iptvhd
-#EXTINF:-1,justiciatv
+#EXTINF:-1 tvg-name="quierotv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/Quiero_tv_thumb_u94hez2k.png" group-title="",quierotv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv30&fnc=iptvhd
-#EXTINF:-1,quierotv
+#EXTINF:-1 tvg-name="telemax" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/telemax_thumb.png" group-title="",telemax
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv31&fnc=iptvhd
-#EXTINF:-1,telemax
+#EXTINF:-1 tvg-name="tvmas" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tvmas_thumb.png" group-title="",tvmas
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv32&fnc=iptvhd
-#EXTINF:-1,tvmas
+#EXTINF:-1 tvg-name="tvunam" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tvunam_thumb_er56iroj.png" group-title="",tvunam
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv33&fnc=iptvhd
-#EXTINF:-1,tvunam
+#EXTINF:-1 tvg-name="galavision" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/galavision_thumb_4h8phjin.png" group-title="",galavision
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv34&fnc=iptvhd
-#EXTINF:-1,tvunam
+#EXTINF:-1 tvg-name="telemundo" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/telemundo_thumb_9zbnpw72.png" group-title="",telemundo
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv35&fnc=iptvhd
-#EXTINF:-1,galavision
+#EXTINF:-1 tvg-name="unimas" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/unimas_thumb_6pm5u2mc.png" group-title="",unimas
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv36&fnc=iptvhd
-#EXTINF:-1,telemundo
+#EXTINF:-1 tvg-name="univisionhd" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/univision-byn_thumb.png" group-title="",univisionhd
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv37&fnc=iptvhd
-#EXTINF:-1,unimas
+#EXTINF:-1 tvg-name="adrenalina" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/adrenalina_thumb.png" group-title="",adrenalina
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv38&fnc=iptvhd
-#EXTINF:-1,univisionhd
+#EXTINF:-1 tvg-name="afizzionados" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/afizzionados_thumb_a9at8mim.png" group-title="",afizzionados
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv39&fnc=iptvhd
-#EXTINF:-1,adrenalina
+#EXTINF:-1 tvg-name="aym" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/aym_thumb_ic2r2d1b.png" group-title="",aym
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv40&fnc=iptvhd
-#EXTINF:-1,afizzionados
+#EXTINF:-1 tvg-name="claro" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/claro-sports_thumb_rg8eofui.png" group-title="",claro
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv41&fnc=iptvhd
-#EXTINF:-1,aym
+#EXTINF:-1 tvg-name="espn1mx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/espn-mexico_thumb.png" group-title="",espn1mx
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv42&fnc=iptvhd
-#EXTINF:-1,claro
+#EXTINF:-1 tvg-name="espn2mx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/espn-2-mexico_thumb.png" group-title="",espn2mx
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv43&fnc=iptvhd
-#EXTINF:-1,espn1mx
+#EXTINF:-1 tvg-name="espn3mx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/espn-3-mexico_thumb.png" group-title="",espn3mx
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv44&fnc=iptvhd
-#EXTINF:-1,espn2mx
+#EXTINF:-1 tvg-name="espnextramx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/espn-extra_thumb_j2zs4jo2.png" group-title="",espnextramx
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv45&fnc=iptvhd
-#EXTINF:-1,espn3mx
+#EXTINF:-1 tvg-name="espndep" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/espn_deportes_hd_thumb_uvf89pfm.png" group-title="",espndep
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv46&fnc=iptvhd
-#EXTINF:-1,espnextramx
+#EXTINF:-1 tvg-name="foxsport1mx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/fox-sports-mexico_thumb_go5ctg0t.png" group-title="",foxsport1mx
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv47&fnc=iptvhd
-#EXTINF:-1,espndep
+#EXTINF:-1 tvg-name="foxsport2mx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/fox-sports-2-mexico_thumb_nbdet7ov.png" group-title="",foxsport2mx
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv48&fnc=iptvhd
-#EXTINF:-1,foxsport1mx
+#EXTINF:-1 tvg-name="foxsport3mx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/fox-sports-3_thumb_es96mphy.png" group-title="",foxsport3mx
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv49&fnc=iptvhd
-#EXTINF:-1,foxsport2mx
+#EXTINF:-1 tvg-name="las" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/las_thumb_nzx6yt21.png" group-title="",las
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv50&fnc=iptvhd
-#EXTINF:-1,foxsport3mx
+#EXTINF:-1 tvg-name="tudnmx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tudn_thumb_1ly09io3.png" group-title="",tudnmx
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv51&fnc=iptvhd
-#EXTINF:-1,las
+#EXTINF:-1 tvg-name="tudnus" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tudn_thumb_265t5a8m.png" group-title="",tudnus
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv52&fnc=iptvhd
-#EXTINF:-1,tudnmx
+#EXTINF:-1 tvg-name="tvcdep" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tvc-deportes_thumb_7jthf9zr.png" group-title="",tvcdep
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv53&fnc=iptvhd
-#EXTINF:-1,tudnus
+#EXTINF:-1 tvg-name="canal26" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal26_thumb.png" group-title="",canal26
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv54&fnc=iptvhd
-#EXTINF:-1,tvcdep
+#EXTINF:-1 tvg-name="garagetv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/garage-tv_thumb.png" group-title="",garagetv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv55&fnc=iptvhd
-#EXTINF:-1,canal26
+#EXTINF:-1 tvg-name="ftv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/Fashion-TV_thumb.png" group-title="",ftv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv56&fnc=iptvhd
-#EXTINF:-1,garagetv
+#EXTINF:-1 tvg-name="foxmix" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/foxmix_thumb.png" group-title="",foxmix
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv57&fnc=iptvhd
-#EXTINF:-1,ftv
+#EXTINF:-1 tvg-name="miamitv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/Miami-TV_thumb.png" group-title="",miamitv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv58&fnc=iptvhd
-#EXTINF:-1,foxmix
+#EXTINF:-1 tvg-name="microvision" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/Microvision-Canal-101_thumb.png" group-title="",microvision
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv59&fnc=iptvhd
-#EXTINF:-1,miamitv
+#EXTINF:-1 tvg-name="readytv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/readytv_thumb.png" group-title="",readytv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv60&fnc=iptvhd
-#EXTINF:-1,microvision
+#EXTINF:-1 tvg-name="telecibao" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/telecibao_thumb.png" group-title="",telecibao
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv61&fnc=iptvhd
-#EXTINF:-1,readytv
+#EXTINF:-1 tvg-name="telesur" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/telesur_thumb.png" group-title="",telesur
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv62&fnc=iptvhd
-#EXTINF:-1,telecibao
+#EXTINF:-1 tvg-name="tlx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tlx_thumb_39wj9qn3.png" group-title="",tlx
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv63&fnc=iptvhd
-#EXTINF:-1,telesur
+#EXTINF:-1 tvg-name="wow" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/wow_thumb_uewa2rh7.png" group-title="",wow
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv64&fnc=iptvhd
-#EXTINF:-1,tlx
+#EXTINF:-1 tvg-name="bloomberg" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/bloombergjpg_thumb.png" group-title="",bloomberg
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv65&fnc=iptvhd
-#EXTINF:-1,wow
+#EXTINF:-1 tvg-name="dw" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/dw_thumb_0bf82s12.png" group-title="",dw
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv66&fnc=iptvhd
-#EXTINF:-1,bloomberg
+#EXTINF:-1 tvg-name="rt" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/rtes_thumb_3n42b6s7.png" group-title="",rt
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv67&fnc=iptvhd
-#EXTINF:-1,dw
+#EXTINF:-1 tvg-name="antena3int" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/antena3-int_thumb_ifdpeom4.png" group-title="",antena3int
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv68&fnc=iptvhd
-#EXTINF:-1,rt
+#EXTINF:-1 tvg-name="a3series" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/atreseries_thumb_vaf9er0g.png" group-title="",a3series
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv69&fnc=iptvhd
-#EXTINF:-1,antena3int
+#EXTINF:-1 tvg-name="startve" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/startve_thumb_tiqpdooa.png" group-title="",startve
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv70&fnc=iptvhd
-#EXTINF:-1,a3series
+#EXTINF:-1 tvg-name="tve" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tve_hd_thumb_8ufmllrn.png" group-title="",tve
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv71&fnc=iptvhd
-#EXTINF:-1,startve
+#EXTINF:-1 tvg-name="glitz" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/glitz_thumb_losmdrsb.png" group-title="",glitz
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv72&fnc=iptvhd
-#EXTINF:-1,tve
+#EXTINF:-1 tvg-name="telemundoint" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/telemundoint_thumb_pbdsdsob.png" group-title="",telemundoint
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv73&fnc=iptvhd
-#EXTINF:-1,glitz
+#EXTINF:-1 tvg-name="cuatro" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/cuatro-espana_thumb_djiyxqlq.png" group-title="",cuatro
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv74&fnc=iptvhd
-#EXTINF:-1,telemundoint
+#EXTINF:-1 tvg-name="directv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/directv-sports_thumb_m4t5ue5b.png" group-title="",directv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv75&fnc=iptvhd
-#EXTINF:-1,caracol
+#EXTINF:-1 tvg-name="directv2" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/directv-sports-2_thumb_3qnph0vf.png" group-title="",directv2
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv76&fnc=iptvhd
-#EXTINF:-1,beines
+#EXTINF:-1 tvg-name="foxsportp" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/fox-sports-premium_thumb_a05grz8h.png" group-title="",foxsportp
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv77&fnc=iptvhd
-#EXTINF:-1,directv
+#EXTINF:-1 tvg-name="golperu" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/gol-peru_thumb_zphzzwec.png" group-title="",golperu
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv78&fnc=iptvhd
-#EXTINF:-1,directvplus
+#EXTINF:-1 tvg-name="golf" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/golf-hd_thumb.png" group-title="",golf
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv79&fnc=iptvhd
-#EXTINF:-1,foxsportp
+#EXTINF:-1 tvg-name="havoc" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/havoc_thumb.png" group-title="",havoc
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv80&fnc=iptvhd
-#EXTINF:-1,golperu
+#EXTINF:-1 tvg-name="nfl" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/NFL_logo_thumb.png" group-title="",nfl
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv81&fnc=iptvhd
-#EXTINF:-1,goltv
+#EXTINF:-1 tvg-name="mdeportes" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/movistar-deportes_thumb.png" group-title="",mdeportes
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv82&fnc=iptvhd
-#EXTINF:-1,golf
+#EXTINF:-1 tvg-name="mlaliga" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/movistar-laliga_thumb.png" group-title="",mlaliga
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv83&fnc=iptvhd
-#EXTINF:-1,havoc
+#EXTINF:-1 tvg-name="mligadec" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/movistar-liga-de-campeones_thumb.png" group-title="",mligadec
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv84&fnc=iptvhd
-#EXTINF:-1,nbcsn
+#EXTINF:-1 tvg-name="skysportsf1" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/sky-sports-f1_thumb_yotys8n4.png" group-title="",skysportsf1
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv85&fnc=iptvhd
-#EXTINF:-1,nfl
+#EXTINF:-1 tvg-name="vtv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/vtv_thumb_urcilzw0.png" group-title="",vtv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv86&fnc=iptvhd
-#EXTINF:-1,laliga
+#EXTINF:-1 tvg-name="winhd" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/win-sports_thumb_121e753k.png" group-title="",winhd
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv87&fnc=iptvhd
-#EXTINF:-1,mligadec
+#EXTINF:-1 tvg-name="winplus" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/win-plus_thumb.png" group-title="",winplus
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv88&fnc=iptvhd
-#EXTINF:-1,rcn
+#EXTINF:-1 tvg-name="ufc" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/ufcnetwork_thumb.png" group-title="",ufc
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv89&fnc=iptvhd
-#EXTINF:-1,skysportsll
+#EXTINF:-1 tvg-name="wwe" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/wwe_thumb.png" group-title="",wwe
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv90&fnc=iptvhd
-#EXTINF:-1,skysportspl
+#EXTINF:-1 tvg-name="azcorazon" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/azcorazon_thumb_sw3o5qr9.png" group-title="",azcorazon
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv91&fnc=iptvhd
-#EXTINF:-1,skysportsf1
+#EXTINF:-1 tvg-name="ae" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/a-e_thumb_iqddjt70.png" group-title="",ae
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv92&fnc=iptvhd
-#EXTINF:-1,tycsports
+#EXTINF:-1 tvg-name="axn" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/axn_thumb_5urqr990.png" group-title="",axn
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv93&fnc=iptvhd
-#EXTINF:-1,universo
+#EXTINF:-1 tvg-name="comedy" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/comedy-central_thumb_u0ipdxhy.png" group-title="",comedy
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv94&fnc=iptvhd
-#EXTINF:-1,winhd
+#EXTINF:-1 tvg-name="e" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/e_thumb_j4n8qk3o.png" group-title="",e
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv95&fnc=iptvhd
-#EXTINF:-1,winplus
+#EXTINF:-1 tvg-name="fx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/fx_thumb.png" group-title="",fx
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv96&fnc=iptvhd
-#EXTINF:-1,fight
+#EXTINF:-1 tvg-name="id" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/id-hd_thumb.png" group-title="",id
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv97&fnc=iptvhd
-#EXTINF:-1,ufc
+#EXTINF:-1 tvg-name="lifetime" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/lifetime_thumb_7fbx3bhw.png" group-title="",lifetime
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv98&fnc=iptvhd
-#EXTINF:-1,wwe
+#EXTINF:-1 tvg-name="pasiones" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/pasiones_thumb_2eg26yej.png" group-title="",pasiones
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv99&fnc=iptvhd
-#EXTINF:-1,azcorazon
+#EXTINF:-1 tvg-name="sony" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/sony_thumb.png" group-title="",sony
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv100&fnc=iptvhd
-#EXTINF:-1,ae
+#EXTINF:-1 tvg-name="tbs" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tbs_thumb_n3u582wk.png" group-title="",tbs
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv101&fnc=iptvhd
-#EXTINF:-1,axn
+#EXTINF:-1 tvg-name="tlc" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tlc-discovery_thumb_8fte5z9k.png" group-title="",tlc
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv102&fnc=iptvhd
-#EXTINF:-1,comedy
+#EXTINF:-1 tvg-name="tlnovelas" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tlnovelas_thumb_r3jbybwi.png" group-title="",tlnovelas
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv103&fnc=iptvhd
-#EXTINF:-1,e
+#EXTINF:-1 tvg-name="tntseries" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tnt-series_thumb_immyhfrl.png" group-title="",tntseries
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv104&fnc=iptvhd
-#EXTINF:-1,fx
+#EXTINF:-1 tvg-name="trutv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/true_tv_thumb_p4lmqyg4.png" group-title="",trutv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv105&fnc=iptvhd
-#EXTINF:-1,id
+#EXTINF:-1 tvg-name="universal" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/universal-channel_thumb_jroni3q3.png" group-title="",universal
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv106&fnc=iptvhd
-#EXTINF:-1,lifetime
+#EXTINF:-1 tvg-name="warner" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/wbtv_thumb.png" group-title="",warner
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv107&fnc=iptvhd
-#EXTINF:-1,pasiones
+#EXTINF:-1 tvg-name="azcinema" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/azcinema_thumb.png" group-title="",azcinema
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv108&fnc=iptvhd
-#EXTINF:-1,sony
+#EXTINF:-1 tvg-name="amc" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/amc_thumb_4wb3f3kb.png" group-title="",amc
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv109&fnc=iptvhd
-#EXTINF:-1,tbs
+#EXTINF:-1 tvg-name="cinecanal" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/cinecanal--W-_thumb.png" group-title="",cinecanal
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv110&fnc=iptvhd
-#EXTINF:-1,tlc
+#EXTINF:-1 tvg-name="cinemax" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/cinemax_thumb.png" group-title="",cinemax
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv111&fnc=iptvhd
-#EXTINF:-1,tlnovelas
+#EXTINF:-1 tvg-name="cinelatino" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/cinelatino_thumb_6bmlfy3s.png" group-title="",cinelatino
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv112&fnc=iptvhd
-#EXTINF:-1,tntseries
+#EXTINF:-1 tvg-name="dpelicula" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/d-pelicula_thumb.png" group-title="",dpelicula
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv113&fnc=iptvhd
-#EXTINF:-1,trutv
+#EXTINF:-1 tvg-name="dpeliculaplus" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/d-pelicula-plus_thumb.png" group-title="",dpeliculaplus
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv114&fnc=iptvhd
-#EXTINF:-1,universal
+#EXTINF:-1 tvg-name="europa" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/europa-europa_thumb.png" group-title="",europa
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv115&fnc=iptvhd
-#EXTINF:-1,warner
+#EXTINF:-1 tvg-name="filmarts" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/film-arts_thumb.png" group-title="",filmarts
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv116&fnc=iptvhd
-#EXTINF:-1,azcinema
+#EXTINF:-1 tvg-name="fxm" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/fx-movies_thumb_fxwyeryo.png" group-title="",fxm
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv117&fnc=iptvhd
-#EXTINF:-1,amc
+#EXTINF:-1 tvg-name="golden" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/golden-hd_thumb_fg0re4c3.png" group-title="",golden
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv118&fnc=iptvhd
-#EXTINF:-1,cinecanal
+#EXTINF:-1 tvg-name="edge" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/golden-edge_thumb_i5vxgghz.png" group-title="",edge
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv119&fnc=iptvhd
-#EXTINF:-1,cinemax
+#EXTINF:-1 tvg-name="goldenplus" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/golden-plus_thumb_svbnhknz.png" group-title="",goldenplus
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv120&fnc=iptvhd
-#EXTINF:-1,cinelatino
+#EXTINF:-1 tvg-name="goldenp" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/golden-premier-hd_thumb_hj1fwcxp.png" group-title="",goldenp
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv121&fnc=iptvhd
-#EXTINF:-1,cinesony
+#EXTINF:-1 tvg-name="hboes" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/hbo_thumb_tqvduxh9.png" group-title="",hboes
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv122&fnc=iptvhd
-#EXTINF:-1,dpelicula
+#EXTINF:-1 tvg-name="hbo2" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/hbo-2_thumb_4don4mrz.png" group-title="",hbo2
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv123&fnc=iptvhd
-#EXTINF:-1,depeliculaclasico
+#EXTINF:-1 tvg-name="hboplus" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/hboplus_thumb.png" group-title="",hboplus
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv124&fnc=iptvhd
-#EXTINF:-1,dpeliculaplus
+#EXTINF:-1 tvg-name="hbofamily" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/HBO_Family_thumb.png" group-title="",hbofamily
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv125&fnc=iptvhd
-#EXTINF:-1,europa
+#EXTINF:-1 tvg-name="hbopop" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/hbo-pop_thumb_i5mity0f.png" group-title="",hbopop
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv126&fnc=iptvhd
-#EXTINF:-1,filmarts
+#EXTINF:-1 tvg-name="hbosignature" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/hbo-signature_thumb_0l9pvjhn.png" group-title="",hbosignature
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv127&fnc=iptvhd
-#EXTINF:-1,fxm
+#EXTINF:-1 tvg-name="hboxtreme" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/hbo-xtreme_thumb_l0ee1owh.png" group-title="",hboxtreme
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv128&fnc=iptvhd
-#EXTINF:-1,golden
+#EXTINF:-1 tvg-name="isat" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/i.sat_thumb.png" group-title="",isat
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv129&fnc=iptvhd
-#EXTINF:-1,edge
+#EXTINF:-1 tvg-name="morbido" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/morbido_thumb_ap21w64t.png" group-title="",morbido
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv130&fnc=iptvhd
-#EXTINF:-1,goldenplus
+#EXTINF:-1 tvg-name="mc" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/multicinema_thumb.png" group-title="",mc
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv131&fnc=iptvhd
-#EXTINF:-1,goldenp
+#EXTINF:-1 tvg-name="mp" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/multipremier_thumb_l3t94fs7.png" group-title="",mp
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv132&fnc=iptvhd
-#EXTINF:-1,hboes
+#EXTINF:-1 tvg-name="paramount" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/paramount-channel_thumb_qlxzzosf.png" group-title="",paramount
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv133&fnc=iptvhd
-#EXTINF:-1,hbo2
+#EXTINF:-1 tvg-name="space" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/space_thumb.png" group-title="",space
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv134&fnc=iptvhd
-#EXTINF:-1,hboplus
+#EXTINF:-1 tvg-name="starch" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-channel_thumb.png" group-title="",starch
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv135&fnc=iptvhd
-#EXTINF:-1,hbofamily
+#EXTINF:-1 tvg-name="staraction" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-action_thumb.png" group-title="",staraction
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv136&fnc=iptvhd
-#EXTINF:-1,hbomundi
+#EXTINF:-1 tvg-name="starcinema" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-cinema_thumb.png" group-title="",starcinema
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv137&fnc=iptvhd
-#EXTINF:-1,hbopop
+#EXTINF:-1 tvg-name="starclassics" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-classics_thumb.png" group-title="",starclassics
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv138&fnc=iptvhd
-#EXTINF:-1,hbosignature
+#EXTINF:-1 tvg-name="starcomedy" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-comedy_thumb.png" group-title="",starcomedy
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv139&fnc=iptvhd
-#EXTINF:-1,hboxtreme
+#EXTINF:-1 tvg-name="starfun" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-fun_thumb.png" group-title="",starfun
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv140&fnc=iptvhd
-#EXTINF:-1,isat
+#EXTINF:-1 tvg-name="starhits" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-hits_thumb.png" group-title="",starhits
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv141&fnc=iptvhd
-#EXTINF:-1,morbido
+#EXTINF:-1 tvg-name="starlife" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-life_thumb.png" group-title="",starlife
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv142&fnc=iptvhd
-#EXTINF:-1,mc
+#EXTINF:-1 tvg-name="starseries" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-series_thumb.png" group-title="",starseries
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv143&fnc=iptvhd
-#EXTINF:-1,mp
+#EXTINF:-1 tvg-name="studiou" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/studio-universal_thumb_n1wwcwxi.png" group-title="",studiou
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv144&fnc=iptvhd
-#EXTINF:-1,paramount
+#EXTINF:-1 tvg-name="syfy-1" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/syfy_thumb_htcvp5vh.png" group-title="",syfy-1
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv145&fnc=iptvhd
-#EXTINF:-1,space
+#EXTINF:-1 tvg-name="tcm" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tcm_thumb_e7gw2kjo.png" group-title="",tcm
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv146&fnc=iptvhd
-#EXTINF:-1,starch
+#EXTINF:-1 tvg-name="tnt" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tnt-latino_thumb.png" group-title="",tnt
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv147&fnc=iptvhd
-#EXTINF:-1,staraction
+#EXTINF:-1 tvg-name="azmundo" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/azmundo_thumb_lhk8cvlr.png" group-title="",azmundo
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv148&fnc=iptvhd
-#EXTINF:-1,starcinema
+#EXTINF:-1 tvg-name="animalp" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/animal-planet_thumb_mrbgy1sp.png" group-title="",animalp
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv149&fnc=iptvhd
-#EXTINF:-1,starclassics
+#EXTINF:-1 tvg-name="discovery" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/discovery_thumb.png" group-title="",discovery
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv150&fnc=iptvhd
-#EXTINF:-1,starcomedy
+#EXTINF:-1 tvg-name="dciencia" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/discovery-sciencie_thumb.png" group-title="",dciencia
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv151&fnc=iptvhd
-#EXTINF:-1,starfun
+#EXTINF:-1 tvg-name="dcivil" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/discovery-civilization_thumb.png" group-title="",dcivil
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv152&fnc=iptvhd
-#EXTINF:-1,starhits
+#EXTINF:-1 tvg-name="dtheater" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/discovery-theather-hd_thumb_6arb3wik.png" group-title="",dtheater
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv153&fnc=iptvhd
-#EXTINF:-1,starlife
+#EXTINF:-1 tvg-name="dturbo" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/discovery-turbo_thumb_pgkr8vd2.png" group-title="",dturbo
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv154&fnc=iptvhd
-#EXTINF:-1,starseries
+#EXTINF:-1 tvg-name="dworld" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/discovery-world_thumb_i8bvbo5m.png" group-title="",dworld
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv155&fnc=iptvhd
-#EXTINF:-1,studiou
+#EXTINF:-1 tvg-name="food" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/food-network_thumb_7k9yufid.png" group-title="",food
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv156&fnc=iptvhd
-#EXTINF:-1,syfy-1
+#EXTINF:-1 tvg-name="gourmet" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/gourmet2_thumb_fqqrs7lp.png" group-title="",gourmet
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv157&fnc=iptvhd
-#EXTINF:-1,tcm
+#EXTINF:-1 tvg-name="history" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/history-channel_thumb.png" group-title="",history
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv158&fnc=iptvhd
-#EXTINF:-1,tnt
+#EXTINF:-1 tvg-name="history2" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/h2_thumb_zzivatjq.png" group-title="",history2
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv159&fnc=iptvhd
-#EXTINF:-1,azmundo
+#EXTINF:-1 tvg-name="hh" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/home-and-health_thumb_d8yqqweh.png" group-title="",hh
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv160&fnc=iptvhd
-#EXTINF:-1,animalp
+#EXTINF:-1 tvg-name="holatv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/holatv_thumb_553imjqa.png" group-title="",holatv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv161&fnc=iptvhd
-#EXTINF:-1,discovery
+#EXTINF:-1 tvg-name="maschic" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/mas-chic_thumb.png" group-title="",maschic
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv162&fnc=iptvhd
-#EXTINF:-1,dciencia
+#EXTINF:-1 tvg-name="natgeo" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/nationalg_thumb.png" group-title="",natgeo
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv163&fnc=iptvhd
-#EXTINF:-1,dcivil
+#EXTINF:-1 tvg-name="natgeowild" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/nat-geo-wild_thumb_y7bh4m9a.png" group-title="",natgeowild
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv164&fnc=iptvhd
-#EXTINF:-1,dtheater
+#EXTINF:-1 tvg-name="azclic" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/az-clic_thumb_nlwb59be.png" group-title="",azclic
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv165&fnc=iptvhd
-#EXTINF:-1,dturbo
+#EXTINF:-1 tvg-name="bandamax" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/bandamax_thumb_1jklhsmi.png" group-title="",bandamax
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv166&fnc=iptvhd
-#EXTINF:-1,dworld
+#EXTINF:-1 tvg-name="euforia" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/euforia_thumb_c9mn322f.png" group-title="",euforia
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv167&fnc=iptvhd
-#EXTINF:-1,food
+#EXTINF:-1 tvg-name="exatv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/exa_thumb_98x3h1lr.png" group-title="",exatv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv168&fnc=iptvhd
-#EXTINF:-1,gourmet
+#EXTINF:-1 tvg-name="foxmix-1" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/foxmix_thumb_zn2402cv.png" group-title="",foxmix-1
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv169&fnc=iptvhd
-#EXTINF:-1,history
+#EXTINF:-1 tvg-name="lamejor" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/lamejor_thumb.png" group-title="",lamejor
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv170&fnc=iptvhd
-#EXTINF:-1,history2
+#EXTINF:-1 tvg-name="mtv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/mtv_thumb_tpg3z5s5.png" group-title="",mtv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv171&fnc=iptvhd
-#EXTINF:-1,hh
+#EXTINF:-1 tvg-name="mtvhits" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/mtv_hits_thumb.png" group-title="",mtvhits
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv172&fnc=iptvhd
-#EXTINF:-1,holatv
+#EXTINF:-1 tvg-name="mtvlive" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/MTV_Live_thumb.png" group-title="",mtvlive
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv173&fnc=iptvhd
-#EXTINF:-1,maschic
+#EXTINF:-1 tvg-name="mtv80s" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/mtv80s_thumb.png" group-title="",mtv80s
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv174&fnc=iptvhd
-#EXTINF:-1,natgeo
+#EXTINF:-1 tvg-name="nickmusic" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/nickmusic_thumb.png" group-title="",nickmusic
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv175&fnc=iptvhd
-#EXTINF:-1,natgeowild
+#EXTINF:-1 tvg-name="telehit" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/telehit_thumb_ks4vzm6k.png" group-title="",telehit
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv176&fnc=iptvhd
-#EXTINF:-1,azclic
+#EXTINF:-1 tvg-name="telehitplus" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/telehit-plus_thumb_jg2wb8w0.png" group-title="",telehitplus
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv177&fnc=iptvhd
-#EXTINF:-1,concert
+#EXTINF:-1 tvg-name="tmtv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tmtv_thumb_xtmtpiia.png" group-title="",tmtv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv178&fnc=iptvhd
-#EXTINF:-1,bandamax
+#EXTINF:-1 tvg-name="vh1" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/vh1_thumb_wruelyg3.png" group-title="",vh1
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv179&fnc=iptvhd
-#EXTINF:-1,euforia
+#EXTINF:-1 tvg-name="musicaurbana" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/videorola_thumb.png" group-title="",musicaurbana
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv180&fnc=iptvhd
-#EXTINF:-1,exatv
+#EXTINF:-1 tvg-name="babytv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/baby-tv_thumb_wrjoz9en.png" group-title="",babytv
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv181&fnc=iptvhd
-#EXTINF:-1,foxmix-1
+#EXTINF:-1 tvg-name="babyfirts" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/baby-first_thumb_dt40hu7t.png" group-title="",babyfirts
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv182&fnc=iptvhd
-#EXTINF:-1,foxmix-1
+#EXTINF:-1 tvg-name="boomerang" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/boomerang_thumb_7ax8iywl.png" group-title="",boomerang
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv183&fnc=iptvhd
-#EXTINF:-1,htv
+#EXTINF:-1 tvg-name="cartoon" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/cartoon-network_thumb_jif3hpoz.png" group-title="",cartoon
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv184&fnc=iptvhd
-#EXTINF:-1,lamejor
+#EXTINF:-1 tvg-name="disneych" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/disney_channel_thumb_962zr7c1.png" group-title="",disneych
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv185&fnc=iptvhd
-#EXTINF:-1,mtv
+#EXTINF:-1 tvg-name="disneyjr" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/disney_junior_thumb_q9wg2vfj.png" group-title="",disneyjr
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv186&fnc=iptvhd
-#EXTINF:-1,mtvtr3s
+#EXTINF:-1 tvg-name="disneyxd" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/disneyxd_thumb_plgpc65f.png" group-title="",disneyxd
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv187&fnc=iptvhd
-#EXTINF:-1,mtvhits
+#EXTINF:-1 tvg-name="dkids" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/discovery-kids_thumb_xihye4cf.png" group-title="",dkids
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv188&fnc=iptvhd
-#EXTINF:-1,mtvlive
+#EXTINF:-1 tvg-name="natgeokids" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/natgeokidshd_thumb_n1era35z.png" group-title="",natgeokids
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv189&fnc=iptvhd
-#EXTINF:-1,mtv80s
+#EXTINF:-1 tvg-name="nick" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/nickelodeon--nick-_thumb_xwh81fjo.png" group-title="",nick
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv190&fnc=iptvhd
-#EXTINF:-1,nickmusic
+#EXTINF:-1 tvg-name="nickjr" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/nick_jr_thumb_3wdv8ym2.png" group-title="",nickjr
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv191&fnc=iptvhd
-#EXTINF:-1,telehit
+#EXTINF:-1 tvg-name="teennick" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/TeenNick_thumb_0n18qemm.png" group-title="",teennick
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv192&fnc=iptvhd
-#EXTINF:-1,telehitplus
+#EXTINF:-1 tvg-name="tooncast" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tooncast_3_thumb_wgs0hn8l.png" group-title="",tooncast
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv193&fnc=iptvhd
-#EXTINF:-1,teleritmo
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv194&fnc=iptvhd
-#EXTINF:-1,tmtv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv195&fnc=iptvhd
-#EXTINF:-1,vh1
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv196&fnc=iptvhd
-#EXTINF:-1,musicaurbana
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv197&fnc=iptvhd
-#EXTINF:-1,babytv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv198&fnc=iptvhd
-#EXTINF:-1,babyfirts
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv199&fnc=iptvhd
-#EXTINF:-1,bitme
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv200&fnc=iptvhd
-#EXTINF:-1,boomerang
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv201&fnc=iptvhd
-#EXTINF:-1,cartoon
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv202&fnc=iptvhd
-#EXTINF:-1,disneych
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv203&fnc=iptvhd
-#EXTINF:-1,disneyjr
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv204&fnc=iptvhd
-#EXTINF:-1,disneyxd
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv205&fnc=iptvhd
-#EXTINF:-1,dkids
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv206&fnc=iptvhd
-#EXTINF:-1,natgeokids
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv207&fnc=iptvhd
-#EXTINF:-1,nick
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv208&fnc=iptvhd
-#EXTINF:-1,nickjr
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv209&fnc=iptvhd
-#EXTINF:-1,teennick
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv210&fnc=iptvhd
-#EXTINF:-1,tooncast
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv211&fnc=iptvhd
-#EXTINF:0,[4/4 12:01 a. m.] Lio: Espn
-http://23.237.78.54/live-1000/244/playlist.m3u8?jc
-#EXTINF:0,[4/4 12:05 a. m.] Lio: Direc TV
-http://50.7.238.58:128/budTV/3232/1780_.m3u8
-#EXTINF:0,[4/4 12:06 a. m.] Lio: Directv 2
-http://23.227.145.10:128/budTV/3232/1644_.m3u8
-#EXTINF:0,[4/4 12:14 a. m.] Lio: Directv +
-http://23.227.145.10:128/budTV/3232/1645_.m3u8
-#EXTINF:0,[4/4 12:16 a. m.] Lio: Sky sports3
-http://77.83.117.60:8888/03_skynetsport3_480p/chunklist.m3u8
-#EXTINF:0,[4/4 12:19 a. m.] Lio: Being la liga
-http://23.237.32.130/hls/BEINLALIGAENG.m3u8
-#EXTINF:0,[4/4 12:22 a. m.] Lio: premier hd1
-http://77.83.117.60:8888/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:0,[4/4 12:23 a. m.] Lio:Movistar deportes  2
-http://stream.tvtap.live:8081/live/es-movistar-deportes2.stream/chunks.m3u8
-#EXTINF:0,[4/4 12:23 a. m.] Lio:rai sports
-http://stream.tvtap.live:8081/live/it-raisportplus.stream/chunks.m3u8
-#EXTINF:0,[4/4 12:24 a. m.] Lio: Settanta sporta
-http://ott-cdn.ucom.am/s81/04.m3u8
-#EXTINF:0,[4/4 12:27 a. m.] Lio:Sky sports sería a
-http://stream.tvtap.live:8081/live/it-skysportserieA.stream/chunks.m3u8
-#EXTINF:0,[4/4 12:29 a. m.] Lio: Bon
-http://ott-cdn.ucom.am/s41/01.m3u8
-#EXTINF:0,[4/4 12:33 a. m.] Lio: la liga bar
-http://31.220.41.86:8081/live/es-laligatvbar.stream/chunks.m3u8?nimblesessionid=7471495230
-#EXTINF:0,[4/4 12:33 a. m.] Lio: Win+
-http://d21gtq1mno4siw.cloudfront.net/out/v1/c7889d78bfa643dc9079c46c81be4b6d/index_6.m3u8
-#EXTINF:0,[4/4 12:38 a. m.] Lio:event 61
-http://91.126.141.13:1935/live/61/playlist.m3u8
-#EXTINF:0,[4/4 12:39 a. m.] Lio: event 16
-http://173.0.48.98:25461/Geektv/CXfnxELPMF/1716
-#EXTINF:0,[10/4 7:04 a. m.] Lio:bein la liga
-http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8?nimblesessionid=8288908984
-#EXTINF:0,Bein e
-http://38.18.237.42:3782/9592BEINE/transcob9/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9WxF%C2%A0g7x%C2%A6c=1/l_81910_85705743_10822.ts?nimblesessionid=245241569
-#EXTINF:0,Bein sports 
-http://5.10.227.194:8000/play/a0mr/index.m3u8
-#EXTINF:0,Liga esp
-http://us.bestvideostreaming.is/8734/index.m3u8
-#EXTINF:0, Gol tv
-http://209.205.221.74:128/budTV/3232/1635_.m3u8
-#EXTINF:0, Movistar f1
-http://31.220.41.90:8081/live/es-moviestarf1.stream/chunks.m3u8?nimblesessionid=8912820527
-#EXTINF:0,ESPN 2 sur
-http://23.237.78.54/live-1000/244/playlist.m3u8
-#EXTINF:0, ESPN sur
-http://23.237.78.54/live-1000/263/playlist.m3u8
-#EXTINF:0,ESPN 3 sur
-http://23.227.145.10:128/budTV/3232/1648_.m3u8
-#EXTINF:0,fox sports premium 
-http://23.227.145.10:128/budTV/3232/1652_.m3u8
