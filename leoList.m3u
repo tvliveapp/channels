@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="amas" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/a-_thumb_30mhdv66.png" group-title="",amas
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv1&fnc=iptvhd&type=application/vnd.apple.mpegurl
+http://tvliveapp-proxy.herokuapp.com/?ch=aptv1&fnc=iptvhd&type=application/application/x-mpegUR
 #EXTINF:-1 tvg-name="aztecauno" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/azteca-uno_thumb_ovpv81x9.png" group-title="",aztecauno
 http://tvliveapp-proxy.herokuapp.com/?ch=aptv2&fnc=iptvhd&type=application/application/vnd.apple.mpegurl
 #EXTINF:-1 tvg-name="eldos" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal2hd_thumb_0l487o5o.png" group-title="",eldos
