@@ -1,426 +1,2081 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="amas" tvg-country="LAT" tvg-language="es" tvg-logo="https://megatelevisionhd.xyz/img/DirecTV__Sports.png" group-title="",DitectvSports
-https://sv.megatelevisionhd.xyz/dtv1.php?id=dtvar90
-#EXTINF:-1 tvg-name="amas" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/a-_thumb_30mhdv66.png" group-title="",amas
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv1&fnc=iptvhd&type=application/application/x-mpegUR
-#EXTINF:-1 tvg-name="aztecauno" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/azteca-uno_thumb_ovpv81x9.png" group-title="",aztecauno
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv2&fnc=iptvhd&type=application/application/vnd.apple.mpegurl
-#EXTINF:-1 tvg-name="eldos" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal2hd_thumb_0l487o5o.png" group-title="",eldos
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv3&fnc=iptvhd&type=text/html
-#EXTINF:-1 tvg-name="elcinco" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal5hd_thumb_4lh34ooh.png" group-title="",elcinco
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv4&fnc=iptvhd
-#EXTINF:-1 tvg-name="azteca7" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/azteca_7_thumb_g5h64w52.png" group-title="",azteca7
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv5&fnc=iptvhd
-#EXTINF:-1 tvg-name="nueve" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal-nueve_thumb_z7hervut.png" group-title="",nueve
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv6&fnc=iptvhd
-#EXTINF:-1 tvg-name="distrito" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/distrito-comedia_thumb_tosxmbae.png" group-title="",distrito
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv7&fnc=iptvhd
-#EXTINF:-1 tvg-name="imagentv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/imagen-television_thumb_uycrd31z.png" group-title="",imagentv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv8&fnc=iptvhd
-#EXTINF:-1 tvg-name="unicable" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/unicable_thumb_68f3kq53.png" group-title="",unicable
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv9&fnc=iptvhd
-#EXTINF:-1 tvg-name="mexiquense" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/mexiquense_thumb_f19z6rw9.png" group-title="",mexiquense
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv10&fnc=iptvhd
-#EXTINF:-1 tvg-name="multimedios" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/multimedios-monterrey_thumb.png" group-title="",multimedios
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv11&fnc=iptvhd
-#EXTINF:-1 tvg-name="mvstv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/mvstv_thumb.png" group-title="",mvstv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv12&fnc=iptvhd
-#EXTINF:-1 tvg-name="tvcuatro" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tvcuatro-01_thumb_ro9fwqv5.png" group-title="",tvcuatro
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv13&fnc=iptvhd
-#EXTINF:-1 tvg-name="tvcuatro" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tvcuatro-01_thumb_u2c5kepw.png" group-title="",tvcuatro
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv14&fnc=iptvhd
-#EXTINF:-1 tvg-name="tvcuatro" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tvcuatro-01_thumb_5h7igq93.png" group-title="",tvcuatro
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv15&fnc=iptvhd
-#EXTINF:-1 tvg-name="canal10" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal10_thumb.png" group-title="",canal10
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv16&fnc=iptvhd
-#EXTINF:-1 tvg-name="canal10" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal10_thumb.png" group-title="",canal10
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv17&fnc=iptvhd
-#EXTINF:-1 tvg-name="oncetv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/oncetv_thumb.png" group-title="",oncetv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv18&fnc=iptvhd
-#EXTINF:-1 tvg-name="canal14" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal14_thumb.png" group-title="",canal14
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv19&fnc=iptvhd
-#EXTINF:-1 tvg-name="canal22" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal22_thumb_joik2b82.png" group-title="",canal22
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv20&fnc=iptvhd
-#EXTINF:-1 tvg-name="adn40" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/adn40hd_thumb_120ptl3g.png" group-title="",adn40
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv21&fnc=iptvhd
-#EXTINF:-1 tvg-name="cnnes" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/cnnes_thumb_d98hezj1.png" group-title="",cnnes
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv22&fnc=iptvhd
-#EXTINF:-1 tvg-name="forotv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/foro-tv_thumb_cctokdt0.png" group-title="",forotv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv23&fnc=iptvhd
-#EXTINF:-1 tvg-name="milenio" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/milenio-television_thumb.png" group-title="",milenio
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv24&fnc=iptvhd
-#EXTINF:-1 tvg-name="teleformula" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/teleformula_thumb.png" group-title="",teleformula
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv25&fnc=iptvhd
-#EXTINF:-1 tvg-name="tvc" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tvc_thumb_e6w78a2j.png" group-title="",tvc
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv26&fnc=iptvhd
-#EXTINF:-1 tvg-name="congreso" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal-del-congreso_thumb.png" group-title="",congreso
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv27&fnc=iptvhd
-#EXTINF:-1 tvg-name="ingeniotv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/ingenio-tv_thumb.png" group-title="",ingeniotv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv28&fnc=iptvhd
-#EXTINF:-1 tvg-name="justiciatv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/justiciatv_thumb.png" group-title="",justiciatv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv29&fnc=iptvhd
-#EXTINF:-1 tvg-name="quierotv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/Quiero_tv_thumb_u94hez2k.png" group-title="",quierotv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv30&fnc=iptvhd
-#EXTINF:-1 tvg-name="telemax" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/telemax_thumb.png" group-title="",telemax
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv31&fnc=iptvhd
-#EXTINF:-1 tvg-name="tvmas" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tvmas_thumb.png" group-title="",tvmas
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv32&fnc=iptvhd
-#EXTINF:-1 tvg-name="tvunam" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tvunam_thumb_er56iroj.png" group-title="",tvunam
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv33&fnc=iptvhd
-#EXTINF:-1 tvg-name="galavision" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/galavision_thumb_4h8phjin.png" group-title="",galavision
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv34&fnc=iptvhd
-#EXTINF:-1 tvg-name="telemundo" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/telemundo_thumb_9zbnpw72.png" group-title="",telemundo
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv35&fnc=iptvhd
-#EXTINF:-1 tvg-name="unimas" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/unimas_thumb_6pm5u2mc.png" group-title="",unimas
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv36&fnc=iptvhd
-#EXTINF:-1 tvg-name="univisionhd" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/univision-byn_thumb.png" group-title="",univisionhd
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv37&fnc=iptvhd
-#EXTINF:-1 tvg-name="adrenalina" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/adrenalina_thumb.png" group-title="",adrenalina
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv38&fnc=iptvhd
-#EXTINF:-1 tvg-name="afizzionados" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/afizzionados_thumb_a9at8mim.png" group-title="",afizzionados
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv39&fnc=iptvhd
-#EXTINF:-1 tvg-name="aym" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/aym_thumb_ic2r2d1b.png" group-title="",aym
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv40&fnc=iptvhd
-#EXTINF:-1 tvg-name="claro" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/claro-sports_thumb_rg8eofui.png" group-title="",claro
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv41&fnc=iptvhd
-#EXTINF:-1 tvg-name="espn1mx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/espn-mexico_thumb.png" group-title="",espn1mx
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv42&fnc=iptvhd
-#EXTINF:-1 tvg-name="espn2mx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/espn-2-mexico_thumb.png" group-title="",espn2mx
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv43&fnc=iptvhd
-#EXTINF:-1 tvg-name="espn3mx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/espn-3-mexico_thumb.png" group-title="",espn3mx
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv44&fnc=iptvhd
-#EXTINF:-1 tvg-name="espnextramx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/espn-extra_thumb_j2zs4jo2.png" group-title="",espnextramx
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv45&fnc=iptvhd
-#EXTINF:-1 tvg-name="espndep" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/espn_deportes_hd_thumb_uvf89pfm.png" group-title="",espndep
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv46&fnc=iptvhd
-#EXTINF:-1 tvg-name="foxsport1mx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/fox-sports-mexico_thumb_go5ctg0t.png" group-title="",foxsport1mx
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv47&fnc=iptvhd
-#EXTINF:-1 tvg-name="foxsport2mx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/fox-sports-2-mexico_thumb_nbdet7ov.png" group-title="",foxsport2mx
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv48&fnc=iptvhd
-#EXTINF:-1 tvg-name="foxsport3mx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/fox-sports-3_thumb_es96mphy.png" group-title="",foxsport3mx
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv49&fnc=iptvhd
-#EXTINF:-1 tvg-name="las" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/las_thumb_nzx6yt21.png" group-title="",las
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv50&fnc=iptvhd
-#EXTINF:-1 tvg-name="tudnmx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tudn_thumb_1ly09io3.png" group-title="",tudnmx
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv51&fnc=iptvhd
-#EXTINF:-1 tvg-name="tudnus" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tudn_thumb_265t5a8m.png" group-title="",tudnus
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv52&fnc=iptvhd
-#EXTINF:-1 tvg-name="tvcdep" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tvc-deportes_thumb_7jthf9zr.png" group-title="",tvcdep
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv53&fnc=iptvhd
-#EXTINF:-1 tvg-name="canal26" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/canal26_thumb.png" group-title="",canal26
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv54&fnc=iptvhd
-#EXTINF:-1 tvg-name="garagetv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/garage-tv_thumb.png" group-title="",garagetv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv55&fnc=iptvhd
-#EXTINF:-1 tvg-name="ftv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/Fashion-TV_thumb.png" group-title="",ftv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv56&fnc=iptvhd
-#EXTINF:-1 tvg-name="foxmix" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/foxmix_thumb.png" group-title="",foxmix
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv57&fnc=iptvhd
-#EXTINF:-1 tvg-name="miamitv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/Miami-TV_thumb.png" group-title="",miamitv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv58&fnc=iptvhd
-#EXTINF:-1 tvg-name="microvision" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/Microvision-Canal-101_thumb.png" group-title="",microvision
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv59&fnc=iptvhd
-#EXTINF:-1 tvg-name="readytv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/readytv_thumb.png" group-title="",readytv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv60&fnc=iptvhd
-#EXTINF:-1 tvg-name="telecibao" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/telecibao_thumb.png" group-title="",telecibao
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv61&fnc=iptvhd
-#EXTINF:-1 tvg-name="telesur" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/telesur_thumb.png" group-title="",telesur
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv62&fnc=iptvhd
-#EXTINF:-1 tvg-name="tlx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tlx_thumb_39wj9qn3.png" group-title="",tlx
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv63&fnc=iptvhd
-#EXTINF:-1 tvg-name="wow" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/wow_thumb_uewa2rh7.png" group-title="",wow
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv64&fnc=iptvhd
-#EXTINF:-1 tvg-name="bloomberg" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/bloombergjpg_thumb.png" group-title="",bloomberg
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv65&fnc=iptvhd
-#EXTINF:-1 tvg-name="dw" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/dw_thumb_0bf82s12.png" group-title="",dw
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv66&fnc=iptvhd
-#EXTINF:-1 tvg-name="rt" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/rtes_thumb_3n42b6s7.png" group-title="",rt
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv67&fnc=iptvhd
-#EXTINF:-1 tvg-name="antena3int" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/antena3-int_thumb_ifdpeom4.png" group-title="",antena3int
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv68&fnc=iptvhd
-#EXTINF:-1 tvg-name="a3series" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/atreseries_thumb_vaf9er0g.png" group-title="",a3series
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv69&fnc=iptvhd
-#EXTINF:-1 tvg-name="startve" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/startve_thumb_tiqpdooa.png" group-title="",startve
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv70&fnc=iptvhd
-#EXTINF:-1 tvg-name="tve" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tve_hd_thumb_8ufmllrn.png" group-title="",tve
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv71&fnc=iptvhd
-#EXTINF:-1 tvg-name="glitz" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/glitz_thumb_losmdrsb.png" group-title="",glitz
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv72&fnc=iptvhd
-#EXTINF:-1 tvg-name="telemundoint" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/telemundoint_thumb_pbdsdsob.png" group-title="",telemundoint
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv73&fnc=iptvhd
-#EXTINF:-1 tvg-name="cuatro" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/cuatro-espana_thumb_djiyxqlq.png" group-title="",cuatro
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv74&fnc=iptvhd
-#EXTINF:-1 tvg-name="directv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/directv-sports_thumb_m4t5ue5b.png" group-title="",directv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv75&fnc=iptvhd
-#EXTINF:-1 tvg-name="directv2" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/directv-sports-2_thumb_3qnph0vf.png" group-title="",directv2
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv76&fnc=iptvhd
-#EXTINF:-1 tvg-name="foxsportp" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/fox-sports-premium_thumb_a05grz8h.png" group-title="",foxsportp
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv77&fnc=iptvhd
-#EXTINF:-1 tvg-name="golperu" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/gol-peru_thumb_zphzzwec.png" group-title="",golperu
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv78&fnc=iptvhd
-#EXTINF:-1 tvg-name="golf" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/golf-hd_thumb.png" group-title="",golf
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv79&fnc=iptvhd
-#EXTINF:-1 tvg-name="havoc" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/havoc_thumb.png" group-title="",havoc
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv80&fnc=iptvhd
-#EXTINF:-1 tvg-name="nfl" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/NFL_logo_thumb.png" group-title="",nfl
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv81&fnc=iptvhd
-#EXTINF:-1 tvg-name="mdeportes" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/movistar-deportes_thumb.png" group-title="",mdeportes
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv82&fnc=iptvhd
-#EXTINF:-1 tvg-name="mlaliga" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/movistar-laliga_thumb.png" group-title="",mlaliga
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv83&fnc=iptvhd
-#EXTINF:-1 tvg-name="mligadec" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/movistar-liga-de-campeones_thumb.png" group-title="",mligadec
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv84&fnc=iptvhd
-#EXTINF:-1 tvg-name="skysportsf1" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/sky-sports-f1_thumb_yotys8n4.png" group-title="",skysportsf1
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv85&fnc=iptvhd
-#EXTINF:-1 tvg-name="vtv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/vtv_thumb_urcilzw0.png" group-title="",vtv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv86&fnc=iptvhd
-#EXTINF:-1 tvg-name="winhd" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/win-sports_thumb_121e753k.png" group-title="",winhd
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv87&fnc=iptvhd
-#EXTINF:-1 tvg-name="winplus" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/win-plus_thumb.png" group-title="",winplus
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv88&fnc=iptvhd
-#EXTINF:-1 tvg-name="ufc" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/ufcnetwork_thumb.png" group-title="",ufc
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv89&fnc=iptvhd
-#EXTINF:-1 tvg-name="wwe" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/wwe_thumb.png" group-title="",wwe
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv90&fnc=iptvhd
-#EXTINF:-1 tvg-name="azcorazon" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/azcorazon_thumb_sw3o5qr9.png" group-title="",azcorazon
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv91&fnc=iptvhd
-#EXTINF:-1 tvg-name="ae" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/a-e_thumb_iqddjt70.png" group-title="",ae
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv92&fnc=iptvhd
-#EXTINF:-1 tvg-name="axn" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/axn_thumb_5urqr990.png" group-title="",axn
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv93&fnc=iptvhd
-#EXTINF:-1 tvg-name="comedy" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/comedy-central_thumb_u0ipdxhy.png" group-title="",comedy
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv94&fnc=iptvhd
-#EXTINF:-1 tvg-name="e" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/e_thumb_j4n8qk3o.png" group-title="",e
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv95&fnc=iptvhd
-#EXTINF:-1 tvg-name="fx" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/fx_thumb.png" group-title="",fx
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv96&fnc=iptvhd
-#EXTINF:-1 tvg-name="id" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/id-hd_thumb.png" group-title="",id
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv97&fnc=iptvhd
-#EXTINF:-1 tvg-name="lifetime" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/lifetime_thumb_7fbx3bhw.png" group-title="",lifetime
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv98&fnc=iptvhd
-#EXTINF:-1 tvg-name="pasiones" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/pasiones_thumb_2eg26yej.png" group-title="",pasiones
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv99&fnc=iptvhd
-#EXTINF:-1 tvg-name="sony" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/sony_thumb.png" group-title="",sony
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv100&fnc=iptvhd
-#EXTINF:-1 tvg-name="tbs" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tbs_thumb_n3u582wk.png" group-title="",tbs
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv101&fnc=iptvhd
-#EXTINF:-1 tvg-name="tlc" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tlc-discovery_thumb_8fte5z9k.png" group-title="",tlc
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv102&fnc=iptvhd
-#EXTINF:-1 tvg-name="tlnovelas" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tlnovelas_thumb_r3jbybwi.png" group-title="",tlnovelas
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv103&fnc=iptvhd
-#EXTINF:-1 tvg-name="tntseries" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tnt-series_thumb_immyhfrl.png" group-title="",tntseries
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv104&fnc=iptvhd
-#EXTINF:-1 tvg-name="trutv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/true_tv_thumb_p4lmqyg4.png" group-title="",trutv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv105&fnc=iptvhd
-#EXTINF:-1 tvg-name="universal" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/universal-channel_thumb_jroni3q3.png" group-title="",universal
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv106&fnc=iptvhd
-#EXTINF:-1 tvg-name="warner" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/wbtv_thumb.png" group-title="",warner
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv107&fnc=iptvhd
-#EXTINF:-1 tvg-name="azcinema" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/azcinema_thumb.png" group-title="",azcinema
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv108&fnc=iptvhd
-#EXTINF:-1 tvg-name="amc" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/amc_thumb_4wb3f3kb.png" group-title="",amc
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv109&fnc=iptvhd
-#EXTINF:-1 tvg-name="cinecanal" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/cinecanal--W-_thumb.png" group-title="",cinecanal
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv110&fnc=iptvhd
-#EXTINF:-1 tvg-name="cinemax" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/cinemax_thumb.png" group-title="",cinemax
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv111&fnc=iptvhd
-#EXTINF:-1 tvg-name="cinelatino" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/cinelatino_thumb_6bmlfy3s.png" group-title="",cinelatino
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv112&fnc=iptvhd
-#EXTINF:-1 tvg-name="dpelicula" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/d-pelicula_thumb.png" group-title="",dpelicula
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv113&fnc=iptvhd
-#EXTINF:-1 tvg-name="dpeliculaplus" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/d-pelicula-plus_thumb.png" group-title="",dpeliculaplus
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv114&fnc=iptvhd
-#EXTINF:-1 tvg-name="europa" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/europa-europa_thumb.png" group-title="",europa
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv115&fnc=iptvhd
-#EXTINF:-1 tvg-name="filmarts" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/film-arts_thumb.png" group-title="",filmarts
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv116&fnc=iptvhd
-#EXTINF:-1 tvg-name="fxm" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/fx-movies_thumb_fxwyeryo.png" group-title="",fxm
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv117&fnc=iptvhd
-#EXTINF:-1 tvg-name="golden" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/golden-hd_thumb_fg0re4c3.png" group-title="",golden
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv118&fnc=iptvhd
-#EXTINF:-1 tvg-name="edge" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/golden-edge_thumb_i5vxgghz.png" group-title="",edge
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv119&fnc=iptvhd
-#EXTINF:-1 tvg-name="goldenplus" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/golden-plus_thumb_svbnhknz.png" group-title="",goldenplus
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv120&fnc=iptvhd
-#EXTINF:-1 tvg-name="goldenp" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/golden-premier-hd_thumb_hj1fwcxp.png" group-title="",goldenp
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv121&fnc=iptvhd
-#EXTINF:-1 tvg-name="hboes" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/hbo_thumb_tqvduxh9.png" group-title="",hboes
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv122&fnc=iptvhd
-#EXTINF:-1 tvg-name="hbo2" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/hbo-2_thumb_4don4mrz.png" group-title="",hbo2
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv123&fnc=iptvhd
-#EXTINF:-1 tvg-name="hboplus" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/hboplus_thumb.png" group-title="",hboplus
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv124&fnc=iptvhd
-#EXTINF:-1 tvg-name="hbofamily" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/HBO_Family_thumb.png" group-title="",hbofamily
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv125&fnc=iptvhd
-#EXTINF:-1 tvg-name="hbopop" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/hbo-pop_thumb_i5mity0f.png" group-title="",hbopop
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv126&fnc=iptvhd
-#EXTINF:-1 tvg-name="hbosignature" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/hbo-signature_thumb_0l9pvjhn.png" group-title="",hbosignature
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv127&fnc=iptvhd
-#EXTINF:-1 tvg-name="hboxtreme" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/hbo-xtreme_thumb_l0ee1owh.png" group-title="",hboxtreme
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv128&fnc=iptvhd
-#EXTINF:-1 tvg-name="isat" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/i.sat_thumb.png" group-title="",isat
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv129&fnc=iptvhd
-#EXTINF:-1 tvg-name="morbido" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/morbido_thumb_ap21w64t.png" group-title="",morbido
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv130&fnc=iptvhd
-#EXTINF:-1 tvg-name="mc" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/multicinema_thumb.png" group-title="",mc
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv131&fnc=iptvhd
-#EXTINF:-1 tvg-name="mp" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/multipremier_thumb_l3t94fs7.png" group-title="",mp
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv132&fnc=iptvhd
-#EXTINF:-1 tvg-name="paramount" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/paramount-channel_thumb_qlxzzosf.png" group-title="",paramount
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv133&fnc=iptvhd
-#EXTINF:-1 tvg-name="space" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/space_thumb.png" group-title="",space
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv134&fnc=iptvhd
-#EXTINF:-1 tvg-name="starch" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-channel_thumb.png" group-title="",starch
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv135&fnc=iptvhd
-#EXTINF:-1 tvg-name="staraction" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-action_thumb.png" group-title="",staraction
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv136&fnc=iptvhd
-#EXTINF:-1 tvg-name="starcinema" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-cinema_thumb.png" group-title="",starcinema
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv137&fnc=iptvhd
-#EXTINF:-1 tvg-name="starclassics" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-classics_thumb.png" group-title="",starclassics
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv138&fnc=iptvhd
-#EXTINF:-1 tvg-name="starcomedy" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-comedy_thumb.png" group-title="",starcomedy
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv139&fnc=iptvhd
-#EXTINF:-1 tvg-name="starfun" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-fun_thumb.png" group-title="",starfun
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv140&fnc=iptvhd
-#EXTINF:-1 tvg-name="starhits" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-hits_thumb.png" group-title="",starhits
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv141&fnc=iptvhd
-#EXTINF:-1 tvg-name="starlife" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-life_thumb.png" group-title="",starlife
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv142&fnc=iptvhd
-#EXTINF:-1 tvg-name="starseries" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/star-series_thumb.png" group-title="",starseries
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv143&fnc=iptvhd
-#EXTINF:-1 tvg-name="studiou" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/studio-universal_thumb_n1wwcwxi.png" group-title="",studiou
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv144&fnc=iptvhd
-#EXTINF:-1 tvg-name="syfy-1" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/syfy_thumb_htcvp5vh.png" group-title="",syfy-1
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv145&fnc=iptvhd
-#EXTINF:-1 tvg-name="tcm" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tcm_thumb_e7gw2kjo.png" group-title="",tcm
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv146&fnc=iptvhd
-#EXTINF:-1 tvg-name="tnt" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tnt-latino_thumb.png" group-title="",tnt
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv147&fnc=iptvhd
-#EXTINF:-1 tvg-name="azmundo" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/azmundo_thumb_lhk8cvlr.png" group-title="",azmundo
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv148&fnc=iptvhd
-#EXTINF:-1 tvg-name="animalp" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/animal-planet_thumb_mrbgy1sp.png" group-title="",animalp
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv149&fnc=iptvhd
-#EXTINF:-1 tvg-name="discovery" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/discovery_thumb.png" group-title="",discovery
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv150&fnc=iptvhd
-#EXTINF:-1 tvg-name="dciencia" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/discovery-sciencie_thumb.png" group-title="",dciencia
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv151&fnc=iptvhd
-#EXTINF:-1 tvg-name="dcivil" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/discovery-civilization_thumb.png" group-title="",dcivil
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv152&fnc=iptvhd
-#EXTINF:-1 tvg-name="dtheater" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/discovery-theather-hd_thumb_6arb3wik.png" group-title="",dtheater
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv153&fnc=iptvhd
-#EXTINF:-1 tvg-name="dturbo" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/discovery-turbo_thumb_pgkr8vd2.png" group-title="",dturbo
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv154&fnc=iptvhd
-#EXTINF:-1 tvg-name="dworld" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/discovery-world_thumb_i8bvbo5m.png" group-title="",dworld
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv155&fnc=iptvhd
-#EXTINF:-1 tvg-name="food" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/food-network_thumb_7k9yufid.png" group-title="",food
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv156&fnc=iptvhd
-#EXTINF:-1 tvg-name="gourmet" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/gourmet2_thumb_fqqrs7lp.png" group-title="",gourmet
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv157&fnc=iptvhd
-#EXTINF:-1 tvg-name="history" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/history-channel_thumb.png" group-title="",history
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv158&fnc=iptvhd
-#EXTINF:-1 tvg-name="history2" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/h2_thumb_zzivatjq.png" group-title="",history2
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv159&fnc=iptvhd
-#EXTINF:-1 tvg-name="hh" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/home-and-health_thumb_d8yqqweh.png" group-title="",hh
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv160&fnc=iptvhd
-#EXTINF:-1 tvg-name="holatv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/holatv_thumb_553imjqa.png" group-title="",holatv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv161&fnc=iptvhd
-#EXTINF:-1 tvg-name="maschic" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/mas-chic_thumb.png" group-title="",maschic
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv162&fnc=iptvhd
-#EXTINF:-1 tvg-name="natgeo" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/nationalg_thumb.png" group-title="",natgeo
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv163&fnc=iptvhd
-#EXTINF:-1 tvg-name="natgeowild" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/nat-geo-wild_thumb_y7bh4m9a.png" group-title="",natgeowild
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv164&fnc=iptvhd
-#EXTINF:-1 tvg-name="azclic" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/az-clic_thumb_nlwb59be.png" group-title="",azclic
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv165&fnc=iptvhd
-#EXTINF:-1 tvg-name="bandamax" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/bandamax_thumb_1jklhsmi.png" group-title="",bandamax
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv166&fnc=iptvhd
-#EXTINF:-1 tvg-name="euforia" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/euforia_thumb_c9mn322f.png" group-title="",euforia
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv167&fnc=iptvhd
-#EXTINF:-1 tvg-name="exatv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/exa_thumb_98x3h1lr.png" group-title="",exatv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv168&fnc=iptvhd
-#EXTINF:-1 tvg-name="foxmix-1" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/foxmix_thumb_zn2402cv.png" group-title="",foxmix-1
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv169&fnc=iptvhd
-#EXTINF:-1 tvg-name="lamejor" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/lamejor_thumb.png" group-title="",lamejor
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv170&fnc=iptvhd
-#EXTINF:-1 tvg-name="mtv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/mtv_thumb_tpg3z5s5.png" group-title="",mtv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv171&fnc=iptvhd
-#EXTINF:-1 tvg-name="mtvhits" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/mtv_hits_thumb.png" group-title="",mtvhits
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv172&fnc=iptvhd
-#EXTINF:-1 tvg-name="mtvlive" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/MTV_Live_thumb.png" group-title="",mtvlive
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv173&fnc=iptvhd
-#EXTINF:-1 tvg-name="mtv80s" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/mtv80s_thumb.png" group-title="",mtv80s
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv174&fnc=iptvhd
-#EXTINF:-1 tvg-name="nickmusic" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/nickmusic_thumb.png" group-title="",nickmusic
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv175&fnc=iptvhd
-#EXTINF:-1 tvg-name="telehit" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/telehit_thumb_ks4vzm6k.png" group-title="",telehit
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv176&fnc=iptvhd
-#EXTINF:-1 tvg-name="telehitplus" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/telehit-plus_thumb_jg2wb8w0.png" group-title="",telehitplus
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv177&fnc=iptvhd
-#EXTINF:-1 tvg-name="tmtv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tmtv_thumb_xtmtpiia.png" group-title="",tmtv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv178&fnc=iptvhd
-#EXTINF:-1 tvg-name="vh1" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/vh1_thumb_wruelyg3.png" group-title="",vh1
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv179&fnc=iptvhd
-#EXTINF:-1 tvg-name="musicaurbana" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/videorola_thumb.png" group-title="",musicaurbana
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv180&fnc=iptvhd
-#EXTINF:-1 tvg-name="babytv" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/baby-tv_thumb_wrjoz9en.png" group-title="",babytv
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv181&fnc=iptvhd
-#EXTINF:-1 tvg-name="babyfirts" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/baby-first_thumb_dt40hu7t.png" group-title="",babyfirts
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv182&fnc=iptvhd
-#EXTINF:-1 tvg-name="boomerang" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/boomerang_thumb_7ax8iywl.png" group-title="",boomerang
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv183&fnc=iptvhd
-#EXTINF:-1 tvg-name="cartoon" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/cartoon-network_thumb_jif3hpoz.png" group-title="",cartoon
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv184&fnc=iptvhd
-#EXTINF:-1 tvg-name="disneych" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/disney_channel_thumb_962zr7c1.png" group-title="",disneych
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv185&fnc=iptvhd
-#EXTINF:-1 tvg-name="disneyjr" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/disney_junior_thumb_q9wg2vfj.png" group-title="",disneyjr
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv186&fnc=iptvhd
-#EXTINF:-1 tvg-name="disneyxd" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/disneyxd_thumb_plgpc65f.png" group-title="",disneyxd
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv187&fnc=iptvhd
-#EXTINF:-1 tvg-name="dkids" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/discovery-kids_thumb_xihye4cf.png" group-title="",dkids
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv188&fnc=iptvhd
-#EXTINF:-1 tvg-name="natgeokids" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/natgeokidshd_thumb_n1era35z.png" group-title="",natgeokids
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv189&fnc=iptvhd
-#EXTINF:-1 tvg-name="nick" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/nickelodeon--nick-_thumb_xwh81fjo.png" group-title="",nick
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv190&fnc=iptvhd
-#EXTINF:-1 tvg-name="nickjr" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/nick_jr_thumb_3wdv8ym2.png" group-title="",nickjr
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv191&fnc=iptvhd
-#EXTINF:-1 tvg-name="teennick" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/TeenNick_thumb_0n18qemm.png" group-title="",teennick
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv192&fnc=iptvhd
-#EXTINF:-1 tvg-name="tooncast" tvg-country="LAT" tvg-language="es" tvg-logo="http://aptv.radiotormentamx.com/gallery/tooncast_3_thumb_wgs0hn8l.png" group-title="",tooncast
-http://tvliveapp-proxy.herokuapp.com/?ch=aptv193&fnc=iptvhd
-#EXTINF:0,RT
-http://api.wifire.tv/proxy/cookies?url=https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
-#EXTINF:0,DW Espanol
-http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-#EXTINF:0,CGTN Espanol
-http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:0,EITB
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
-#EXTINF:0,EITB 2
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
-#EXTINF:0,LA 1
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
-#EXTINF:0,LA 1
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:0,24 HORAS HD
-http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
-#EXTINF:0,LA SEXTA
-http://mdstrm.com/live-stream-playlist_1200/57bf686a61ff39e1085d43e1.m3u8
-#EXTINF:0,RTL 102.5
-https://rtl-radio1-stream.thron.com/live/radio1/radio1/playlist.m3u8
-#EXTINF:0,RAI SPORTS WEB
-http://everyrai-lh.akamaihd.net/i/raisportjolly3_1@125929/index_400_av-p.m3u8?sd=10&amp;rebase=on
-#EXTINF:0,RAI NEWS 24
-https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/rainews_1800/chunklist.m3u8
-http://45.145.187.131:8081/live6/live6/playlist.m3u8
-#EXTINF:0,HECHOS TV
-http://37.187.7.106/hechostv/live.m3u8
-#EXTINF:0,Radio Italia TV
-https://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_384x256_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,USFQ
-http://ecuastreamhd.com:1935/UCSGHQ/UCSGHQ/chunklist_w209317991.m3u8
-#EXTINF:0,WOW
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w454258933.m3u8?checkedby:iptvcat.net
-#EXTINF:0,RAI SPORTS
-https://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/master.m3u8
-#EXTINF:0,DIRECTTV SPORTS
-http://matiasstornini00.shortcm.li:80/shio1.m3u8
+#EXTINF:-1, El Hombre Increible
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/26825
+
+#EXTINF:-1,24/7 | EL CHAVO DEL 8
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/4254
+
+#EXTINF:-1,24/7 | La Casa de Mickey Mouse
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/37328
+
+#EXTINF:-1,24/7 | LA FAMILIA PELUCHE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/26832
+
+#EXTINF:-1,24/7 DRAGON BALL
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/29609
+
+#EXTINF:-1,24/7 LOS SIMPSONS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/29611
+
+#EXTINF:-1,24/7 LOS SIMPSONS op 2
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/37325
+
+#EXTINF:-1,24/7 Rugrats: Aventuras en pañales
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/37329
+
+#EXTINF:-1,24/7 The Big Bang Theory
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/25183
+
+#EXTINF:-1,24H - VIP | Dragon Ball Heroes
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/37334
+
+#EXTINF:-1,24H - VIP | Harry Potter
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/37340
+
+#EXTINF:-1,24H - VIP | La Familia P. Luche
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/37341
+
+#EXTINF:-1,24H - VIP | Misión Imposible
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/37343
+
+#EXTINF:-1,24H - VIP | Moisés y los Diez Mandamientos
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/37330
+
+#EXTINF:-1,24H - VIP | Peliculas Play
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/37338
+
+#EXTINF:-1,24H - VIP | Rocky
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/37336
+
+#EXTINF:-1,24H - VIPS | Los supersónicos
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/37339
+
+#EXTINF:-1,24H | Batman
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/26822
+
+#EXTINF:-1,24H | Crisis en Tierras Infinitas
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/26823
+
+#EXTINF:-1,24H | Gargolas
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/26824
+
+#EXTINF:-1,24H | iCarly
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/37337
+
+#EXTINF:-1,24H | Jessica Jones
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/26826
+
+#EXTINF:-1,24H | Jonny Bravo
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/26827
+
+#EXTINF:-1,3ABN
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/43075
+
+#EXTINF:-1,ABC Atlanta
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42639
+
+#EXTINF:-1,ABC Miami
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42629
+
+#EXTINF:-1,ACCN ESPN HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42661
+
+#EXTINF:-1,Animal Planet HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42686
+
+#EXTINF:-1,ARG | el trece op 3 (w)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/4198
+
+#EXTINF:-1,ARG: ESPN 2  HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42820
+
+#EXTINF:-1,ARG: ESPN HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42818
+
+#EXTINF:-1,ARGENTINA | A24 (ST)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1270
+
+#EXTINF:-1,ARGENTINA | AMERICA (A)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/21366
+
+#EXTINF:-1,ARGENTINA | AMERICA (st)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1271
+
+#EXTINF:-1,ARGENTINA | C5N
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1269
+
+#EXTINF:-1,ARGENTINA | C5N
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/15280
+
+#EXTINF:-1,ARGENTINA | CANAL 9 TELEVIDA MENDOZA
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/15281
+
+#EXTINF:-1,ARGENTINA | CRONICA
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1267
+
+#EXTINF:-1,ARGENTINA | EL TRECE HD (E)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1273
+
+#EXTINF:-1,ARGENTINA | EL TRECE OP 2
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3950
+
+#EXTINF:-1,ARGENTINA | GARAGE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1266
+
+#EXTINF:-1,ARGENTINA | GLITZ
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1265
+
+#EXTINF:-1,ARGENTINA | RURAL (ST)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1262
+
+#EXTINF:-1,ARGENTINA | TELEFE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/21367
+
+#EXTINF:-1,ARGENTINA | TELEFE (ST)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1261
+
+#EXTINF:-1,ARGENTINA | TELEMAX
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1260
+
+#EXTINF:-1,ARGENTINA | TELESUR
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1259
+
+#EXTINF:-1,ARGENTINA | TN
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/15296
+
+#EXTINF:-1,ARGENTINA | TN NOTICIAS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1258
+
+#EXTINF:-1,Baywatch SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42562
+
+#EXTINF:-1,BBC America HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42680
+
+#EXTINF:-1,Besame - 94.9 (Colombia)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42721
+
+#EXTINF:-1,Bolivia - Retro Plus TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/39190
+
+#EXTINF:-1,BOLIVIA | ATB
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1232
+
+#EXTINF:-1,BOLIVIA | BOLIVIA TV SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1237
+
+#EXTINF:-1,BOLIVIA | BOLIVISION HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1236
+
+#EXTINF:-1,BOLIVIA | Gigavision
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/15191
+
+#EXTINF:-1,BOLIVIA | PAT LA PAZ  (E)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1233
+
+#EXTINF:-1,BOLIVIA | PAT SANTA CRUZ
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/25755
+
+#EXTINF:-1,BOLIVIA | RED UNO HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1235
+
+#EXTINF:-1,BOLIVIA | RTP
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/15201
+
+#EXTINF:-1,BOLIVIA | TV U
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/15204
+
+#EXTINF:-1,BOLIVIA | UNITEL SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1234
+
+#EXTINF:-1,BOLIVIA ||| Unitel*
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/15207
+
+#EXTINF:-1,Bravo West HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42679
+
+#EXTINF:-1,Candy Candy
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42551
+
+#EXTINF:-1,Caracol Radio - 100.9 (Colombia)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42718
+
+#EXTINF:-1,CBN
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/43067
+
+#EXTINF:-1,CBS Boston (WBZ)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42631
+
+#EXTINF:-1,CBS Houston HD (KHOU)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42632
+
+#EXTINF:-1,CBS Los Angeles
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42633
+
+#EXTINF:-1,CBS Miami
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42634
+
+#EXTINF:-1,CBS New York
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42635
+
+#EXTINF:-1,CBS San Diego
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42636
+
+#EXTINF:-1,CBS San Francisco
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42627
+
+#EXTINF:-1,CBS Sports Network
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42626
+
+#EXTINF:-1,CBS Texas
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42630
+
+#EXTINF:-1,CELESTIAL
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/43069
+
+#EXTINF:-1,CH: ESPN HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42819
+
+#EXTINF:-1,CH: Fox Sport 1 HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42816
+
+#EXTINF:-1,CHI-13 (e)(1080)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45002
+
+#EXTINF:-1,CHI-13 (e)(720)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45003
+
+#EXTINF:-1,CHI-13 (e)(SD)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45004
+
+#EXTINF:-1,CHI-13 (M)(SD)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45005
+
+#EXTINF:-1,CHI-13C (e)(720)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45006
+
+#EXTINF:-1,CHI-13C (M)(SD)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45007
+
+#EXTINF:-1,CHI-24 Horas (e)(1080)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45008
+
+#EXTINF:-1,CHI-24 Horas (e)(720)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45009
+
+#EXTINF:-1,CHI-24 Horas (e)(SD)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45010
+
+#EXTINF:-1,CHI-24 Horas (M)(720)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45012
+
+#EXTINF:-1,CHI-Chilevision (e)(1080)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44999
+
+#EXTINF:-1,CHI-Chilevision (e)(720)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45000
+
+#EXTINF:-1,CHI-CNN (e)(1080)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45014
+
+#EXTINF:-1,CHI-CNN (e)(720)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45015
+
+#EXTINF:-1,CHI-CNN (e)(SD)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45016
+
+#EXTINF:-1,CHI-CNN Chile (M)(SD)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45017
+
+#EXTINF:-1,CHI-ETC (e)(1080)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45019
+
+#EXTINF:-1,CHI-ETC (e)(720)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45020
+
+#EXTINF:-1,CHI-ETC (e)(SD)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/45021
+
+#EXTINF:-1,CHI-La Red (M)(720)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44984
+
+#EXTINF:-1,CHI-La Red TV (e)(1080)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44985
+
+#EXTINF:-1,CHI-LA Red TV (e)(720)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44986
+
+#EXTINF:-1,CHI-LA Red TV (e)(SD)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44987
+
+#EXTINF:-1,CHILE | CANAL 13
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1398
+
+#EXTINF:-1,CHILE | CHILEVISION
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1396
+
+#EXTINF:-1,CHILE | CNN CHILE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3096
+
+#EXTINF:-1,Chile | ETC TV HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/18307
+
+#EXTINF:-1,CHILE | LA RED
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1385
+
+#EXTINF:-1,CHILE | MEGA
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1393
+
+#EXTINF:-1,Chile | Rec TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/19367
+
+#EXTINF:-1,CHILE | TV CHILE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1388
+
+#EXTINF:-1,CHILE | TV+
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1386
+
+#EXTINF:-1,CHILE | TVN
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1390
+
+#EXTINF:-1,CHILE* | CANAL 13
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/25567
+
+#EXTINF:-1,CHILE* | CHILEVISION
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/25566
+
+#EXTINF:-1,CHILE* | MEGA
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/26356
+
+#EXTINF:-1,CHILE* | MEGA PLUS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1394
+
+#EXTINF:-1,CHILE* | TVN
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/26357
+
+#EXTINF:-1,CHI-Mega (e)(1080)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44995
+
+#EXTINF:-1,CHI-Mega (e)(720)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44996
+
+#EXTINF:-1,CHI-Mega (e)(SD)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44997
+
+#EXTINF:-1,CHI-Mega (M)(SD)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44998
+
+#EXTINF:-1,CHI-TV+ (e)(1080)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44988
+
+#EXTINF:-1,CHI-TV+ (e)(720)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44989
+
+#EXTINF:-1,CHI-TV+ (e)(SD)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44990
+
+#EXTINF:-1,CHI-TVN (e)(1080)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44991
+
+#EXTINF:-1,CHI-TVN (e)(720)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44992
+
+#EXTINF:-1,CHI-TVN (M)(SD)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44994
+
+#EXTINF:-1,CIELO
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/43068
+
+#EXTINF:-1,Cine Latino
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/47804
+
+#EXTINF:-1,CINE PREMIUM | AMC FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1519
+
+#EXTINF:-1,CINE PREMIUM | Cinecanal FHD  (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1521
+
+#EXTINF:-1,CINE PREMIUM | Cinecanal HD *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1586
+
+#EXTINF:-1,CINE PREMIUM | Cinecanal SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1585
+
+#EXTINF:-1,CINE PREMIUM | Cinemax HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1522
+
+#EXTINF:-1,CINE PREMIUM | Cinemax SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/8477
+
+#EXTINF:-1,CINE PREMIUM | De Pelicula (e)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1584
+
+#EXTINF:-1,CINE PREMIUM | De Pelicula Plus FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1523
+
+#EXTINF:-1,CINE PREMIUM | De Pelicula SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1583
+
+#EXTINF:-1,CINE PREMIUM | DHE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/8478
+
+#EXTINF:-1,CINE PREMIUM | FX
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1534
+
+#EXTINF:-1,CINE PREMIUM | FXM FHD  (p)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1535
+
+#EXTINF:-1,CINE PREMIUM | GOLDEN EDGE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1536
+
+#EXTINF:-1,CINE PREMIUM | Golden Plus FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1538
+
+#EXTINF:-1,CINE PREMIUM | Golden Plus HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1537
+
+#EXTINF:-1,CINE PREMIUM | GOLDEN SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1568
+
+#EXTINF:-1,CINE PREMIUM | HBO 2 HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1539
+
+#EXTINF:-1,CINE PREMIUM | HBO 2 SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1595
+
+#EXTINF:-1,CINE PREMIUM | HBO HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1596
+
+#EXTINF:-1,CINE PREMIUM | HBO Mundi
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/8481
+
+#EXTINF:-1,CINE PREMIUM | HBO Mundi SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/39804
+
+#EXTINF:-1,CINE PREMIUM | HBO Plus
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1593
+
+#EXTINF:-1,CINE PREMIUM | HBO Plus SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/39806
+
+#EXTINF:-1,CINE PREMIUM | HBO Pop
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/8482
+
+#EXTINF:-1,CINE PREMIUM | HBO POP SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/39803
+
+#EXTINF:-1,CINE PREMIUM | HBO SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/39802
+
+#EXTINF:-1,CINE PREMIUM | HBO SIGNATURE *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1592
+
+#EXTINF:-1,CINE PREMIUM | HBO Signature SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/8483
+
+#EXTINF:-1,CINE PREMIUM | HBO XTREME
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/8484
+
+#EXTINF:-1,CINE PREMIUM | Paramount Channel FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1544
+
+#EXTINF:-1,CINE PREMIUM | SONY CHANNEL HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1545
+
+#EXTINF:-1,CINE PREMIUM | SONY CHANNEL SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1567
+
+#EXTINF:-1,CINE PREMIUM | SPACE CHANNEL *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1546
+
+#EXTINF:-1,CINE PREMIUM | Space FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1547
+
+#EXTINF:-1,CINE PREMIUM | STAR ACTION HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1527
+
+#EXTINF:-1,CINE PREMIUM | STAR CHANNEL .
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1524
+
+#EXTINF:-1,CINE PREMIUM | STAR CINEMA HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1598
+
+#EXTINF:-1,CINE PREMIUM | STAR CINEMA SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1528
+
+#EXTINF:-1,CINE PREMIUM | STAR CLASSICS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1576
+
+#EXTINF:-1,CINE PREMIUM | STAR CLASSICS SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/39807
+
+#EXTINF:-1,CINE PREMIUM | STAR COMEDY HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1530
+
+#EXTINF:-1,CINE PREMIUM | STAR COMEDY SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/8479
+
+#EXTINF:-1,CINE PREMIUM | STAR HITS SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1573
+
+#EXTINF:-1,CINE PREMIUM | STAR LIFE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1574
+
+#EXTINF:-1,CINE PREMIUM | STAR SERIES HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1533
+
+#EXTINF:-1,CINE PREMIUM | SUNDANCE TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1550
+
+#EXTINF:-1,CINE PREMIUM | SYFY CHANNEL
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1551
+
+#EXTINF:-1,CINE PREMIUM | TBS *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1552
+
+#EXTINF:-1,CINE PREMIUM | TCM (Y)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1553
+
+#EXTINF:-1,CINE PREMIUM | TCM SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1566
+
+#EXTINF:-1,CINE PREMIUM | TNT
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1556
+
+#EXTINF:-1,CINE PREMIUM | TNT FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1565
+
+#EXTINF:-1,CINE PREMIUM | TNT Series FHD (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1563
+
+#EXTINF:-1,CINE PREMIUM | TNT SERIES HD (A)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1557
+
+#EXTINF:-1,CINE PREMIUM | TNT Series SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1562
+
+#EXTINF:-1,CINE PREMIUM | UNIVERSAL CHANNEL (E)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1558
+
+#EXTINF:-1,CINE PREMIUM | Universal Channel SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1561
+
+#EXTINF:-1,CINE PREMIUM | WARNER TV (e)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1559
+
+#EXTINF:-1,CINE PREMIUM | WARNER TV (T)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1560
+
+#EXTINF:-1,Cinemax HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42678
+
+#EXTINF:-1,CLARO SPORTS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/25261
+
+#EXTINF:-1,Cleveland Cavaliers
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44791
+
+#EXTINF:-1,CLI
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/43077
+
+#EXTINF:-1,Cloud Server Kids
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/37324
+
+#EXTINF:-1,CNBC
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42607
+
+#EXTINF:-1,CO | Caracol Internacional
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/19079
+
+#EXTINF:-1,COL | TELEMEDELLIN
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42367
+
+#EXTINF:-1,COLOMBIA  | Win Sports +
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/9136
+
+#EXTINF:-1,COLOMBIA | CABLE NOTICIAS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1276
+
+#EXTINF:-1,COLOMBIA | CANAL UNO
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1277
+
+#EXTINF:-1,COLOMBIA | CARACOL
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1278
+
+#EXTINF:-1,COLOMBIA | CARACOL FHD (e)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1279
+
+#EXTINF:-1,COLOMBIA | CARACOL HD2
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/22370
+
+#EXTINF:-1,COLOMBIA | CITY TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1280
+
+#EXTINF:-1,COLOMBIA | HOLA TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/11230
+
+#EXTINF:-1,COLOMBIA | NTN24 (p)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1275
+
+#EXTINF:-1,COLOMBIA | PASIONES (a)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1281
+
+#EXTINF:-1,COLOMBIA | RCN
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1282
+
+#EXTINF:-1,COLOMBIA | RCN FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/12747
+
+#EXTINF:-1,COLOMBIA | RCN TELENOVELAS (A)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1283
+
+#EXTINF:-1,COLOMBIA | TELEANTIOQUIA *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1284
+
+#EXTINF:-1,COLOMBIA | TELECAFE (A)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1285
+
+#EXTINF:-1,COLOMBIA | TELEPACIFICO (L)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1287
+
+#EXTINF:-1,Cooking Channel HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42681
+
+#EXTINF:-1,COSTA RICA | 11 REPRETEL
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1182
+
+#EXTINF:-1,COSTA RICA | REPRETEL 4
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1181
+
+#EXTINF:-1,CTNi
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3965
+
+#EXTINF:-1,CULTURA | Animal Planet
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1515
+
+#EXTINF:-1,CULTURA | Animal Planet SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1514
+
+#EXTINF:-1,CULTURA | Discovery Channel FHD  (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1513
+
+#EXTINF:-1,CULTURA | Discovery Channel SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1512
+
+#EXTINF:-1,CULTURA | Discovery Civilization HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1511
+
+#EXTINF:-1,CULTURA | Discovery Home & Healt FHD (p)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1510
+
+#EXTINF:-1,CULTURA | Discovery Science HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1509
+
+#EXTINF:-1,CULTURA | Discovery Theater FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1507
+
+#EXTINF:-1,CULTURA | Discovery Theater HD (U)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1508
+
+#EXTINF:-1,CULTURA | Discovery Turbo HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1506
+
+#EXTINF:-1,CULTURA | Discovery World FHD (ST)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1504
+
+#EXTINF:-1,CULTURA | FILM & ARTS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1494
+
+#EXTINF:-1,CULTURA | History FHD (p)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1502
+
+#EXTINF:-1,CULTURA | Investigation Discovery FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1500
+
+#EXTINF:-1,CULTURA | Investigation Discovery SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1499
+
+#EXTINF:-1,CULTURA | Nat Geo Wild FHD (p)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1498
+
+#EXTINF:-1,CULTURA | Nat Geo Wild HD (A)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1497
+
+#EXTINF:-1,CULTURA | National Geographic SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1495
+
+#EXTINF:-1,Cumbia Ninja HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42568
+
+#EXTINF:-1,Denver Nuggets
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44793
+
+#EXTINF:-1,DEPORT EUR | ADRENALINA SPORTS NETWORK
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/5798
+
+#EXTINF:-1,DEPORT LAT | CDO PREMIUM
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/5781
+
+#EXTINF:-1,Deportes - ESPN 1 SD [Sur]
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/24539
+
+#EXTINF:-1,Deportes - ESPN 2 SD [Sur]
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/24538
+
+#EXTINF:-1,Deportes - ESPN 3 HD [Sur]
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/24540
+
+#EXTINF:-1,DEPORTES - TNT SPORTS 3 - CHILE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/24355
+
+#EXTINF:-1,DEPORTES EUR | BARCA TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1652
+
+#EXTINF:-1,DEPORTES EUR | BEIN SPORTS 1 HD (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1666
+
+#EXTINF:-1,DEPORTES EUR | BEIN SPORTS 5 HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1667
+
+#EXTINF:-1,DEPORTES EUR | BEIN SPORTS 5 HD (EVENTOS ONLY) (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1668
+
+#EXTINF:-1,DEPORTES EUR | BEIN SPORTS 6 HD (EVENTOS ONLY)  (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1669
+
+#EXTINF:-1,DEPORTES EUR | BEIN SPORTS 7 HD  (EVENTOS ONLY)  (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1670
+
+#EXTINF:-1,DEPORTES EUR | BEIN SPORTS LALIGA USA HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1664
+
+#EXTINF:-1,DEPORTES EUR | BEIN SPORTS Ñ
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1663
+
+#EXTINF:-1,DEPORTES EUR | BEIN SPORTS Ñ (st)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1662
+
+#EXTINF:-1,DEPORTES EUR | ESPN 1 HD CO (a)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1677
+
+#EXTINF:-1,DEPORTES EUR | ESPN 1 HD MX (S)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1684
+
+#EXTINF:-1,DEPORTES EUR | ESPN 1 HD MX *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1683
+
+#EXTINF:-1,DEPORTES EUR | ESPN 2 HD MX (S)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1686
+
+#EXTINF:-1,DEPORTES EUR | ESPN 2 HD SUR (e)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1673
+
+#EXTINF:-1,DEPORTES EUR | ESPN 3 HD CO
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1682
+
+#EXTINF:-1,DEPORTES EUR | ESPN 3 HD CO (A)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1681
+
+#EXTINF:-1,DEPORTES EUR | ESPN 3 HD MX
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1688
+
+#EXTINF:-1,DEPORTES EUR | ESPN 3 HD MX (E)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1687
+
+#EXTINF:-1,DEPORTES EUR | ESPN DEPORTES *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1690
+
+#EXTINF:-1,DEPORTES EUR | ESPN PLUS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1689
+
+#EXTINF:-1,DEPORTES EUR | EUROSPORT 1 (K)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1691
+
+#EXTINF:-1,DEPORTES EUR | LaLigaTV Bar FHD (u)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1655
+
+#EXTINF:-1,DEPORTES EUR | M. GOLF HD *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1698
+
+#EXTINF:-1,DEPORTES EUR | MOVISTAR  F1 (L)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1699
+
+#EXTINF:-1,DEPORTES EUR | MOVISTAR DEPORTES
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1660
+
+#EXTINF:-1,DEPORTES EUR | MOVISTAR DEPORTES (1)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1661
+
+#EXTINF:-1,DEPORTES EUR | MOVISTAR LALIGA FHD (p)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1656
+
+#EXTINF:-1,DEPORTES EUR | MOVISTAR LALIGA HD (1)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/18334
+
+#EXTINF:-1,DEPORTES EUR | MOVISTAR LIGA DE CAMPEONES FHD (1)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1659
+
+#EXTINF:-1,DEPORTES EUR | MOVISTAR LIGA DE CAMPEONES FHD (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1658
+
+#EXTINF:-1,DEPORTES EUR | NBA FHD (L)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1695
+
+#EXTINF:-1,DEPORTES EUR | NBC Chicago HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1703
+
+#EXTINF:-1,DEPORTES EUR | NBC New England HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1701
+
+#EXTINF:-1,DEPORTES EUR | NBC Philadelphia HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1700
+
+#EXTINF:-1,DEPORTES EUR | NFL NETWORK
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1697
+
+#EXTINF:-1,DEPORTES EUR | REAL MADRID HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1653
+
+#EXTINF:-1,DEPORTES EUR | UFC HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1693
+
+#EXTINF:-1,DEPORTES LAT - TNT SPORTS HD - CHILE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/24357
+
+#EXTINF:-1,DEPORTES LAT | CDO BASICO
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1711
+
+#EXTINF:-1,DEPORTES LAT | DIRECTV SPORTS (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1733
+
+#EXTINF:-1,DEPORTES LAT | DIRECTV SPORTS +
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1735
+
+#EXTINF:-1,DEPORTES LAT | DIRECTV SPORTS 2
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1734
+
+#EXTINF:-1,DEPORTES LAT | ESPN 1 HD AR
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1671
+
+#EXTINF:-1,DEPORTES LAT | ESPN 1 HD AR (u)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1672
+
+#EXTINF:-1,DEPORTES LAT | ESPN 2 HD AR
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1674
+
+#EXTINF:-1,DEPORTES LAT | ESPN 2 HD SUR
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1679
+
+#EXTINF:-1,DEPORTES LAT | ESPN 3 SUR FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1675
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 1 HD AR (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1714
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 1 HD CO
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1719
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 1 HD CO *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1720
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 1 HD MX (E)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1726
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 CHILE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/4199
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 HD CO
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1721
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 HD CO (A)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1722
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 HD MX
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1728
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 2 HD MX
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1727
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 3 FHD AR (E)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1718
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 3 FHD CO (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1724
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 3 FHD MX (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1730
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 3 HD AR (L)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1717
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 3 HD CO (A)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1723
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS 3 HD MX (e)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1729
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS PREMIUM HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1736
+
+#EXTINF:-1,DEPORTES LAT | FOX SPORTS PREMIUM OP 2 (A)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1737
+
+#EXTINF:-1,DEPORTES LAT | GOL PERU
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1743
+
+#EXTINF:-1,DEPORTES LAT | GOLTV EC
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1744
+
+#EXTINF:-1,DEPORTES LAT | GOLTV EC.
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1745
+
+#EXTINF:-1,DEPORTES LAT | GOLTV INTERNACIONAL (e)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1746
+
+#EXTINF:-1,DEPORTES LAT | IZZI AFIZZIONADOS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3032
+
+#EXTINF:-1,DEPORTES LAT | TELETRAK (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1710
+
+#EXTINF:-1,DEPORTES LAT | TIGO SPORTS 1 HD BO
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1747
+
+#EXTINF:-1,DEPORTES LAT | TIGO SPORTS 1 HD PARAGUAY (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1750
+
+#EXTINF:-1,DEPORTES LAT | TIGO SPORTS 2 HD BO
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1748
+
+#EXTINF:-1,DEPORTES LAT | TIGO SPORTS 3 HD BO (e)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1749
+
+#EXTINF:-1,DEPORTES LAT | TNT SPORTS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1739
+
+#EXTINF:-1,DEPORTES LAT | TNT SPORTS 2 - CHILE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/24356
+
+#EXTINF:-1,DEPORTES LAT | TNT SPORTS HD (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1738
+
+#EXTINF:-1,DEPORTES LAT | WIN SPORTS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1731
+
+#EXTINF:-1,DEPORTES LAT | Win Sports + HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/5246
+
+#EXTINF:-1,DEPORTES LAT | Win Sports + SD (c)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/5245
+
+#EXTINF:-1,DEPORTES LAT | WIN SPORTS OP 2
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1732
+
+#EXTINF:-1,DEPORTES LATINO | Claro Sport HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/29590
+
+#EXTINF:-1,DEPORTES LATINO | FUTV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/8643
+
+#EXTINF:-1,Detroit Pistons
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44782
+
+#EXTINF:-1,Dinosaurios
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42560
+
+#EXTINF:-1,DIOS HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/43073
+
+#EXTINF:-1,DIOS TV KIDS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/43082
+
+#EXTINF:-1,DIRECTV 2 HD**
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42823
+
+#EXTINF:-1,DIRECTV SPORTS +
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42821
+
+#EXTINF:-1,DIRECTV SPORTS 1  HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42822
+
+#EXTINF:-1,DIRECTV SPORTS 2 CHILE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/43222
+
+#EXTINF:-1,Directv Sports HD CHILE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/41936
+
+#EXTINF:-1,DIRECTV URUGUAY HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42732
+
+#EXTINF:-1,Discovery Channel HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42677
+
+#EXTINF:-1,Discovery en Español
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3790
+
+#EXTINF:-1,Disney Channel HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42672
+
+#EXTINF:-1,Disney XD HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42640
+
+#EXTINF:-1,DIY Network HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42676
+
+#EXTINF:-1,Dragon Ball Super HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42567
+
+#EXTINF:-1,EC | CANAL DEL FUTBOL HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/41205
+
+#EXTINF:-1,EC | Telecaribe *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6346
+
+#EXTINF:-1,ECUADOR | CANELA TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1311
+
+#EXTINF:-1,ECUADOR | ECUAVISA [quito]
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1307
+
+#EXTINF:-1,ECUADOR | GAMAVISION
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1310
+
+#EXTINF:-1,ECUADOR | OROMAR TV HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1308
+
+#EXTINF:-1,ECUADOR | RTS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1303
+
+#EXTINF:-1,ECUADOR | TC MI CANAL HD  (A)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1302
+
+#EXTINF:-1,ECUADOR | TELEAMAZONAS HD [Quito]
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/29513
+
+#EXTINF:-1,ECUADOR | TVC HD (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1304
+
+#EXTINF:-1,EL CAMINO
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/43071
+
+#EXTINF:-1,El Chapulin Colorado
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42553
+
+#EXTINF:-1,EL SALVADOR | CANAL 12
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/11368
+
+#EXTINF:-1,ENT | CANAL COCINA
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/19204
+
+#EXTINF:-1,ENT | El Gourmet FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/19209
+
+#EXTINF:-1,ENT | FOOD NETWORK MEXICO
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/19203
+
+#EXTINF:-1,ENT | Galavision Miami
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/19205
+
+#EXTINF:-1,ENT | HOLA TV HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/19206
+
+#EXTINF:-1,ENT | PASIONES HD Lat
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/19207
+
+#EXTINF:-1,ENT | TLC
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/11330
+
+#EXTINF:-1,ENT | Tlenovelas SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/19208
+
+#EXTINF:-1,ENT | TRU TV *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1493
+
+#EXTINF:-1,ENT | WWE NETWORK
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1696
+
+#EXTINF:-1,ESPAÑA  | ANTENA 3 FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/18362
+
+#EXTINF:-1,ESPAÑA  | DIVINITY
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6163
+
+#EXTINF:-1,españa - A3Series FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/36065
+
+#EXTINF:-1,ESPAÑA | AXN
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6125
+
+#EXTINF:-1,ESPAÑA | AXN WHITE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6126
+
+#EXTINF:-1,ESPAÑA | BABY TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6127
+
+#EXTINF:-1,ESPAÑA | CALLE 13
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6131
+
+#EXTINF:-1,ESPAÑA | CAZA Y PESCA
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6135
+
+#EXTINF:-1,ESPAÑA | CNN EN ESPAÑOL
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/11228
+
+#EXTINF:-1,ESPAÑA | COMEDY CENTRAL
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6138
+
+#EXTINF:-1,ESPAÑA | CRIMEN INVESTIGACION
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6140
+
+#EXTINF:-1,ESPAÑA | CUATRO
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6170
+
+#EXTINF:-1,ESPAÑA | DE CASA
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6166
+
+#EXTINF:-1,ESPAÑA | DISNEY CHANEL
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6165
+
+#EXTINF:-1,ESPAÑA | DISNEY JR
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6168
+
+#EXTINF:-1,ESPAÑA | DISNEY XD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6164
+
+#EXTINF:-1,ESPAÑA | DKISS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6162
+
+#EXTINF:-1,ESPAÑA | ENERGY
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6160
+
+#EXTINF:-1,ESPAÑA | HISTORIA
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6145
+
+#EXTINF:-1,ESPAÑA | HOLLYWOOD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6146
+
+#EXTINF:-1,ESPAÑA | LA 1
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6148
+
+#EXTINF:-1,ESPAÑA | LA SEXTA
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6149
+
+#EXTINF:-1,ESPAÑA | MEGA TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6150
+
+#EXTINF:-1,ESPAÑA | MOVISTAR ACCION
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6153
+
+#EXTINF:-1,ESPAÑA | MOVISTAR CINE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6169
+
+#EXTINF:-1,ESPAÑA | MOVISTAR CINE DOC. Y ROLL.
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6154
+
+#EXTINF:-1,ESPAÑA | MOVISTAR COMEDIA
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6155
+
+#EXTINF:-1,ESPAÑA | MOVISTAR DRAMA
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6156
+
+#EXTINF:-1,ESPAÑA | MOVISTAR ESTRENOS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6151
+
+#EXTINF:-1,ESPAÑA | MOVISTAR FORMULA 1
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6157
+
+#EXTINF:-1,ESPAÑA | MOVISTAR SERIES
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6158
+
+#EXTINF:-1,ESPAÑA | MOVISTAR SERIES MANIA
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6159
+
+#EXTINF:-1,ESPAÑA | ODISEA
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6132
+
+#EXTINF:-1,ESPAÑA | TOROS TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6141
+
+#EXTINF:-1,ESPAÑA | VAMOS sports
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/6111
+
+#EXTINF:-1,Estados Unidos | Telemundo Chicago
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3373
+
+#EXTINF:-1,Food Network HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42701
+
+#EXTINF:-1,Fox 10 Phoenix HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42641
+
+#EXTINF:-1,Fox 11 Los Angeles
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42621
+
+#EXTINF:-1,Fox 2 Detroit
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42623
+
+#EXTINF:-1,Fox 25 Boston
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42625
+
+#EXTINF:-1,Fox 32 Chicago
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42624
+
+#EXTINF:-1,Fox Deportes HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42667
+
+#EXTINF:-1,Fox Miami
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42620
+
+#EXTINF:-1,FOX SPORT 2 FHD*
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42817
+
+#EXTINF:-1,Fox Sports 1 (FS1)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42700
+
+#EXTINF:-1,FOX SPORTS 1 LAT HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42815
+
+#EXTINF:-1,FreeForm HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42660
+
+#EXTINF:-1,FXM HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42699
+
+#EXTINF:-1,Golf Channel
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42643
+
+#EXTINF:-1,GUATEMALA | CANAL 11
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/11377
+
+#EXTINF:-1,GUATEMALA | CANAL 3
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/11375
+
+#EXTINF:-1,GUATEMALA | CANAL ANTIGUA
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/11379
+
+#EXTINF:-1,GUATEMALA | GUATEVISION
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/11380
+
+#EXTINF:-1,H2 HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42644
+
+#EXTINF:-1,Hallmark Drama HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42696
+
+#EXTINF:-1,Hallmark Movies & Mysteries HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42695
+
+#EXTINF:-1,HBO Comedy HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42616
+
+#EXTINF:-1,HBO Plus HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42693
+
+#EXTINF:-1,HBO Signature HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42697
+
+#EXTINF:-1,He Man
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42566
+
+#EXTINF:-1,HONDURAS | AZTECA HONDURAS *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1202
+
+#EXTINF:-1,HONDURAS | Campus TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1196
+
+#EXTINF:-1,HONDURAS | CANAL 11
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1200
+
+#EXTINF:-1,HONDURAS | CANAL 5
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1206
+
+#EXTINF:-1,HONDURAS | CANAL 6
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1204
+
+#EXTINF:-1,HONDURAS | Ebenezer TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1199
+
+#EXTINF:-1,HONDURAS | TEN CANAL 10
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1207
+
+#EXTINF:-1,Houston Rockets
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44783
+
+#EXTINF:-1,INFANTIL | Cartoon Network FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1460
+
+#EXTINF:-1,INFANTIL | Discovery Kids SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1469
+
+#EXTINF:-1,INFANTIL | DISNEY CHANNEL HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1468
+
+#EXTINF:-1,INFANTIL | DISNEY JR
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1467
+
+#EXTINF:-1,INFANTIL | DISNEY XD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1466
+
+#EXTINF:-1,INFANTIL | NATGEO KIDS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1465
+
+#EXTINF:-1,INFANTIL | NICK
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1462
+
+#EXTINF:-1,INFANTIL | NICKELODEON *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/10487
+
+#EXTINF:-1,INFANTIL | NICKTOONS *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1463
+
+#EXTINF:-1,INFANTIL | TOONCAST SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1457
+
+#EXTINF:-1,INSPIRATION TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/43072
+
+#EXTINF:-1,Jorge el Curioso HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42565
+
+#EXTINF:-1,KIDS | NICK
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/22369
+
+#EXTINF:-1,La Casa de Papel
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42552
+
+#EXTINF:-1,La FM - 94.9 (Colombia)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42722
+
+#EXTINF:-1,LAT | UNIVISION NEW YORK HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/25070
+
+#EXTINF:-1,LAT| GALAVISION ATLANTA HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42736
+
+#EXTINF:-1,LAT| GALAVISION FRESNO HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42738
+
+#EXTINF:-1,LAT| GALAVISION HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42739
+
+#EXTINF:-1,LAT| GALAVISION HOUSTON HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42737
+
+#EXTINF:-1,LAT| GALAVISION LAS VEGAS HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42740
+
+#EXTINF:-1,LAT| GALAVISION LOS ANGELES HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42735
+
+#EXTINF:-1,LAT| GALAVISION MIAMI HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42733
+
+#EXTINF:-1,LAT| GALAVISION NEW YORK HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42734
+
+#EXTINF:-1,LAT| GALAVISION PHILADELPHIA HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42741
+
+#EXTINF:-1,LAT| GALAVISION PHOENIX HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42742
+
+#EXTINF:-1,LAT| GALAVISION RALEIGTH HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42743
+
+#EXTINF:-1,LAT| GALAVISION SACRAMENTO HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42744
+
+#EXTINF:-1,LAT| GALAVISION SAN ANTONIO HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42746
+
+#EXTINF:-1,LAT| GALAVISION SAN FRANCISCO HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42747
+
+#EXTINF:-1,LAT| GALAVISION SAT LAKE HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42745
+
+#EXTINF:-1,Lifetime Movies HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42656
+
+#EXTINF:-1,LOGOS TV KIDS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/43080
+
+#EXTINF:-1,Los Magnificos
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42561
+
+#EXTINF:-1,Mazinger Z
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42555
+
+#EXTINF:-1,MCN
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/43076
+
+#EXTINF:-1,MEA CULPA T2
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/48214
+
+#EXTINF:-1,MEA CULPA TEMPORADA 1
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/40493
+
+#EXTINF:-1,MEXICO | ADN 40 FHD (A)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1209
+
+#EXTINF:-1,MEXICO | AyM Sports SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1214
+
+#EXTINF:-1,MEXICO | AZ Cinema HD *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1210
+
+#EXTINF:-1,MEXICO | AZ Click FHD (L)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1211
+
+#EXTINF:-1,MEXICO | AZ Corazon HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1212
+
+#EXTINF:-1,MEXICO | AZ Mundo FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1213
+
+#EXTINF:-1,MEXICO | Azteca 7
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1215
+
+#EXTINF:-1,MEXICO | AZTECA UNO *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/10102
+
+#EXTINF:-1,MEXICO | Bandamax SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1216
+
+#EXTINF:-1,MEXICO | CANAL 5
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1229
+
+#EXTINF:-1,MEXICO | CANAL 5 op 2
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/24587
+
+#EXTINF:-1,MEXICO | CANAL ONCE (S)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1228
+
+#EXTINF:-1,MEXICO | DISTRITO COMEDIA *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1230
+
+#EXTINF:-1,MEXICO | EL GOURMET
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/11231
+
+#EXTINF:-1,MEXICO | HOLA TV *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/11229
+
+#EXTINF:-1,MEXICO | LAS ESTRELLAS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1225
+
+#EXTINF:-1,MEXICO | MEXIQUENSE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1224
+
+#EXTINF:-1,MEXICO | MULTIMEDIOS *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1223
+
+#EXTINF:-1,MEXICO | MULTIMEDIOS HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1222
+
+#EXTINF:-1,MEXICO | NTN24
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1220
+
+#EXTINF:-1,MEXICO | TELEFORMULA TV *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1227
+
+#EXTINF:-1,MEXICO | TELEHIT
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1219
+
+#EXTINF:-1,MEXICO | TLNovelas (ST)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3398
+
+#EXTINF:-1,MEXICO | UNICABLE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1217
+
+#EXTINF:-1,Miami Heat
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44805
+
+#EXTINF:-1,MoreMax HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42688
+
+#EXTINF:-1,MSNBC HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42662
+
+#EXTINF:-1,MUSICA | MTV HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/982
+
+#EXTINF:-1,MUSICA | MTV LIVE *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/10768
+
+#EXTINF:-1,Natgeo People HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42645
+
+#EXTINF:-1,NBC Miami HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42646
+
+#EXTINF:-1,NBC New York HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42647
+
+#EXTINF:-1,NBCSN
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42674
+
+#EXTINF:-1,NESN Sports HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42648
+
+#EXTINF:-1,New Orleanns Pelicans
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44807
+
+#EXTINF:-1,NFL Network HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42684
+
+#EXTINF:-1,Nick Junior HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42673
+
+#EXTINF:-1,Nickelodeon HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42670
+
+#EXTINF:-1,NickToons HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42665
+
+#EXTINF:-1,Oxygen HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42659
+
+#EXTINF:-1,PAC Arizona HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42649
+
+#EXTINF:-1,PAC Bay Area HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42655
+
+#EXTINF:-1,PAC Los Angeles HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42650
+
+#EXTINF:-1,PAC Mountain HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42651
+
+#EXTINF:-1,PAC Network HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42652
+
+#EXTINF:-1,PAC Washinton HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42653
+
+#EXTINF:-1,PALABRA DE DIOS SIN LEVADURA
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/43074
+
+#EXTINF:-1,Paramount HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42657
+
+#EXTINF:-1,Paw Patrol HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42556
+
+#EXTINF:-1,Pepa Pig HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42569
+
+#EXTINF:-1,PERU | AMERICA FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/5780
+
+#EXTINF:-1,PERU | AMERICA TV  (a)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1252
+
+#EXTINF:-1,PERU | ANTARES (A)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1243
+
+#EXTINF:-1,PERU | ATV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1253
+
+#EXTINF:-1,PERU | CANAL N
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1248
+
+#EXTINF:-1,PERU | CMD SD *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1250
+
+#EXTINF:-1,PERU | DIRECTV SPORTS PERU
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/22323
+
+#EXTINF:-1,PERU | EXITOSA (E)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/5779
+
+#EXTINF:-1,PERU | GOL PERU HD *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1240
+
+#EXTINF:-1,PERU | IPE  (q)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1255
+
+#EXTINF:-1,PERU | LATINA HD (e).
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1256
+
+#EXTINF:-1,Peru | LATINA SD *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1245
+
+#EXTINF:-1,PERU | MOVISTAR DEPORTES
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1241
+
+#EXTINF:-1,PERU | MOVISTAR PLUS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1247
+
+#EXTINF:-1,PERU | PANAMERICANA HD (p)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1251
+
+#EXTINF:-1,PERU | PERU MAGICO (p)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1244
+
+#EXTINF:-1,PERU | RPP (e)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/4196
+
+#EXTINF:-1,PERU | TV Peru HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1254
+
+#EXTINF:-1,Philadelphia 76ers
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44801
+
+#EXTINF:-1,Puerto Rico | Mega Tv
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/11318
+
+#EXTINF:-1,Puerto Rico | Telemundo
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/11320
+
+#EXTINF:-1,Puerto Rico | Wapa
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/11323
+
+#EXTINF:-1,Puerto Rico | Wapa 2
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/11322
+
+#EXTINF:-1,Puerto Rico | Wipr Canal 6
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/11328
+
+#EXTINF:-1,Puerto Rico|| Univision
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/11321
+
+#EXTINF:-1,R. Dominicana - Canal Digital 15 HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/27303
+
+#EXTINF:-1,R. Dominicana - CDN 2
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/27301
+
+#EXTINF:-1,R. Dominicana - CDN 37
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/27304
+
+#EXTINF:-1,R. Dominicana - Color Vision HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/27308
+
+#EXTINF:-1,R. Dominicana - La voz de Maria
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/34455
+
+#EXTINF:-1,R. Dominicana - Microvision
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/27310
+
+#EXTINF:-1,R. Dominicana - Romana TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/27311
+
+#EXTINF:-1,R. Dominicana - Super TV 55
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/34454
+
+#EXTINF:-1,R. Dominicana - Tele Antillas
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/27313
+
+#EXTINF:-1,R. Dominicana - Telefuturo
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/27315
+
+#EXTINF:-1,R. Dominicana - Telemicro
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/27317
+
+#EXTINF:-1,R. Dominicana - Telemicro HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/27318
+
+#EXTINF:-1,R. Dominicana - Telesistema
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/27320
+
+#EXTINF:-1,R. Dominicana - TV Plata
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/27322
+
+#EXTINF:-1,Radio Acktiva (Colombia)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42723
+
+#EXTINF:-1,Radio EL Sol RCN - (Colombia)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42720
+
+#EXTINF:-1,Radio Inolvidable - 93.7 (Peru)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42714
+
+#EXTINF:-1,Radio Magica - 88.3 (Peru)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42713
+
+#EXTINF:-1,Radio Moda  (Peru)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42715
+
+#EXTINF:-1,RCN Radio - 93.9 (Colombia)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42719
+
+#EXTINF:-1,Religiosos - CDM [PR]
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42550
+
+#EXTINF:-1,Religiosos - Enlace
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42546
+
+#EXTINF:-1,Religiosos - EWTN FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42549
+
+#EXTINF:-1,Religiosos - Solidaria TV FHD [Es]
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42548
+
+#EXTINF:-1,Religiosos - TV Mana HD  [Arg]
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42547
+
+#EXTINF:-1,Saga Rocky
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42563
+
+#EXTINF:-1,Saga Transformers FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42564
+
+#EXTINF:-1,Showtime Next HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42689
+
+#EXTINF:-1,SILOE TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/43079
+
+#EXTINF:-1,SOLDADITOS KIDS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/43081
+
+#EXTINF:-1,Solo Stand Up
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/37322
+
+#EXTINF:-1,South Park HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42557
+
+#EXTINF:-1,StarTV HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42608
+
+#EXTINF:-1,Starz Comedy HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42614
+
+#EXTINF:-1,Starz Encore Action FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3959
+
+#EXTINF:-1,Starz Encore Black HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42612
+
+#EXTINF:-1,Starz Encore Family HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42613
+
+#EXTINF:-1,Starz Encore Suspense
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3951
+
+#EXTINF:-1,Starz Encore Suspense HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42611
+
+#EXTINF:-1,Starz Encore West HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42610
+
+#EXTINF:-1,Sundance TV HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42617
+
+#EXTINF:-1,Super Campeones
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42558
+
+#EXTINF:-1,Super Campeones Rumbo al Mundial 2002
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42571
+
+#EXTINF:-1,Sur - Directv Sports + HD (Col)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/25264
+
+#EXTINF:-1,Sur - Directv Sports 2 HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/25266
+
+#EXTINF:-1,Sur - Directv Sports HD AR
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/25265
+
+#EXTINF:-1,TELEMUNDO | Telemundo New York HD (P)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/925
+
+#EXTINF:-1,TELEMUNDO | Telemundo WEST HD (A)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/924
+
+#EXTINF:-1,Telemundo 25 Denver HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42599
+
+#EXTINF:-1,Telemundo 39 Dallas HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42601
+
+#EXTINF:-1,Telemundo 39 Las Vegas HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42585
+
+#EXTINF:-1,Telemundo 44 Chicago
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42587
+
+#EXTINF:-1,Telemundo 47 New York HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42576
+
+#EXTINF:-1,Telemundo 48 San Francisco HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42581
+
+#EXTINF:-1,Telemundo 52 Los Angeles HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42583
+
+#EXTINF:-1,Telemundo 60 Boston HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42575
+
+#EXTINF:-1,Telemundo 60 San Antonio HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42584
+
+#EXTINF:-1,Tennis Channel HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/46921
+
+#EXTINF:-1,TNT HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42687
+
+#EXTINF:-1,TNT Sports 1 HD - CL
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42424
+
+#EXTINF:-1,TNT Sports 1* HD - CL
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42425
+
+#EXTINF:-1,TNT Sports 2 HD  - CL
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42426
+
+#EXTINF:-1,TNT Sports 3 SD - CL
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42427
+
+#EXTINF:-1,TNT SPORTS HD - CHILE OP2
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/24360
+
+#EXTINF:-1,Toy Story HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42572
+
+#EXTINF:-1,TUDN DEPORTES
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/24798
+
+#EXTINF:-1,Tv Familia SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42520
+
+#EXTINF:-1,TV HD Tropical
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/39188
+
+#EXTINF:-1,UN | Unimas Dallas
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/30844
+
+#EXTINF:-1,UN | Unimas Miami
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/30846
+
+#EXTINF:-1,UN | Unimas New York
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/30847
+
+#EXTINF:-1,Unimas Atlanta HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42604
+
+#EXTINF:-1,Unimas Denver HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42600
+
+#EXTINF:-1,Unimas Houston HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42588
+
+#EXTINF:-1,Unimas Los Angeles HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42580
+
+#EXTINF:-1,Universal Kids HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42682
+
+#EXTINF:-1,Univision Atlanta HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42589
+
+#EXTINF:-1,Univision Austin HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42592
+
+#EXTINF:-1,Univision Chicago HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42593
+
+#EXTINF:-1,Univision Dallas HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42602
+
+#EXTINF:-1,Univision Houston HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42590
+
+#EXTINF:-1,Univision Houston HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42579
+
+#EXTINF:-1,Univision Los Angeles HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42595
+
+#EXTINF:-1,Univision Miami HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42578
+
+#EXTINF:-1,Univision Novelas HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42594
+
+#EXTINF:-1,Univision NY HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42596
+
+#EXTINF:-1,Univision San Francisco HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42598
+
+#EXTINF:-1,Univision Tlenovelas
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/33153
+
+#EXTINF:-1,Univison Las Vegas HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42605
+
+#EXTINF:-1,URUGUAY | CANAL 10 SAETA HD (u)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1174
+
+#EXTINF:-1,URUGUAY | CANAL 4 MONTECARLO HD (A)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1179
+
+#EXTINF:-1,URUGUAY | CANAL 4 SALTO (L)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1173
+
+#EXTINF:-1,URUGUAY | LA TELE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1180
+
+#EXTINF:-1,URUGUAY | LA TELE SD (E)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1178
+
+#EXTINF:-1,URUGUAY | VTV + HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1176
+
+#EXTINF:-1,URUGUAY | VTV HD (U)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1175
+
+#EXTINF:-1,URUGUAY | VTV.
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3991
+
+#EXTINF:-1,URUGUAY | VTV+ SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/1177
+
+#EXTINF:-1,USA | Cartoon Network
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3792
+
+#EXTINF:-1,USA | Cinemax East
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3795
+
+#EXTINF:-1,USA | CNN
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3764
+
+#EXTINF:-1,USA | CNN HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/37089
+
+#EXTINF:-1,USA | Destination America
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3765
+
+#EXTINF:-1,USA | Discovery Familia
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3789
+
+#EXTINF:-1,USA | Discovery ID
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3762
+
+#EXTINF:-1,USA | Discovery Life
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3767
+
+#EXTINF:-1,USA | Discovery Science
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3768
+
+#EXTINF:-1,USA | Disney Jr
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3794
+
+#EXTINF:-1,USA | E!
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3785
+
+#EXTINF:-1,USA | EPIX
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3796
+
+#EXTINF:-1,USA | Food Network
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3769
+
+#EXTINF:-1,USA | FX
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3770
+
+#EXTINF:-1,USA | Galavision
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3786
+
+#EXTINF:-1,USA | Hallmark
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3771
+
+#EXTINF:-1,USA | HBO ZONE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3804
+
+#EXTINF:-1,USA | Lifetime
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3774
+
+#EXTINF:-1,USA | MLB  Network
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/19099
+
+#EXTINF:-1,USA | Nat Geo Wild
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3776
+
+#EXTINF:-1,USA | PBS KIDS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3777
+
+#EXTINF:-1,USA | Showtime
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3797
+
+#EXTINF:-1,USA | Showtime 2
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3798
+
+#EXTINF:-1,USA | SHOWTIME ESP
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3807
+
+#EXTINF:-1,USA | Showtime Extreme
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3800
+
+#EXTINF:-1,USA | Starz Black
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3803
+
+#EXTINF:-1,USA | STARZ EDGE
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3806
+
+#EXTINF:-1,USA | Starz Encore Western (Stability Test)
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3801
+
+#EXTINF:-1,USA | STARZ ESP
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3805
+
+#EXTINF:-1,USA | SyFy
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3778
+
+#EXTINF:-1,USA | TBS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3779
+
+#EXTINF:-1,USA | The Weather Channel
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3781
+
+#EXTINF:-1,USA | Travel Channel
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3783
+
+#EXTINF:-1,USA | TruTV *
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/3784
+
+#EXTINF:-1,USA Network
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/23331
+
+#EXTINF:-1,Venezuela - Globovision SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/29578
+
+#EXTINF:-1,Venezuela - Meridiano TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/29575
+
+#EXTINF:-1,Venezuela - Telesur
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/29579
+
+#EXTINF:-1,Venezuela - Televen SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42521
+
+#EXTINF:-1,Venezuela - Vale TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42522
+
+#EXTINF:-1,Venezuela - Ve Plus SD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/29576
+
+#EXTINF:-1,Venezuela - Venevision PLUS
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/29577
+
+#EXTINF:-1,Venezuela - Venezolana Television
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/29584
+
+#EXTINF:-1,Venezuela - Vive
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/29580
+
+#EXTINF:-1,We TV
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42669
+
+#EXTINF:-1,Whashington Wizards
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/44809
+
+#EXTINF:-1,Willax HD ©
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42712
+
+#EXTINF:-1,World Fishing Network HD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42609
+
+#EXTINF:-1,X-Men FHD
+http://tv5full.xyz:25461/wmgnesvr/hvfveaff/42570
