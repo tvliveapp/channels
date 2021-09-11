@@ -1,0 +1,237 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Item 1
+type="stream" channelId="-1", Item 1
+#EXTINF:0 type="stream" channelId="-1" group="mexico", oncetv
+http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="mexico", afizzionados
+http://iptvhd.club:25461/live/aptvall/bYIsOYLK7K/174_.m3u8?token=RF3PuSuuivP8DtqsgdbXWg&expires=1630914967
+#EXTINF:0 type="stream" channelId="-1" group="latino", canal26
+http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="latino", ftv
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="latino", foxmix
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="latino", microvision
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="latino", readytv
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist_w1940231996.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="latino", telecibao
+http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="latino", telesur
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="latino", tlx
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="latino", wow
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="premium", pfmtv
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="premium", tmtv
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w728448538.m3u8
+#EXTINF:0 type="stream" channelId="-1", wdjnet type="stream" channelId="-1"\\\\\\\\\, wdjnet
+type="stream" channelId="-1", wdjnet type="stream" channelId="-1", wdjnet
+#EXTINF:0 type="stream" channelId="-1", wdj type="stream" channelId="-1"\\\\\\\\\\\\\\\\\\, wdj type="stream" channelId="-1"\\\\\\\\\, wdj type="stream" channelId="-1"\\\\\\\\\, wdj
+type="stream" channelId="-1", wdj type="stream" channelId="-1"\\\\\\\\\, wdj type="stream" channelId="-1", wdj type="stream" channelId="-1", wdj
+#EXTINF:0 type="stream" channelId="-1" group="latino", salvador digital
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="latino", canal 55 dominicana
+http://ss8.domint.net:2128/stv_str/tv55/chunklist_w1389944491.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="latino", argentino
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TENHD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:0 type="stream" channelId="-1", Galicia TV
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVP Peru
+http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Azteca Honduras
+http://190.122.96.187:8888/http/002
+#EXTINF:0 type="stream" channelId="-1", EBENEZER HONDURAS
+http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2_source/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1", Campus TV Honduras
+http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1", Canal 10 Honduras
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8?checkedby:iptvcat.com
+#EXTINF:0 type="stream" channelId="-1", Xtrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Telemax TV
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", Maleta Mix TV
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 type="stream" channelId="-1", Miusic Pop chile
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 type="stream" channelId="-1", Telesur TV
+http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Central TV
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Tectv
+http://190.107.176.55:1935/live/tec-tv/chunklist_w1055014753.m3u8
+#EXTINF:0 type="stream" channelId="-1", Portal Mix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", LANCELOT
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:0 type="stream" channelId="-1", TV Capital
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0 type="stream" channelId="-1", TLR
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religiosos", LOGOSTV
+http://streamer1.streamhost.org:1935/salive/GMIalfah/livestream.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religiosos", solidariatv
+https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+#EXTINF:0 type="stream" channelId="-1", Telenord
+http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", TVM
+http://ss6.domint.net:2060/tvm_str/montanatv/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="kids", Planeta Kidz
+https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Nick
+http://201.220.141.118:8000/play/a060/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="kids", Nick Jr
+http://38.131.11.9:1080/play/a026
+#EXTINF:0 type="stream" channelId="-1" group="kids", NatGeo Kids
+http://38.131.11.9:1080/play/a011
+#EXTINF:0 type="stream" channelId="-1" group="kids", Disney
+http://38.131.11.9:1080/play/a00p
+#EXTINF:0 type="stream" channelId="-1" group="kids", Cartoon Network
+http://38.131.11.9:1080/play/a012
+#EXTINF:0 type="stream" channelId="-1", BabyTV
+http://icego.club:80/vanderlei12/vanderlei12/46897
+#EXTINF:0 type="stream" channelId="-1", Tooncast
+http://balancer1.iptvmx.com:8081/tecno/Tooncast.Tecnobyte/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", canal5
+https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Uni teve
+https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
+#EXTINF:0 type="stream" channelId="-1", SEÑAL URBANA
+https://stmvideo2.livecastv.com/urbana98/urbana98/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Cine Club
+https://mediacpstreamchile.com:1936/walter/walter/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", zcast
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", canal cines
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", canalfeelgood
+https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Horrorfy
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", 7tv
+https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", rakuten tv family
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", musica variada muy buena
+https://srv1.zcast.com.br/daniel2525/daniel2525/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", latinzone
+https://cdn.streamingcpanel.com:3784/live/latinzonetvlive.m3u8?PlaylistM3UCL
+#EXTINF:0 type="stream" channelId="-1", MIX 24-7 TROPICAL
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/3.m3u8
+#EXTINF:0 type="stream" channelId="-1", MIX24-7
+http://159.69.56.148:25461/live/M3UCanales4/4fr9vich/2.m3u8
+#EXTINF:0 type="stream" channelId="-1", MCRT REGUETON
+https://stmv.negotv.com/regueton2021/regueton2021/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", MCRT POP
+https://stmv.negotv.com/top2021/top2021/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Zona Latina
+http://38.131.11.9:1080/play/a00x
+#EXTINF:0 type="stream" channelId="-1", MCRT ESPAÑOL
+https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", MCRT BANDA
+https://stmv.negotv.com/bandamx/bandamx/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", garagetv
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", BARZA TV
+http://91.126.138.141:1935/live/barza/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fox Sports HD
+http://201.220.141.118:8000/play/a05f/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", FOX SPORTS 2 HD
+http://201.220.141.118:8000/play/a061/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fox Sports 3
+http://201.220.141.118:8000/play/a06i/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", ESPN +
+http://201.220.141.118:8000/play/a027/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", Espn1
+http://balancer1.iptvmx.com:8081/tecno/Espn1.BKR/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", Espn2
+http://balancer1.iptvmx.com:8081/tecno/Espn2.BKR/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", ESPN 3
+http://201.220.141.118:8000/play/a06g/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", movistar-deportes
+http://31.220.41.88:8081/live/es-movistar-deportes.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", movistar la liga
+http://31.220.41.90:8081/live/bein-laliga.stream/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", TYCSPORTS
+http://177.126.50.94:8000/play/a019/index.m3u8
+#EXTINF:0 type="stream" channelId="-1", TNT SPORTS 1
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+#EXTINF:0 type="stream" channelId="-1", skysport1
+http://31.220.41.88:8081/live/de-skysport1.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", CNN en Espanol
+http://38.131.11.9:1080/play/a004
+#EXTINF:0 type="stream" channelId="-1", TELEMUNDO INTERNACIONAL
+http://38.131.11.9:1080/play/a035
+#EXTINF:0 type="stream" channelId="-1", Telemundo
+http://balancer1.iptvmx.com:8081/tecno/Telemundoint.TecnoByte/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", Warner
+http://38.131.11.9:1080/play/a05i
+#EXTINF:0 type="stream" channelId="-1", TNT SERIES
+http://38.131.11.9:1080/play/a0dg
+#EXTINF:0 type="stream" channelId="-1", TNT
+http://38.131.11.9:1080/play/a013
+#EXTINF:0 type="stream" channelId="-1", Universal
+http://38.131.11.9:1080/play/a00t
+#EXTINF:0 type="stream" channelId="-1", TruTv HD
+http://38.131.11.9:1080/play/a0dx
+#EXTINF:0 type="stream" channelId="-1", TLC
+http://38.131.11.9:1080/play/a030
+#EXTINF:0 type="stream" channelId="-1", TCM
+http://38.131.11.9:1080/play/a010
+#EXTINF:0 type="stream" channelId="-1", Space
+http://38.131.11.9:1080/play/a01y
+#EXTINF:0 type="stream" channelId="-1", cinecanal
+http://38.131.11.9:1080/play/a00s
+#EXTINF:0 type="stream" channelId="-1", Canal de Las estrellas
+http://38.131.11.9:1080/play/a032
+#EXTINF:0 type="stream" channelId="-1", Nat Geo
+http://38.131.11.9:1080/play/a00q
+#EXTINF:0 type="stream" channelId="-1", History 2 Hd
+http://38.131.11.9:1080/play/a0dd
+#EXTINF:0 type="stream" channelId="-1", DISCOVERY SCIENCE
+http://38.131.11.9:1080/play/a0dr
+#EXTINF:0 type="stream" channelId="-1", Animal Planet
+http://38.131.11.9:1080/play/a02h
+#EXTINF:0 type="stream" channelId="-1", A&E HD
+http://38.131.11.9:1080/play/a02q
+#EXTINF:0 type="stream" channelId="-1", Golden Edge
+http://38.131.11.9:1080/play/a0da
+#EXTINF:0 type="stream" channelId="-1", Discovery World
+http://balancer1.iptvmx.com:8081/tecno/DiscoveryWorld.Tecnobyte/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", hispantv
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:0 type="stream" channelId="-1", france 24
+http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master.m3u8
+#EXTINF:0 type="stream" channelId="-1", D PELICULA
+http://38.131.11.9:1080/play/a0e8
+#EXTINF:0 type="stream" channelId="-1", Cinemax
+http://38.131.11.9:1080/play/a01v
+#EXTINF:0 type="stream" channelId="-1", Fox Channel
+http://38.131.11.9:1080/play/a00u
+#EXTINF:0 type="stream" channelId="-1" group="premium", STAR ACTION
+http://177.126.50.94:8000/play/a00t/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="premium", FOXMOVIES
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0 type="stream" channelId="-1", Fox Premium Action
+http://balancer1.iptvmx.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="premium", HBO
+http://38.131.11.9:1080/play/a01u
+#EXTINF:0 type="stream" channelId="-1" group="premium", HBO2
+http://177.126.50.94:8000/play/a00u/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="premium", HBOFAMILY
+http://177.126.50.94:8000/play/a00x/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religiosos", ESNE
+https://zypelive-lh.akamaihd.net/i/default_1@745572/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Religiosos", EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/1152/chunklist.m3u8
+#EXTINF:0 type="stream" channelId="-1", MicroHD
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1105794626.m3u8
+#EXTINF:0 type="stream" channelId="-1", Jasmin TV
+http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", Visit-X tv
+http://stream.visit-x.tv:1935/vxtv/live/playlist.m3u8
