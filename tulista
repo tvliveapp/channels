@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0, fox sports hd
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/116
 #EXTINF:0 type="stream" channelId="-1" group="latino", canal26
 http://live-edge01.telecentro.net.ar/live/26hd-360/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="latino", ftv
