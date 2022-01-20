@@ -11,18 +11,12 @@ http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist_w1940231996.m3u8
 http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="latino", telesur
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="latino", tlx
-http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="premium", pfmtv
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="premium", tmtv
 http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w728448538.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="HONDURAS", TEN Canal 10
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 #EXTINF:0 type="stream" channelId="-1", Galicia TV
 http://america-crtvg.flumotion.com/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", TV Peru
-http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Azteca Honduras
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/3979
 #EXTINF:0 type="stream" channelId="-1" group="HONDURAS", EBENEZER HONDURAS
@@ -31,8 +25,6 @@ http://hds4.worldkast.com:1935/ebenezertv2/ebenezertv2_source/live.m3u8?checkedb
 http://st2.worldkast.com/8004/8004/chunklist_w1315793139.m3u8?checkedby:iptvcat.com
 #EXTINF:0 type="stream" channelId="-1", Canal 10 Honduras
 http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1248000.m3u8?checkedby:iptvcat.com
-#EXTINF:0 type="stream" channelId="-1" group="honduras", HON Canal 6
-https://ott.streann.com/loadbalancer/services/public/channels-secure/5ba026492cdc1a7124d02fb7/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", EDN TV
 https://60417ddeaf0d9.streamlock.net/edntv/videoedntv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", CampusTV
@@ -55,10 +47,8 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
 #EXTINF:0 type="stream" channelId="-1", TV Capital
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?iptvgratis?chile.m3u8
-#EXTINF:0 type="stream" channelId="-1", TLR
+#EXTINF:0 type="stream" channelId="-1", Tele ritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="Religiosos", LAGOSTV
-http://streamer1.streamhost.org:1935/salive/GMIalfah/livestream.m3u8
 #EXTINF:0 type="stream" channelId="-1", Telenord
 http://newyorkstream.ddns.net:1935/telenord12/telenord12/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", TVM
@@ -81,8 +71,6 @@ http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/12
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/67
 #EXTINF:0 type="stream" channelId="-1", Tooncast
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/4257
-#EXTINF:0 type="stream" channelId="-1" group="kids", aztv
-http://azxtv.com/hls/stream.m3u8
 #EXTINF:0 type="stream" channelId="-1", Horrorfy
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:0 type="stream" channelId="-1", MIX 24-7 TROPICAL
@@ -103,10 +91,6 @@ http://45.181.122.17:8000/play/a00a
 http://45.181.122.17:8000/play/a02j
 #EXTINF:0 type="stream" channelId="-1" group="premium", canal 6
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
-#EXTINF:0 type="stream" channelId="-1" group="premium", HBO
-http://45.181.122.17:8000/play/a008
-#EXTINF:0 type="stream" channelId="-1", HBO Signature
-http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/178.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Religiosos", ESNE
 https://zypelive-lh.akamaihd.net/i/default_1@745572/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Religiosos", EWTN
@@ -141,8 +125,6 @@ http://45.181.122.17:8000/play/a02n
 http://45.181.122.17:8000/play/a00o
 #EXTINF:0 type="stream" channelId="-1", ESPN 2
 http://45.181.122.17:8000/play/a00h
-#EXTINF:0 type="stream" channelId="-1", Movistar LALIGA
-http://185.191.126.169:80/live/LfPdKKYE9k/yqCMLZS6h5/30640.m3u8
 #EXTINF:0 type="stream" channelId="-1", retroplustv
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 #EXTINF:0 type="stream" channelId="-1", MOLAHITSTV
@@ -175,10 +157,6 @@ https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
 http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/1524
 #EXTINF:0 type="stream" channelId="-1", Golden Edge
 http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/1536
-#EXTINF:0 type="stream" channelId="-1", HBO Family
-http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/39805
-#EXTINF:0 type="stream" channelId="-1", TLNovelas
-http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/3398
 #EXTINF:0 type="stream" channelId="-1", Telesistemas 3/7
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/3937
 #EXTINF:0 type="stream" channelId="-1", HCH
@@ -193,8 +171,6 @@ http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/4023
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/4267
 #EXTINF:0 type="stream" channelId="-1", HOLA! TV
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/137
-#EXTINF:0 type="stream" channelId="-1", Claro Sports 4 HD
-http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/4007
 #EXTINF:0 type="stream" channelId="-1", CNN ESPAÑOL
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/26
 #EXTINF:0 type="stream" channelId="-1", FOX SPORTS 2 HD
@@ -217,6 +193,10 @@ http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/125
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/64
 #EXTINF:0 type="stream" channelId="-1", Discovery World
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/65
+#EXTINF:0 type="stream" channelId="-1", Discovery Science
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/3960
+#EXTINF:0 type="stream" channelId="-1", Claro Sports 4 HD
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/4007
 #EXTINF:0 type="stream" channelId="-1", ESPN HD
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/89
 #EXTINF:0 type="stream" channelId="-1", Bein Sport La Liga
@@ -233,6 +213,12 @@ http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/4260
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/4261
 #EXTINF:0 type="stream" channelId="-1", Tigo Sports HD
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/3967
+#EXTINF:0 type="stream" channelId="-1" group="premium", HBO
+http://45.181.122.17:8000/play/a008
+#EXTINF:0 type="stream" channelId="-1", HBO Signature
+http://gmsiptv.ddns.net:25461/live/gmsiptv/gmsiptv/178.m3u8
+#EXTINF:0 type="stream" channelId="-1", HBO Family
+http://tv5full.xyz:25461/Ecuaplay73gd/6YvCCNhxFc/39805
 #EXTINF:0 type="stream" channelId="-1", HBO Family HD
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/128
 #EXTINF:0 type="stream" channelId="-1", HBO HD
@@ -253,3 +239,25 @@ http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/4010
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/3949
 #EXTINF:0 type="stream" channelId="-1", Pasiones
 http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/55
+#EXTINF:0 type="stream" channelId="-1", TLC
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/85
+#EXTINF:0 type="stream" channelId="-1", VIDA TV / CORTES
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/4256
+#EXTINF:0 type="stream" channelId="-1", STAR ACTION
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/3878
+#EXTINF:0 type="stream" channelId="-1", STAR COMEDY
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/3920
+#EXTINF:0 type="stream" channelId="-1", STAR FUN 2
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/3912
+#EXTINF:0 type="stream" channelId="-1", STAR FUN
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/3880
+#EXTINF:0 type="stream" channelId="-1", STAR HITS
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/3924
+#EXTINF:0 type="stream" channelId="-1", STAR LIFE
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/3891
+#EXTINF:0 type="stream" channelId="-1", ESPN  +
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/84
+#EXTINF:0 type="stream" channelId="-1", ESPN 2
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/89
+#EXTINF:0 type="stream" channelId="-1", ESPN
+http://iptvhn.sytes.net:25461/dagoberto/r3mQXuDj04/3921p
