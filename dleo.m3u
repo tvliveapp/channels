@@ -1,42 +1,42 @@
 #EXTM3U 
-#EXTINF:-1,group-title="Italia" RAI ITALIA
+#EXTINF:-1,group-title="Espana", RAI ITALIA
 http://210.210.155.69/s/s63/S4/mnf.m3u8
-#EXTINF:-1,group-title="Espana" Esport 3
+#EXTINF:-1,group-title="Espana",Esport 3
 https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist_DVR.m3u8
-#EXTINF:-1,group-title="Espana" TVG Europa
-#EXTINF:-1,group-title="Espana" La 7
+#EXTINF:-1,group-title="Espana",TVG Europa
+#EXTINF:-1,group-title="Espana",La 7
 https://cdnlive.shooowit.net/la7live/smil:channel1.smil/master.m3u8
-#EXTINF:-1,group-title="Italia" Carina TV
+#EXTINF:-1,group-title="Espana", Carina TV
 http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
-#EXTINF:-1,group-title="Espana" Logos TV
+#EXTINF:-1,group-title="Espana",Logos TV
 https://streamer1.streamhost.org/salive/logosH/master.m3u8
-#EXTINF:-1,group-title="Italia" CANALE 8
+#EXTINF:-1,group-title="Espana", CANALE 8
 http://wms.shared.streamshow.it/canale8/canale8/playlist.m3u8
-#EXTINF:-1,group-title="Italia" RAI 3 Sudtirol
+#EXTINF:-1,group-title="Espana", RAI 3 Sudtirol
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
-#EXTINF:-1,group-title="Espana" Diez TV
+#EXTINF:-1,group-title="Espana",Diez TV
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
-#EXTINF:-1,group-title="Italia" RAI NEWS 24
+#EXTINF:-1,group-title="Espana", RAI NEWS 24
 http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8
 #EXTINF:-1,âš½ï¸ALL SPORTS TV
 http://5cf4a2c2512a2.streamlock.net:1935/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1,group-title="Espana" TVE LA 1
+#EXTINF:-1,group-title="Espana",TVE LA 1
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
-#EXTINF:-1,group-title="Espana" TVE LA 2
+#EXTINF:-1,group-title="Espana",TVE LA 2
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
-#EXTINF:-1,group-title="Italia" MotorTrend
+#EXTINF:-1,group-title="Espana", MotorTrend
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_1@810993/master.m3u8
-#EXTINF:-1,group-title="Italia" Nove
+#EXTINF:-1,group-title="Espana", Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 #EXTINF:-1 tvg-logo="http://static.iptv-epg.com/in/VH1.in.png",VH1 Italia
 http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 #EXTINF:-1,Radio Contact (BE)
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
-#EXTINF:-1,group-title="Italia" Frisbee
+#EXTINF:-1,group-title="Espana", Frisbee
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
-#EXTINF:-1,group-title="Italia" Giallo
+#EXTINF:-1,group-title="Espana", Giallo
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
-#EXTINF:-1,group-title="Italia" Dmax IT - OFFLINE
+#EXTINF:-1,group-title="Espana", Dmax IT - OFFLINE
 https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
 #EXTINF:-1 tvg-logo="https://f0.pngfuel.com/png/955/252/white-and-multicolored-music-logo-png-clip-art.png",HqM Baladas
 https://livelist01.yowi.tv/lista/5d7d2c21e0ec7a8a99fd1fdbc52cbdc0782f77fc/master.m3u8
@@ -1609,7 +1609,7 @@ https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/55b179af994403942f3061d6/colorLogoPNG.png" group-title="INTERNACIONAL 2",NEWSMAX
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c70b130-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4d1f561-e31a-46a0-aa0d-b9fd0b9bfe92&userId=&serverSideAds=true
 #EXTM3U
-#EXTINF:-1 group-title="Italia",real time
+#EXTINF:-1 group-title="Espana",,real time
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_4@810998/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://innovatv.live/posters/1602293222276.png" group-title="K.PREMIUM",CINECANAL
