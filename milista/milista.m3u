@@ -1,3 +1,11 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="skysportslaliga" tvg-logo="" group-title="tvplus", skysportslaliga 
-proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Ftvporinternet.php%3Fstream%3D37_
+proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol.php%3Fstream%3D37_
+#EXTINF:-1 tvg-name="telemundointernacional" tvg-logo="" group-title="tvplus", telemundointernacional 
+proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Fstream.php%3Fcanal%3Dtelemundointernacional%26target%3D1
+#EXTINF:-1 tvg-name="aztecadeportes" tvg-logo="" group-title="tvplus", aztecadeportes 
+proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol.php%3Fstream%3D34_
+#EXTINF:-1 tvg-name="liga1max" tvg-logo="" group-title="tvplus", liga1max 
+proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol.php%3Fstream%3D22_
+#EXTINF:-1 tvg-name="latina" tvg-logo="" group-title="tvplus", latina 
+proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Fstream.php%3Fcanal%3Dlatina%26target%3D1
