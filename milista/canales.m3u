@@ -1696,6 +1696,7 @@ https://linear-384.frequency.stream/mt/studio/384/hls/master/playlist.m3u8
 https://linear-385.frequency.stream/mt/studio/385/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Bics DEPORTES", FUTBOL
 https://linear-386.frequency.stream/mt/studio/386/hls/master/playlist.m3u8
+#EXTM3U
 #EXTINF:-1 tvg-name="skysportslaliga" tvg-logo="" group-title="tvplus", skysportslaliga 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol.php%3Fstream%3D37_
 #EXTINF:-1 tvg-name="telemundointernacional" tvg-logo="" group-title="tvplus", telemundointernacional 
@@ -1810,108 +1811,109 @@ proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol.php%
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Fstream.php%3Fcanal%3Dstarchannel%26target%3D1
 #EXTINF:-1 tvg-name="espn2mexico" tvg-logo="" group-title="tvplus", espn2mexico 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol.php%3Fstream%3D20_
-#EXTINF:-1 tvg-name="skysportslaligaopc 2" tvg-logo="" group-title="tvplus", skysportslaligaopc 2 
+#EXTINF:-1 tvg-name="skysportslaliga opc 2" tvg-logo="" group-title="tvplus", skysportslaliga opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D37_
-#EXTINF:-1 tvg-name="skysportslaligaopc 3" tvg-logo="" group-title="tvplus", skysportslaligaopc 3 
+#EXTINF:-1 tvg-name="skysportslaliga opc 3" tvg-logo="" group-title="tvplus", skysportslaliga opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D37_
-#EXTINF:-1 tvg-name="aztecadeportesopc 2" tvg-logo="" group-title="tvplus", aztecadeportesopc 2 
+#EXTINF:-1 tvg-name="aztecadeportes  opc 2" tvg-logo="" group-title="tvplus", aztecadeportes  opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D34_
-#EXTINF:-1 tvg-name="aztecadeportesopc 3" tvg-logo="" group-title="tvplus", aztecadeportesopc 3 
+#EXTINF:-1 tvg-name="aztecadeportes opc 3" tvg-logo="" group-title="tvplus", aztecadeportes opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D34_
-#EXTINF:-1 tvg-name="liga1maxopc 2" tvg-logo="" group-title="tvplus", liga1maxopc 2 
+#EXTINF:-1 tvg-name="liga1max opc 2" tvg-logo="" group-title="tvplus", liga1max opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D22_
-#EXTINF:-1 tvg-name="liga1maxopc 3" tvg-logo="" group-title="tvplus", liga1maxopc 3 
+#EXTINF:-1 tvg-name="liga1max opc 3" tvg-logo="" group-title="tvplus", liga1max opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D22_
-#EXTINF:-1 tvg-name="tycsportsopc 2" tvg-logo="" group-title="tvplus", tycsportsopc 2 
+#EXTINF:-1 tvg-name="tycsports opc 2" tvg-logo="" group-title="tvplus", tycsports opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D6_
-#EXTINF:-1 tvg-name="tycsportsopc 3" tvg-logo="" group-title="tvplus", tycsportsopc 3 
+#EXTINF:-1 tvg-name="tycsports opc 3" tvg-logo="" group-title="tvplus", tycsports opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D6_
-#EXTINF:-1 tvg-name="foxsportspremiumopc 2" tvg-logo="" group-title="tvplus", foxsportspremiumopc 2 
+#EXTINF:-1 tvg-name="foxsportspremium opc 2" tvg-logo="" group-title="tvplus", foxsportspremium opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D12_
-#EXTINF:-1 tvg-name="foxsportspremiumopc 3" tvg-logo="" group-title="tvplus", foxsportspremiumopc 3 
+#EXTINF:-1 tvg-name="foxsportspremium opc 3" tvg-logo="" group-title="tvplus", foxsportspremium opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D12_
-#EXTINF:-1 tvg-name="espn4opc 2" tvg-logo="" group-title="tvplus", espn4opc 2 
+#EXTINF:-1 tvg-name="espn4 opc 2" tvg-logo="" group-title="tvplus", espn4 opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D23_
-#EXTINF:-1 tvg-name="espn4opc 3" tvg-logo="" group-title="tvplus", espn4opc 3 
+#EXTINF:-1 tvg-name="espn4 opc 3" tvg-logo="" group-title="tvplus", espn4 opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D23_
-#EXTINF:-1 tvg-name="foxsportsopc 2" tvg-logo="" group-title="tvplus", foxsportsopc 2 
+#EXTINF:-1 tvg-name="foxsports opc 2" tvg-logo="" group-title="tvplus", foxsports opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D8_
-#EXTINF:-1 tvg-name="foxsportsopc 3" tvg-logo="" group-title="tvplus", foxsportsopc 3 
+#EXTINF:-1 tvg-name="foxsports opc 3" tvg-logo="" group-title="tvplus", foxsports opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D8_
-#EXTINF:-1 tvg-name="foxsports2opc 2" tvg-logo="" group-title="tvplus", foxsports2opc 2 
+#EXTINF:-1 tvg-name="foxsports2 opc 2" tvg-logo="" group-title="tvplus", foxsports2 opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D9_
-#EXTINF:-1 tvg-name="foxsports2opc 3" tvg-logo="" group-title="tvplus", foxsports2opc 3 
+#EXTINF:-1 tvg-name="foxsports2 opc 3" tvg-logo="" group-title="tvplus", foxsports2 opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D9_
-#EXTINF:-1 tvg-name="directvsportsopc 2" tvg-logo="" group-title="tvplus", directvsportsopc 2 
+#EXTINF:-1 tvg-name="directvsports opc 2" tvg-logo="" group-title="tvplus", directvsports opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D3_
-#EXTINF:-1 tvg-name="directvsportsopc 3" tvg-logo="" group-title="tvplus", directvsportsopc 3 
+#EXTINF:-1 tvg-name="directvsports opc 3" tvg-logo="" group-title="tvplus", directvsports opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D3_
-#EXTINF:-1 tvg-name="espnmexicoopc 2" tvg-logo="" group-title="tvplus", espnmexicoopc 2 
+#EXTINF:-1 tvg-name="espnmexico opc 2" tvg-logo="" group-title="tvplus", espnmexico opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D19_
-#EXTINF:-1 tvg-name="espnmexicoopc 3" tvg-logo="" group-title="tvplus", espnmexicoopc 3 
+#EXTINF:-1 tvg-name="espnmexico opc 3" tvg-logo="" group-title="tvplus", espnmexico opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D19_
-#EXTINF:-1 tvg-name="espnopc 2" tvg-logo="" group-title="tvplus", espnopc 2 
+#EXTINF:-1 tvg-name="espn opc 2" tvg-logo="" group-title="tvplus", espn opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D13_
-#EXTINF:-1 tvg-name="espnopc 3" tvg-logo="" group-title="tvplus", espnopc 3 
+#EXTINF:-1 tvg-name="espn opc 3" tvg-logo="" group-title="tvplus", espn opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D13_
-#EXTINF:-1 tvg-name="tudnopc 2" tvg-logo="" group-title="tvplus", tudnopc 2 
+#EXTINF:-1 tvg-name="tudn opc 2" tvg-logo="" group-title="tvplus", tudn opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D1_
-#EXTINF:-1 tvg-name="tudnopc 3" tvg-logo="" group-title="tvplus", tudnopc 3 
+#EXTINF:-1 tvg-name="tudn opc 3" tvg-logo="" group-title="tvplus", tudn opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D1_
-#EXTINF:-1 tvg-name="espn2opc 2" tvg-logo="" group-title="tvplus", espn2opc 2 
+#EXTINF:-1 tvg-name="espn2 opc 2" tvg-logo="" group-title="tvplus", espn2 opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D14_
-#EXTINF:-1 tvg-name="espn2opc 3" tvg-logo="" group-title="tvplus", espn2opc 3 
+#EXTINF:-1 tvg-name="espn2 opc 3" tvg-logo="" group-title="tvplus", espn2 opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D14_
-#EXTINF:-1 tvg-name="foxsports2mexicoopc 2" tvg-logo="" group-title="tvplus", foxsports2mexicoopc 2 
+#EXTINF:-1 tvg-name="foxsports2mexico opc 2" tvg-logo="" group-title="tvplus", foxsports2mexico opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D17_
-#EXTINF:-1 tvg-name="foxsports2mexicoopc 3" tvg-logo="" group-title="tvplus", foxsports2mexicoopc 3 
+#EXTINF:-1 tvg-name="foxsports2mexico opc 3" tvg-logo="" group-title="tvplus", foxsports2mexico opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D17_
-#EXTINF:-1 tvg-name="foxsports3opc 2" tvg-logo="" group-title="tvplus", foxsports3opc 2 
+#EXTINF:-1 tvg-name="foxsports3 opc 2" tvg-logo="" group-title="tvplus", foxsports3 opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D10_
-#EXTINF:-1 tvg-name="foxsports3opc 3" tvg-logo="" group-title="tvplus", foxsports3opc 3 
+#EXTINF:-1 tvg-name="foxsports3 opc 3" tvg-logo="" group-title="tvplus", foxsports3 opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D10_
-#EXTINF:-1 tvg-name="liga1opc 2" tvg-logo="" group-title="tvplus", liga1opc 2 
+#EXTINF:-1 tvg-name="liga1 opc 2" tvg-logo="" group-title="tvplus", liga1 opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D39_
-#EXTINF:-1 tvg-name="liga1opc 3" tvg-logo="" group-title="tvplus", liga1opc 3 
+#EXTINF:-1 tvg-name="liga1 opc 3" tvg-logo="" group-title="tvplus", liga1 opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D39_
-#EXTINF:-1 tvg-name="directvsports2opc 2" tvg-logo="" group-title="tvplus", directvsports2opc 2 
+#EXTINF:-1 tvg-name="directvsports2 opc 2" tvg-logo="" group-title="tvplus", directvsports2 opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D7_
-#EXTINF:-1 tvg-name="directvsports2opc 3" tvg-logo="" group-title="tvplus", directvsports2opc 3 
+#EXTINF:-1 tvg-name="directvsports2 opc 3" tvg-logo="" group-title="tvplus", directvsports2 opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D7_
-#EXTINF:-1 tvg-name="espn3opc 2" tvg-logo="" group-title="tvplus", espn3opc 2 
+#EXTINF:-1 tvg-name="espn3 opc 2" tvg-logo="" group-title="tvplus", espn3 opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D15_
-#EXTINF:-1 tvg-name="espn3opc 3" tvg-logo="" group-title="tvplus", espn3opc 3 
+#EXTINF:-1 tvg-name="espn3 opc 3" tvg-logo="" group-title="tvplus", espn3 opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D15_
-#EXTINF:-1 tvg-name="espn3mexicoopc 2" tvg-logo="" group-title="tvplus", espn3mexicoopc 2 
+#EXTINF:-1 tvg-name="espn3mexico opc 2" tvg-logo="" group-title="tvplus", espn3mexico opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D21_
-#EXTINF:-1 tvg-name="espn3mexicoopc 3" tvg-logo="" group-title="tvplus", espn3mexicoopc 3 
+#EXTINF:-1 tvg-name="espn3mexico opc 3" tvg-logo="" group-title="tvplus", espn3mexico opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D21_
-#EXTINF:-1 tvg-name="tntsportschileopc 2" tvg-logo="" group-title="tvplus", tntsportschileopc 2 
+#EXTINF:-1 tvg-name="tntsportschile opc 2" tvg-logo="" group-title="tvplus", tntsportschile opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D35_
-#EXTINF:-1 tvg-name="tntsportschileopc 3" tvg-logo="" group-title="tvplus", tntsportschileopc 3 
+#EXTINF:-1 tvg-name="tntsportschile opc 3" tvg-logo="" group-title="tvplus", tntsportschile opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D35_
-#EXTINF:-1 tvg-name="foxsportsmexicoopc 2" tvg-logo="" group-title="tvplus", foxsportsmexicoopc 2 
+#EXTINF:-1 tvg-name="foxsportsmexico opc 2" tvg-logo="" group-title="tvplus", foxsportsmexico opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D16_
-#EXTINF:-1 tvg-name="foxsportsmexicoopc 3" tvg-logo="" group-title="tvplus", foxsportsmexicoopc 3 
+#EXTINF:-1 tvg-name="foxsportsmexico opc 3" tvg-logo="" group-title="tvplus", foxsportsmexico opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D16_
-#EXTINF:-1 tvg-name="directvsportsplusopc 2" tvg-logo="" group-title="tvplus", directvsportsplusopc 2 
+#EXTINF:-1 tvg-name="directvsportsplus opc 2" tvg-logo="" group-title="tvplus", directvsportsplus opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D11_
-#EXTINF:-1 tvg-name="directvsportsplusopc 3" tvg-logo="" group-title="tvplus", directvsportsplusopc 3 
+#EXTINF:-1 tvg-name="directvsportsplus opc 3" tvg-logo="" group-title="tvplus", directvsportsplus opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D11_
-#EXTINF:-1 tvg-name="daznlaligaopc 2" tvg-logo="" group-title="tvplus", daznlaligaopc 2 
+#EXTINF:-1 tvg-name="daznlaliga opc 2" tvg-logo="" group-title="tvplus", daznlaliga opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D28_
-#EXTINF:-1 tvg-name="daznlaligaopc 3" tvg-logo="" group-title="tvplus", daznlaligaopc 3 
+#EXTINF:-1 tvg-name="daznlaliga opc 3" tvg-logo="" group-title="tvplus", daznlaliga opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D28_
-#EXTINF:-1 tvg-name="daznf1opc 2" tvg-logo="" group-title="tvplus", daznf1opc 2 
+#EXTINF:-1 tvg-name="daznf1 opc 2" tvg-logo="" group-title="tvplus", daznf1 opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D27_
-#EXTINF:-1 tvg-name="daznf1opc 3" tvg-logo="" group-title="tvplus", daznf1opc 3 
+#EXTINF:-1 tvg-name="daznf1 opc 3" tvg-logo="" group-title="tvplus", daznf1 opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D27_
-#EXTINF:-1 tvg-name="foxsports3mexicoopc 2" tvg-logo="" group-title="tvplus", foxsports3mexicoopc 2 
+#EXTINF:-1 tvg-name="foxsports3mexico opc 2" tvg-logo="" group-title="tvplus", foxsports3mexico opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D18_
-#EXTINF:-1 tvg-name="foxsports3mexicoopc 3" tvg-logo="" group-title="tvplus", foxsports3mexicoopc 3 
+#EXTINF:-1 tvg-name="foxsports3mexico opc 3" tvg-logo="" group-title="tvplus", foxsports3mexico opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D18_
-#EXTINF:-1 tvg-name="espn2mexicoopc 2" tvg-logo="" group-title="tvplus", espn2mexicoopc 2 
+#EXTINF:-1 tvg-name="espn2mexico opc 2" tvg-logo="" group-title="tvplus", espn2mexico opc 2 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol2.php%3Fstream%3D20_
-#EXTINF:-1 tvg-name="espn2mexicoopc 3" tvg-logo="" group-title="tvplus", espn2mexicoopc 3 
+#EXTINF:-1 tvg-name="espn2mexico opc 3" tvg-logo="" group-title="tvplus", espn2mexico opc 3 
 proxyIP/proxy?url=https%3A%2F%2Fdeportes.ksdjugfsddeports.com%2Flibrefutbol3.php%3Fstream%3D20_
+
 
