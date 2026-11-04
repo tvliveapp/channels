@@ -1,1 +1,2 @@
-spinoff https://spinoff.link/coleccion/lista.m3u
+spinoff    https://spinoff.link/coleccion/lista.m3u
+canales2   https://raw.githubusercontent.com/tvliveapp/channels/refs/heads/master/milista/canales2
