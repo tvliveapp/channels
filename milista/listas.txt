@@ -1,3 +1,3 @@
 spinoff    https://spinoff.link/coleccion/lista.m3u
 canales2   https://raw.githubusercontent.com/tvliveapp/channels/refs/heads/master/milista/canales2
-deportes_free-codecs   blob:https://www.free-codecs.com/06a5caf2-a932-4f1c-962d-f4969df884b2
+
