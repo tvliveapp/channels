@@ -2,4 +2,4 @@ spinoff    https://spinoff.link/coleccion/lista.m3u
 canales2   https://raw.githubusercontent.com/tvliveapp/channels/refs/heads/master/milista/canales2
 free_codecs_sports  https://raw.githubusercontent.com/tvliveapp/channels/refs/heads/master/milista/popular-sports-iptv.m3u
 fre_codes_entretenimiento https://raw.githubusercontent.com/tvliveapp/channels/refs/heads/master/milista/entretenimiento.m3u
-
+srregio https://srregio.online/10326/playlist.m3u
