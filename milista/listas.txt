@@ -3,3 +3,4 @@ canales2   https://raw.githubusercontent.com/tvliveapp/channels/refs/heads/maste
 free_codecs_sports  https://raw.githubusercontent.com/tvliveapp/channels/refs/heads/master/milista/popular-sports-iptv.m3u
 fre_codes_entretenimiento https://raw.githubusercontent.com/tvliveapp/channels/refs/heads/master/milista/entretenimiento.m3u
 srregio https://srregio.online/10326/playlist.m3u
+Xsuper-prueba https://raw.githubusercontent.com/tvliveapp/channels/refs/heads/master/milista/xsuperTest.m3u
