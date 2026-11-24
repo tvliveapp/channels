@@ -5,5 +5,6 @@ fre_codes_entretenimiento https://raw.githubusercontent.com/tvliveapp/channels/r
 srregio https://srregio.online/10326/playlist.m3u
 Xsuper-prueba https://raw.githubusercontent.com/tvliveapp/channels/refs/heads/master/milista/xsuperTest.m3u
 corgol  http://181.78.211.244:8005/playlist.m3u8
+corgolTv https://www.corgol.com/television/CorgolTv.m3u
 delmi http://delmi.atwebpages.com/lista.m3u
 iptv-org  https://iptv-org.github.io/iptv/index.m3u
