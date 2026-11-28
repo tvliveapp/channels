@@ -8,3 +8,7 @@ corgol  http://181.78.211.244:8005/playlist.m3u8
 corgolTv https://www.corgol.com/television/CorgolTv.m3u
 delmi http://delmi.atwebpages.com/lista.m3u
 iptv-org  https://iptv-org.github.io/iptv/index.m3u
+total https://m3u.cl/lista/total.m3u?fbclid=IwY2xjawV3DyFleHRuA2FlbQIxMQBwZG9mBXNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABH1gqWH0Izn1grA0AY09-i_KRmGfP5y_7j-arRKLumFXCY0I4YRATs34v-7jc_aem_hLielOBbKNoKK_nAsGtyQw
+meganicxgv https://meganicxgv.lat/get.php?username=Pepe&password=1234&type=m3u_plus&output=ts
+androidLatinos  https://raw.githubusercontent.com/JMigue85/IPTV-SV/refs/heads/main/IPTVSV.m3u
+AndroidLatinos2 https://android-latinos.com/tv/tv.php
